@@ -5,6 +5,7 @@
         "optionB": "檔案的機密等級分類",
         "optionC": "消防設備",
         "optionD": "門禁管制",
+        "answerDesc": "變更光碟機速度",
         "answerNo": "A"
     },
     {
@@ -13,6 +14,7 @@
         "optionB": "蓄意破壞",
         "optionC": "停電",
         "optionD": "電腦病毒",
+        "answerDesc": "蓄意破壞",
         "answerNo": "B"
     },
     {
@@ -21,6 +23,7 @@
         "optionB": "裝設不斷電設置",
         "optionC": "定期保養電腦",
         "optionD": "建置資訊安全管制系統",
+        "answerDesc": "建置資訊安全管制系統",
         "answerNo": "D"
     },
     {
@@ -29,6 +32,7 @@
         "optionB": "採用合法軟體",
         "optionC": "小問題組合成大問題",
         "optionD": "可確認檔案的傳輸",
+        "answerDesc": "小問題組合成大問題",
         "answerNo": "C"
     },
     {
@@ -37,6 +41,7 @@
         "optionB": "經常清潔，不用除濕",
         "optionC": "設置不斷電設備",
         "optionD": "設置空調設備",
+        "answerDesc": "經常清潔，不用除濕",
         "answerNo": "B"
     },
     {
@@ -45,6 +50,7 @@
         "optionB": "資料經常備份",
         "optionC": "常駐防毒程式",
         "optionD": "備份資料存放於不同地點",
+        "answerDesc": "不定期格式化硬碟",
         "answerNo": "A"
     },
     {
@@ -53,6 +59,7 @@
         "optionB": "資料備份",
         "optionC": "每個使用者的使用權限相同",
         "optionD": "定期保存日誌檔",
+        "answerDesc": "每個使用者的使用權限相同",
         "answerNo": "C"
     },
     {
@@ -61,6 +68,7 @@
         "optionB": "安裝防毒軟體",
         "optionC": "設定密碼",
         "optionD": "定期備份",
+        "answerDesc": "定期備份",
         "answerNo": "D"
     },
     {
@@ -69,6 +77,7 @@
         "optionB": "經常變更密碼",
         "optionC": "硬體設鎖",
         "optionD": "監控系統使用人員",
+        "answerDesc": "定期備份",
         "answerNo": "A"
     },
     {
@@ -77,6 +86,7 @@
         "optionB": "密碼中最好包含字母及非字母字元",
         "optionC": "用你名字或帳號當作密碼",
         "optionD": "用你個人的資料當作密碼",
+        "answerDesc": "密碼中最好包含字母及非字母字元",
         "answerNo": "B"
     },
     {
@@ -85,6 +95,7 @@
         "optionB": "資料加密",
         "optionC": "密碼變更",
         "optionD": "公佈之電子文件設定成唯讀檔",
+        "answerDesc": "系統操作者統一保管密碼",
         "answerNo": "A"
     },
     {
@@ -93,6 +104,7 @@
         "optionB": "密碼越長越安全",
         "optionC": "常更換密碼",
         "optionD": "用電話當密碼",
+        "answerDesc": "用電話當密碼",
         "answerNo": "D"
     },
     {
@@ -101,6 +113,7 @@
         "optionB": "設定密碼",
         "optionC": "設置防火牆",
         "optionD": "裝設空調設備",
+        "answerDesc": "裝設空調設備",
         "answerNo": "D"
     },
     {
@@ -109,6 +122,7 @@
         "optionB": "與專業儲存公司合作",
         "optionC": "儲存在防火除溼之保險櫃",
         "optionD": "儲存在同一部電腦的不同硬碟中",
+        "answerDesc": "儲存在同一部電腦的不同硬碟中",
         "answerNo": "D"
     },
     {
@@ -117,6 +131,7 @@
         "optionB": "保留日誌檔",
         "optionC": "不斷電系統",
         "optionD": "管制上機次數與時間",
+        "answerDesc": "不斷電系統",
         "answerNo": "C"
     },
     {
@@ -125,6 +140,7 @@
         "optionB": "加強機房門禁管制",
         "optionC": "資料檔案加密",
         "optionD": "明確劃分使用者權限",
+        "answerDesc": "未設定使用權限",
         "answerNo": "A"
     },
     {
@@ -133,6 +149,7 @@
         "optionB": "一致性",
         "optionC": "性別",
         "optionD": "地區別",
+        "answerDesc": "性別",
         "answerNo": "C"
     },
     {
@@ -141,6 +158,7 @@
         "optionB": "一致性",
         "optionC": "性別",
         "optionD": "地區別",
+        "answerDesc": "地區別",
         "answerNo": "D"
     },
     {
@@ -149,6 +167,7 @@
         "optionB": "一致性",
         "optionC": "性別",
         "optionD": "地區別",
+        "answerDesc": "正確性",
         "answerNo": "A"
     },
     {
@@ -157,6 +176,7 @@
         "optionB": "制壓( Super zapping)",
         "optionC": "邏輯炸彈 (Logic bombs)",
         "optionD": "特洛依木馬( Trojan horse)",
+        "answerDesc": "邏輯炸彈 (Logic bombs)",
         "answerNo": "C"
     },
     {
@@ -165,6 +185,7 @@
         "optionB": "安全超文字傳輸協定(S- HTTP)",
         "optionC": "BBS 傳輸協定",
         "optionD": "安全電子交易(SET) 協定",
+        "answerDesc": "安全電子交易(SET) 協定",
         "answerNo": "D"
     },
     {
@@ -173,6 +194,7 @@
         "optionB": "防毒軟體",
         "optionC": "閘道器",
         "optionD": "路由器",
+        "answerDesc": "防火牆",
         "answerNo": "A"
     },
     {
@@ -181,6 +203,7 @@
         "optionB": "防火牆能管制封包的流向",
         "optionC": "防火牆可以管制外部網路進入內部系統",
         "optionD": "防火牆可以防止任何病毒的入侵",
+        "answerDesc": "防火牆可以防止任何病毒的入侵",
         "answerNo": "D"
     },
     {
@@ -189,6 +212,7 @@
         "optionB": "效能",
         "optionC": "價格",
         "optionD": "體積",
+        "answerDesc": "體積",
         "answerNo": "D"
     },
     {
@@ -197,6 +221,7 @@
         "optionB": "無法開機",
         "optionC": "無法上網",
         "optionD": "停電",
+        "answerDesc": "停電",
         "answerNo": "D"
     },
     {
@@ -205,6 +230,7 @@
         "optionB": "中央處理器等級太高",
         "optionC": "螢幕太小",
         "optionD": "感染病毒",
+        "answerDesc": "感染病毒",
         "answerNo": "D"
     },
     {
@@ -213,6 +239,7 @@
         "optionB": "可隨意拷貝他人軟體",
         "optionC": "不下載來路不明的軟體",
         "optionD": "定期更新病毒碼",
+        "answerDesc": "可隨意拷貝他人軟體",
         "answerNo": "B"
     },
     {
@@ -221,6 +248,7 @@
         "optionB": "檔案儲存日期改變",
         "optionC": "螢幕出現亂碼",
         "optionD": "電源電壓變小",
+        "answerDesc": "電源電壓變小",
         "answerNo": "D"
     },
     {
@@ -229,6 +257,7 @@
         "optionB": "二種病毒",
         "optionC": "三種病毒",
         "optionD": "多種病毒",
+        "answerDesc": "多種病毒",
         "answerNo": "D"
     },
     {
@@ -237,6 +266,7 @@
         "optionB": "公司集中電腦操作",
         "optionC": "定期備份",
         "optionD": "勤於更新病毒碼",
+        "answerDesc": "公司集中電腦操作",
         "answerNo": "B"
     },
     {
@@ -245,6 +275,7 @@
         "optionB": "傳送電子郵件",
         "optionC": "圖形輸出",
         "optionD": "資料列印",
+        "answerDesc": "傳送電子郵件",
         "answerNo": "B"
     },
     {
@@ -253,6 +284,7 @@
         "optionB": "潛伏",
         "optionC": "發作",
         "optionD": "自我消失",
+        "answerDesc": "自我消失",
         "answerNo": "D"
     },
     {
@@ -261,6 +293,7 @@
         "optionB": "鍵盤",
         "optionC": "隨身碟",
         "optionD": "滑鼠",
+        "answerDesc": "隨身碟",
         "answerNo": "C"
     },
     {
@@ -269,6 +302,7 @@
         "optionB": "個人數位助理",
         "optionC": "平板電腦",
         "optionD": "滑鼠",
+        "answerDesc": "滑鼠",
         "answerNo": "D"
     },
     {
@@ -277,6 +311,7 @@
         "optionB": "能使操作者中毒",
         "optionC": "能自我複製",
         "optionD": "能破壞硬碟資料",
+        "answerDesc": "能使操作者中毒",
         "answerNo": "B"
     },
     {
@@ -285,6 +320,7 @@
         "optionB": "電腦遊戲",
         "optionC": "電腦試算表",
         "optionD": "電腦文書處理",
+        "answerDesc": "電腦病毒",
         "answerNo": "A"
     },
     {
@@ -293,6 +329,7 @@
         "optionB": "按 Ctrl+Alt+Del 鍵重新開機",
         "optionC": "更換光碟機",
         "optionD": "更換主記憶體",
+        "answerDesc": "進行解毒",
         "answerNo": "A"
     },
     {
@@ -301,6 +338,7 @@
         "optionB": "PROM",
         "optionC": "EPROM",
         "optionD": "RAM",
+        "answerDesc": "RAM",
         "answerNo": "D"
     },
     {
@@ -309,6 +347,7 @@
         "optionB": "開機型病毒",
         "optionC": "網路型病毒",
         "optionD": "檔案型病毒",
+        "answerDesc": "檔案型病毒",
         "answerNo": "D"
     },
     {
@@ -317,6 +356,7 @@
         "optionB": "回傳給本人",
         "optionC": "加密",
         "optionD": "副本",
+        "answerDesc": "加密",
         "answerNo": "C"
     },
     {
@@ -325,6 +365,7 @@
         "optionB": "破壞軟體",
         "optionC": "潛伏記憶體中",
         "optionD": "隨身碟燒毀",
+        "answerDesc": "隨身碟燒毀",
         "answerNo": "D"
     },
     {
@@ -333,6 +374,7 @@
         "optionB": "天然災害",
         "optionC": "惡意破壞",
         "optionD": "交通事故",
+        "answerDesc": "惡意破壞",
         "answerNo": "C"
     },
     {
@@ -341,6 +383,7 @@
         "optionB": "破壞電腦運作的程式",
         "optionC": "感染黴菌的資料",
         "optionD": "毒藥",
+        "answerDesc": "破壞電腦運作的程式",
         "answerNo": "B"
     },
     {
@@ -349,6 +392,7 @@
         "optionB": "絕對不使用網路",
         "optionC": "技術性管制",
         "optionD": "警衛、門禁",
+        "answerDesc": "絕對不使用網路",
         "answerNo": "B"
     },
     {
@@ -357,6 +401,7 @@
         "optionB": "資料",
         "optionC": "軟體系統",
         "optionD": "差假記錄",
+        "answerDesc": "差假記錄",
         "answerNo": "D"
     },
     {
@@ -365,6 +410,7 @@
         "optionB": "回傳給本人",
         "optionC": "加密",
         "optionD": "密件副本",
+        "answerDesc": "確認發信人身分",
         "answerNo": "A"
     },
     {
@@ -373,6 +419,7 @@
         "optionB": "開機型病毒",
         "optionC": "檔案型病毒",
         "optionD": "CPU 病毒",
+        "answerDesc": "檔案型病毒",
         "answerNo": "C"
     },
     {
@@ -381,6 +428,7 @@
         "optionB": "病毒會寄生在正常程式中，伺機將自己複製並感染給其它正常程式",
         "optionC": "有些病毒發作時會降低 CPU 的執行速度",
         "optionD": "當病毒感染正常程式中，並不一定會立即發作，有時須條件成立時，才會發病",
+        "answerDesc": "病毒一旦病發就一定無法解毒",
         "answerNo": "A"
     },
     {
@@ -389,6 +437,7 @@
         "optionB": "電腦病毒只存在記憶體、開機磁區及執行檔中",
         "optionC": "受病毒感染的檔案，不執行也會發作",
         "optionD": "遇到開機型病毒，只要無毒的開機隨身碟重新開機後即可清除",
+        "answerDesc": "一般電腦病毒可以分為開機 型、檔案型及混合型三種",
         "answerNo": "A"
     },
     {
@@ -397,6 +446,7 @@
         "optionB": "經常備份磁碟資料",
         "optionC": "在執行程式過程中，重要資料分別存在硬碟及 USB 隨身碟上",
         "optionD": "備份資料存放於不同地點",
+        "answerDesc": "經常對磁碟作格式化動作(Format)",
         "answerNo": "A"
     },
     {
@@ -405,6 +455,7 @@
         "optionB": "用乾淨無毒的開機系統開機",
         "optionC": "不使用來路不明之軟體",
         "optionD": "電腦上加裝防毒軟體",
+        "answerDesc": "只要將被感染之程式刪除就不會再被感染",
         "answerNo": "A"
     },
     {
@@ -413,6 +464,7 @@
         "optionB": "備份",
         "optionC": "規格化",
         "optionD": "用清潔片清洗",
+        "answerDesc": "備份",
         "answerNo": "B"
     },
     {
@@ -421,6 +473,7 @@
         "optionB": "中毒的檔案，由於病毒程式的寄居，檔案通常會變大",
         "optionC": "主記憶體無毒，此時 COPY 無毒的檔案到 USB 隨身碟， 將使其中毒",
         "optionD": "檔案型病毒，將隨著檔案的執行，載入記憶體",
+        "answerDesc": "主記憶體無毒，此時 COPY 無毒的檔案到 USB 隨身碟， 將使其中毒",
         "answerNo": "C"
     },
     {
@@ -429,6 +482,7 @@
         "optionB": "程式產生",
         "optionC": "記憶體突變",
         "optionD": "細菌感染",
+        "answerDesc": "程式產生",
         "answerNo": "B"
     },
     {
@@ -437,6 +491,7 @@
         "optionB": "電腦病毒",
         "optionC": "P2 P 軟體",
         "optionD": "備份程式",
+        "answerDesc": "間諜程式",
         "answerNo": "A"
     },
     {
@@ -445,6 +500,7 @@
         "optionB": "定期保養設備",
         "optionC": "允許使用者因個人方便隨意搬移設備",
         "optionD": "使用電源穩壓器",
+        "answerDesc": "允許使用者因個人方便隨意搬移設備",
         "answerNo": "C"
     },
     {
@@ -453,6 +509,7 @@
         "optionB": "網路系統",
         "optionC": "廣播系統",
         "optionD": "保全系統",
+        "answerDesc": "不斷電系統",
         "answerNo": "A"
     },
     {
@@ -461,6 +518,7 @@
         "optionB": "傳送檔案",
         "optionC": "維護電源品質",
         "optionD": "通訊協定",
+        "answerDesc": "維護電源品質",
         "answerNo": "C"
     },
     {
@@ -469,6 +527,7 @@
         "optionB": "泡沫滅火器",
         "optionC": "水",
         "optionD": "乾粉滅火器",
+        "answerDesc": "二氧化碳滅火器",
         "answerNo": "A"
     },
     {
@@ -477,6 +536,7 @@
         "optionB": "應用層",
         "optionC": "網路層",
         "optionD": "資料鏈結層",
+        "answerDesc": "實體層",
         "answerNo": "A"
     },
     {
@@ -485,6 +545,7 @@
         "optionB": "應用層",
         "optionC": "傳輸層",
         "optionD": "資料鏈結層",
+        "answerDesc": "資料鏈結層",
         "answerNo": "D"
     },
     {
@@ -493,6 +554,7 @@
         "optionB": "53",
         "optionC": "80",
         "optionD": "110",
+        "answerDesc": "22",
         "answerNo": "A"
     },
     {
@@ -501,6 +563,7 @@
         "optionB": "25",
         "optionC": "24",
         "optionD": "22",
+        "answerDesc": "26",
         "answerNo": "A"
     },
     {
@@ -509,6 +572,7 @@
         "optionB": "公用事業",
         "optionC": "農林漁牧業",
         "optionD": "能源密集產業",
+        "answerDesc": "能源密集產業",
         "answerNo": "D"
     },
     {
@@ -517,6 +581,7 @@
         "optionB": "影印機當 15 分鐘無人使用時， 自動進入省電模式",
         "optionC": "電視機勿背著窗戶，並避免太陽直射",
         "optionD": "短程不開汽車，以儘量搭乘公車、騎單車或步行為宜",
+        "answerDesc": "電冰箱溫度長時間設定在強冷或急冷",
         "answerNo": "A"
     },
     {
@@ -525,6 +590,7 @@
         "optionB": "3",
         "optionC": "5",
         "optionD": "7",
+        "answerDesc": "5",
         "answerNo": "C"
     },
     {
@@ -533,6 +599,7 @@
         "optionB": "二氧化碳(CO )",
         "optionC": "甲烷(CH )2 2 4",
         "optionD": "六氟化硫( SF ) 當量表示",
+        "answerDesc": "二氧化碳(CO )",
         "answerNo": "B"
     },
     {
@@ -541,6 +608,7 @@
         "optionB": "30",
         "optionC": "40",
         "optionD": "50",
+        "answerDesc": "50",
         "answerNo": "D"
     },
     {
@@ -549,6 +617,7 @@
         "optionB": "環境部",
         "optionC": "國家發展委員會",
         "optionD": "衛生福利部",
+        "answerDesc": "環境部",
         "answerNo": "B"
     },
     {
@@ -557,6 +626,7 @@
         "optionB": "1 立方米",
         "optionC": "1 公噸",
         "optionD": "1 公升 之二氧化碳當量",
+        "answerDesc": "1 公噸",
         "answerNo": "C"
     },
     {
@@ -565,6 +635,7 @@
         "optionB": "熱浪",
         "optionC": "地震",
         "optionD": "旱災",
+        "answerDesc": "地震",
         "answerNo": "C"
     },
     {
@@ -573,6 +644,7 @@
         "optionB": "選購當地、當季食材，減少運輸碳足跡",
         "optionC": "多吃蔬菜，少吃肉",
         "optionD": "自備杯筷，減少免洗用具垃圾量",
+        "answerDesc": "想吃多少儘量點，剩下可當廚餘回收",
         "answerNo": "A"
     },
     {
@@ -581,6 +653,7 @@
         "optionB": "大量植樹造林， 禁止亂砍亂伐",
         "optionC": "增高燃煤氣體排放的煙囪",
         "optionD": "開發太陽能、水能等新能源",
+        "answerDesc": "增高燃煤氣體排放的煙囪",
         "answerNo": "C"
     },
     {
@@ -589,6 +662,7 @@
         "optionB": "採購的產品對環境及人類健康有最小的傷害性",
         "optionC": "選購對環境傷害較少、污染程度較低的產品",
         "optionD": "以精美包裝為主要首選",
+        "answerDesc": "以精美包裝為主要首選",
         "answerNo": "D"
     },
     {
@@ -597,6 +671,7 @@
         "optionB": "臭氧層破洞",
         "optionC": "冰期來臨",
         "optionD": "海平面下降",
+        "answerDesc": "溫室效應惡化",
         "answerNo": "A"
     },
     {
@@ -605,6 +680,7 @@
         "optionB": "玻璃帷幕牆適用於臺灣，讓夏天的室內產生溫暖的感覺",
         "optionC": "在溫度高的國家， 建築物使用金屬玻璃帷幕會造成日照輻射熱，產生室內「溫室效應」",
         "optionD": "臺灣的氣候濕熱，特別適合在大樓以金屬玻璃帷幕作為建材",
+        "answerDesc": "在溫度高的國家， 建築物使用金屬玻璃帷幕會造成日照輻射熱，產生室內「溫室效應」",
         "answerNo": "C"
     },
     {
@@ -613,6 +689,7 @@
         "optionB": "壓縮空氣",
         "optionC": "蒸汽",
         "optionD": "熱傳",
+        "answerDesc": "熱傳",
         "answerNo": "D"
     },
     {
@@ -621,6 +698,7 @@
         "optionB": "CNS 12681",
         "optionC": "CNS 14001",
         "optionD": "CNS 22000",
+        "answerDesc": "CNS 50001",
         "answerNo": "A"
     },
     {
@@ -629,6 +707,7 @@
         "optionB": "9：00~24： 00",
         "optionC": "6： 00~11：00",
         "optionD": "16：00~22 ：00",
+        "answerDesc": "16：00~22 ：00",
         "answerNo": "D"
     },
     {
@@ -637,6 +716,7 @@
         "optionB": "LED 燈泡",
         "optionC": "省電燈泡",
         "optionD": "螢光燈管",
+        "answerDesc": "白熾燈泡",
         "answerNo": "A"
     },
     {
@@ -645,6 +725,7 @@
         "optionB": "2",
         "optionC": "3",
         "optionD": "4",
+        "answerDesc": "1",
         "answerNo": "A"
     },
     {
@@ -653,6 +734,7 @@
         "optionB": "燃氣",
         "optionC": "水力",
         "optionD": "地熱",
+        "answerDesc": "地熱",
         "answerNo": "D"
     },
     {
@@ -661,6 +743,7 @@
         "optionB": "使用中之延長線如有異味產生，屬正常現象不須理會",
         "optionC": "應避開火源，以免外覆塑膠熔解，致使用時造成短路",
         "optionD": "使用老舊之延長線，容易造成短路、漏電或觸電等危險情形，應立即更換",
+        "answerDesc": "使用中之延長線如有異味產生，屬正常現象不須理會",
         "answerNo": "B"
     },
     {
@@ -669,6 +752,7 @@
         "optionB": "把電源開關關閉",
         "optionC": "通知救護人員",
         "optionD": "使用絕緣的裝備來移除電源",
+        "answerDesc": "立即將觸電者拉離現場",
         "answerNo": "A"
     },
     {
@@ -677,6 +761,7 @@
         "optionB": "kWh",
         "optionC": "kJ",
         "optionD": "kJh",
+        "answerDesc": "kWh",
         "answerNo": "B"
     },
     {
@@ -685,6 +770,7 @@
         "optionB": "夏月半尖峰時段",
         "optionC": "非夏月半尖峰時段",
         "optionD": "離峰時段",
+        "answerDesc": "離峰時段",
         "answerNo": "D"
     },
     {
@@ -693,6 +779,7 @@
         "optionB": "限電",
         "optionC": "斷電",
         "optionD": "配電",
+        "answerDesc": "限電",
         "answerNo": "B"
     },
     {
@@ -701,6 +788,7 @@
         "optionB": "走廊與地下停車場選用紅外線感應控制電燈",
         "optionC": "全面調低照明需求",
         "optionD": "晚上關閉所有公共區域的照明",
+        "answerDesc": "走廊與地下停車場選用紅外線感應控制電燈",
         "answerNo": "B"
     },
     {
@@ -709,6 +797,7 @@
         "optionB": "白天有陽光照明， 所以白天可以將照明設備全關掉",
         "optionC": "汰換老舊電梯馬達並使用變頻控制",
         "optionD": "電梯設定隔層停止控制， 減少頻繁啟動",
+        "answerDesc": "白天有陽光照明， 所以白天可以將照明設備全關掉",
         "answerNo": "B"
     },
     {
@@ -717,6 +806,7 @@
         "optionB": "優先選用取得節能標章的產品",
         "optionC": "設備沒有壞，還是堪用，繼續用，不會增加支出",
         "optionD": "選用能效分級數字較高的產品， 效率較高，5 級的比 1 級的電器產品更省電",
+        "answerDesc": "優先選用取得節能標章的產品",
         "answerNo": "B"
     },
     {
@@ -725,6 +815,7 @@
         "optionB": "採購價格比較， 便宜優先",
         "optionC": "安全第一，一定要通過安規檢驗合格",
         "optionD": "名人或演藝明星推薦，應該口碑較好",
+        "answerDesc": "安全第一，一定要通過安規檢驗合格",
         "answerNo": "C"
     },
     {
@@ -733,6 +824,7 @@
         "optionB": "燈具的遮光板",
         "optionC": "光源的色溫",
         "optionD": "採用間接照明",
+        "answerDesc": "光源的色溫",
         "answerNo": "C"
     },
     {
@@ -741,6 +833,7 @@
         "optionB": "高溫 100 %加熱比較省電",
         "optionC": "中溫 50% 加熱，電流反而比較大",
         "optionD": "兩種方式用電量是一樣的",
+        "answerDesc": "兩種方式用電量是一樣的",
         "answerNo": "D"
     },
     {
@@ -749,6 +842,7 @@
         "optionB": "時間電價",
         "optionC": "可停電力",
         "optionD": "表燈用戶彈性電價",
+        "answerDesc": "時間電價",
         "answerNo": "B"
     },
     {
@@ -757,6 +851,7 @@
         "optionB": "兩天一次運轉通風扇就好了",
         "optionC": "結合一氧化碳偵測器， 自動啟動/停止控制",
         "optionD": "設定每天早晚二次定期啟動排風扇",
+        "answerDesc": "兩天一次運轉通風扇就好了",
         "answerNo": "B"
     },
     {
@@ -765,6 +860,7 @@
         "optionB": "縮短每次開門/關門的時間",
         "optionC": "電梯設定隔樓層停靠，減少頻繁啟動",
         "optionD": "電梯馬達加裝變頻控制",
+        "answerDesc": "縮短每次開門/關門的時間",
         "answerNo": "B"
     },
     {
@@ -773,6 +869,7 @@
         "optionB": "食物存放位置紀錄清楚，一次拿齊食物， 減少開門次數",
         "optionC": "冰箱門的密封壓條如果鬆弛，無法緊密關門， 應儘速更新修復",
         "optionD": "冰箱內食物擺滿塞滿，效益最高",
+        "answerDesc": "冰箱內食物擺滿塞滿，效益最高",
         "answerNo": "D"
     },
     {
@@ -781,6 +878,7 @@
         "optionB": "微波爐再加熱比較省電又方便",
         "optionC": "兩者一樣",
         "optionD": "優先選電鍋保溫方式，因為馬上就可以吃",
+        "answerDesc": "微波爐再加熱比較省電又方便",
         "answerNo": "B"
     },
     {
@@ -789,6 +887,7 @@
         "optionB": "不斷電系統 UPS 先啟動，緊急發電機是後備的",
         "optionC": "兩者同時啟動",
         "optionD": "不斷電系統 UPS 可以撐比較久",
+        "answerDesc": "不斷電系統 UPS 先啟動，緊急發電機是後備的",
         "answerNo": "B"
     },
     {
@@ -797,6 +896,7 @@
         "optionB": "焦煤",
         "optionC": "太陽能",
         "optionD": "水力能",
+        "answerDesc": "焦煤",
         "answerNo": "B"
     },
     {
@@ -805,6 +905,7 @@
         "optionB": "乙烷",
         "optionC": "丙烷",
         "optionD": "辛烷",
+        "answerDesc": "丙烷",
         "answerNo": "C"
     },
     {
@@ -813,6 +914,7 @@
         "optionB": "電熱風扇",
         "optionC": "電熱輻射機",
         "optionD": "電暖爐",
+        "answerDesc": "冷暖氣機",
         "answerNo": "A"
     },
     {
@@ -821,6 +923,7 @@
         "optionB": "天然瓦斯熱水器",
         "optionC": "柴油鍋爐熱水器",
         "optionD": "熱泵熱水器",
+        "answerDesc": "熱泵熱水器",
         "answerNo": "D"
     },
     {
@@ -829,6 +932,7 @@
         "optionB": "盤查所有能源使用設備",
         "optionC": "實行能源管理",
         "optionD": "為考慮經營成本， 汰換設備時採買最便宜的機種",
+        "answerDesc": "為考慮經營成本， 汰換設備時採買最便宜的機種",
         "answerNo": "D"
     },
     {
@@ -837,6 +941,7 @@
         "optionB": "全開式無氣簾",
         "optionC": "自動門有氣簾",
         "optionD": "自動門無氣簾",
+        "answerDesc": "全開式無氣簾",
         "answerNo": "B"
     },
     {
@@ -845,6 +950,7 @@
         "optionB": "地熱",
         "optionC": "太陽能",
         "optionD": "頁岩氣",
+        "answerDesc": "頁岩氣",
         "answerNo": "D"
     },
     {
@@ -853,6 +959,7 @@
         "optionB": "不易受天氣影響",
         "optionC": "需較大的土地面積",
         "optionD": "設置成本較高",
+        "answerDesc": "不易受天氣影響",
         "answerNo": "B"
     },
     {
@@ -861,6 +968,7 @@
         "optionB": "化石能源所占比例高， 溫室氣體減量壓力大",
         "optionC": "自產能源充足，不需仰賴進口",
         "optionD": "能源密集度較先進國家仍有改善空間",
+        "answerDesc": "自產能源充足，不需仰賴進口",
         "answerNo": "C"
     },
     {
@@ -869,6 +977,7 @@
         "optionB": "CH",
         "optionC": "SF",
         "optionD": "N O",
+        "answerDesc": "CO",
         "answerNo": "A"
     },
     {
@@ -877,6 +986,7 @@
         "optionB": "省電燈泡",
         "optionC": "白熾燈泡",
         "optionD": "鹵素燈泡",
+        "answerDesc": "LED 燈泡",
         "answerNo": "A"
     },
     {
@@ -885,6 +995,7 @@
         "optionB": "應保持吹風機進、出風口之空氣流通，以免造成過熱",
         "optionC": "應避免長時間使用，使用時應保持適當的距離",
         "optionD": "可用來作為烘乾棉被及床單等用途",
+        "answerDesc": "可用來作為烘乾棉被及床單等用途",
         "answerNo": "D"
     },
     {
@@ -893,6 +1004,7 @@
         "optionB": "溫室效應",
         "optionC": "霧霾",
         "optionD": "颱風",
+        "answerDesc": "溫室效應",
         "answerNo": "B"
     },
     {
@@ -901,6 +1013,7 @@
         "optionB": "有濕氣的用電場合， 線路加裝漏電斷路器",
         "optionC": "加強定期的漏電檢查及維護",
         "optionD": "使用保險絲來防止漏電的危險性",
+        "answerDesc": "使用保險絲來防止漏電的危險性",
         "answerNo": "D"
     },
     {
@@ -909,6 +1022,7 @@
         "optionB": "減少線路連接的電氣設備，降低用電量",
         "optionC": "重新設計線路，改較粗的導線或用兩迴路並聯",
         "optionD": "提高用電設備的功率因數",
+        "answerDesc": "換大一級或大兩級規格的保險絲或斷路器就不會燒斷了",
         "answerNo": "A"
     },
     {
@@ -917,6 +1031,7 @@
         "optionB": "優先淘汰 10 年以上的老舊冷氣機為能源效率標示分級中之一級冷氣機",
         "optionC": "汰換電風扇， 改裝設能源效率標示分級為一級的冷氣機",
         "optionD": "因為經費有限，選擇便宜的產品比較重要",
+        "answerDesc": "優先淘汰 10 年以上的老舊冷氣機為能源效率標示分級中之一級冷氣機",
         "answerNo": "B"
     },
     {
@@ -925,6 +1040,7 @@
         "optionB": "BTU/h",
         "optionC": "kcal/h",
         "optionD": "RT",
+        "answerDesc": "kW",
         "answerNo": "A"
     },
     {
@@ -933,6 +1049,7 @@
         "optionB": "用手碰觸就可以知道有無漏電",
         "optionC": "用三用電表檢查",
         "optionD": "看電費單有無紀錄",
+        "answerDesc": "電氣材料行買支驗電起子， 碰觸電氣設備的外殼， 就可查出漏電與否",
         "answerNo": "A"
     },
     {
@@ -941,6 +1058,7 @@
         "optionB": "不必再猶豫， 10 年以上的電扇效率偏低，直接換為高效率通風扇",
         "optionC": "直接噴沙拉脫清潔劑就可以了，省錢又方便",
         "optionD": "高效率通風扇較貴， 換同機型的廠內備用品就好了",
+        "answerDesc": "不必再猶豫， 10 年以上的電扇效率偏低，直接換為高效率通風扇",
         "answerNo": "B"
     },
     {
@@ -949,6 +1067,7 @@
         "optionB": "讓機器設備降溫下來再查修",
         "optionC": "讓裡面的電容器有時間放電完畢， 才安全",
         "optionD": "法規沒有規定，這完全沒有必要",
+        "answerDesc": "讓裡面的電容器有時間放電完畢， 才安全",
         "answerNo": "C"
     },
     {
@@ -957,6 +1076,7 @@
         "optionB": "電氣設備上有無安全保險絲",
         "optionC": "有無過載及過熱保護設備",
         "optionD": "有無可能傾倒及生鏽",
+        "answerDesc": "有無在線路上裝設漏電斷路器",
         "answerNo": "A"
     },
     {
@@ -965,6 +1085,7 @@
         "optionB": "1 年",
         "optionC": "1. 5 年",
         "optionD": "2 年",
+        "answerDesc": "半年",
         "answerNo": "A"
     },
     {
@@ -973,6 +1094,7 @@
         "optionB": "電腦",
         "optionC": "電視",
         "optionD": "吹風機",
+        "answerDesc": "空調及照明",
         "answerNo": "A"
     },
     {
@@ -981,6 +1103,7 @@
         "optionB": "背後距離牆壁應有 10 公分以上空間，以利散熱",
         "optionC": "室內空間有限，側面緊貼牆壁就可以了",
         "optionD": "冰箱最好貼近流理台，以便存取食材",
+        "answerDesc": "背後距離牆壁應有 10 公分以上空間，以利散熱",
         "answerNo": "B"
     },
     {
@@ -989,6 +1112,7 @@
         "optionB": "燈具之外型是否美觀",
         "optionC": "照明之品質是否適當",
         "optionD": "照度是否適當",
+        "answerDesc": "燈具之外型是否美觀",
         "answerNo": "B"
     },
     {
@@ -997,6 +1121,7 @@
         "optionB": "熱泵熱水系統",
         "optionC": "瓦斯熱水系統",
         "optionD": "重油熱水系統",
+        "answerDesc": "熱泵熱水系統",
         "answerNo": "B"
     },
     {
@@ -1005,6 +1130,7 @@
         "optionB": "環保標章",
         "optionC": "奈米標章",
         "optionD": "能源效率標示",
+        "answerDesc": "能源效率標示",
         "answerNo": "D"
     },
     {
@@ -1013,6 +1139,7 @@
         "optionB": "5 /1~ 8/31",
         "optionC": "6/1~ 9/ 30",
         "optionD": "7/ 1~10 / 31",
+        "answerDesc": "6/1~ 9/ 30",
         "answerNo": "C"
     },
     {
@@ -1021,6 +1148,7 @@
         "optionB": "屋頂綠化",
         "optionC": "於適當位置設置太陽能板發電同時加以隔熱",
         "optionD": "鋪設隔熱磚",
+        "answerDesc": "屋頂儲水隔熱",
         "answerNo": "A"
     },
     {
@@ -1029,6 +1157,7 @@
         "optionB": "設置冷熱通道",
         "optionC": "使用較高效率之空調設備",
         "optionD": "使用新型高效能電腦設備",
+        "answerDesc": "機房設定較低之溫度",
         "answerNo": "A"
     },
     {
@@ -1037,6 +1166,7 @@
         "optionB": "獲得省水標章的產品並無嚴格測試，所以對消費者並無一定的保障",
         "optionC": "省水標章能激勵廠商重視省水產品的研發與製造，進而達到推廣節水良性循環之目的",
         "optionD": "省水標章除有用水設備外，亦可使用於冷氣或冰箱上",
+        "answerDesc": "省水標章能激勵廠商重視省水產品的研發與製造，進而達到推廣節水良性循環之目的",
         "answerNo": "C"
     },
     {
@@ -1045,6 +1175,7 @@
         "optionB": "等待熱水前流出的冷水可以用水桶接起來再利用",
         "optionC": "淋浴流下的水不可以刷洗浴室地板",
         "optionD": "淋浴沖澡流下的水，可以儲蓄洗菜使用",
+        "answerDesc": "等待熱水前流出的冷水可以用水桶接起來再利用",
         "answerNo": "B"
     },
     {
@@ -1053,6 +1184,7 @@
         "optionB": "否，這跟省水沒什麼關係，不用這麼麻煩",
         "optionC": "否，因為等熱水時流出的水量不多",
         "optionD": "有可能省水也可能不省水，無法定論",
+        "answerDesc": "是，因為可以節省等待熱水流出之前所先流失的冷水",
         "answerNo": "A"
     },
     {
@@ -1061,6 +1193,7 @@
         "optionB": "購買洗衣機時選購有省水標章的洗衣機， 可有效節約用水",
         "optionC": "無需將衣物適當分類",
         "optionD": "洗濯衣物時盡量選擇高水位才洗的乾淨",
+        "answerDesc": "購買洗衣機時選購有省水標章的洗衣機， 可有效節約用水",
         "answerNo": "B"
     },
     {
@@ -1069,6 +1202,7 @@
         "optionB": "加裝可自動關閉水龍頭的自動感應器",
         "optionC": "直接換裝沒有省水標章的水龍頭",
         "optionD": "直接調整水龍頭到適當水量",
+        "answerDesc": "直接換裝沒有省水標章的水龍頭",
         "answerNo": "C"
     },
     {
@@ -1077,6 +1211,7 @@
         "optionB": "沖馬桶",
         "optionC": "澆花",
         "optionD": "飲用水",
+        "answerDesc": "飲用水",
         "answerNo": "D"
     },
     {
@@ -1085,6 +1220,7 @@
         "optionB": "立刻檢查馬桶水箱零件有無鬆脫， 並確認有無漏水",
         "optionC": "滴幾滴食用色素到水箱裡，檢查有無有色水流進馬桶， 代表可能有漏水",
         "optionD": "通知水電行或檢修人員來檢修， 徹底根絕漏水問題",
+        "answerDesc": "因為馬桶還能正常使用， 所以不用著急，等到不能用時再報修即可",
         "answerNo": "A"
     },
     {
@@ -1093,6 +1229,7 @@
         "optionB": "3000 個 600cc 的寶特瓶",
         "optionC": "1 立方公尺的水量",
         "optionD": "3 立方公尺的水量",
+        "answerDesc": "1 立方公尺的水量",
         "answerNo": "C"
     },
     {
@@ -1101,6 +1238,7 @@
         "optionB": "9 月至 12月",
         "optionC": "11 月至次年 4 月",
         "optionD": "臺灣全年不缺水",
+        "answerDesc": "11 月至次年 4 月",
         "answerNo": "C"
     },
     {
@@ -1109,6 +1247,7 @@
         "optionB": "地形山高坡陡，所以雨一下很快就會流入大海",
         "optionC": "因為民生與工商業用水需求量都愈來愈大，所以缺水季節很容易無水可用",
         "optionD": "台灣地區夏天過熱， 致蒸發量過大",
+        "answerDesc": "台灣地區夏天過熱， 致蒸發量過大",
         "answerNo": "D"
     },
     {
@@ -1117,6 +1256,7 @@
         "optionB": "使用微波爐解凍快速又方便",
         "optionC": "烹煮前盡早拿出來放置退冰",
         "optionD": "用熱水浸泡， 每 5 分鐘更換一次",
+        "answerDesc": "烹煮前盡早拿出來放置退冰",
         "answerNo": "C"
     },
     {
@@ -1125,6 +1265,7 @@
         "optionB": "將適量的水放在盆槽內洗濯，以減少用水",
         "optionC": "把碗盤、菜等浸在水盆裡，再開水龍頭拼命沖水",
         "optionD": "用熱水及冷水大量交叉沖洗達到最佳清洗效果",
+        "answerDesc": "將適量的水放在盆槽內洗濯，以減少用水",
         "answerNo": "B"
     },
     {
@@ -1133,6 +1274,7 @@
         "optionB": "全面節約用水",
         "optionC": "水資源重複利用， 海水淡化…等",
         "optionD": "積極推動全民體育運動",
+        "answerDesc": "積極推動全民體育運動",
         "answerNo": "D"
     },
     {
@@ -1141,6 +1283,7 @@
         "optionB": "環保標章",
         "optionC": "省水標章",
         "optionD": "節能標章",
+        "answerDesc": "省水標章",
         "answerNo": "C"
     },
     {
@@ -1149,6 +1292,7 @@
         "optionB": "下午時段",
         "optionC": "清晨或傍晚",
         "optionD": "半夜十二點",
+        "answerDesc": "清晨或傍晚",
         "answerNo": "C"
     },
     {
@@ -1157,6 +1301,7 @@
         "optionB": "選擇快洗行程",
         "optionC": "兩、三件衣服也丟洗衣機洗",
         "optionD": "選擇有自動調節水量的洗衣機",
+        "answerDesc": "兩、三件衣服也丟洗衣機洗",
         "answerNo": "C"
     },
     {
@@ -1165,6 +1310,7 @@
         "optionB": "如果家裡的馬桶是傳統舊式， 可以加裝二段式沖水配件",
         "optionC": "省水馬桶因為水量較小， 會有沖不乾淨的問題，所以應該多沖幾次",
         "optionD": "因為馬桶是家裡用水的大宗， 所以應該儘量採用省水馬桶來節約用水",
+        "answerDesc": "省水馬桶因為水量較小， 會有沖不乾淨的問題，所以應該多沖幾次",
         "answerNo": "C"
     },
     {
@@ -1173,6 +1319,7 @@
         "optionB": "用水桶及海綿抹布擦洗",
         "optionC": "用大口徑強力水注沖洗",
         "optionD": "利用機械自動洗車，洗車水處理循環使用",
+        "answerDesc": "用大口徑強力水注沖洗",
         "answerNo": "C"
     },
     {
@@ -1181,6 +1328,7 @@
         "optionB": "牆面、地面或天花板忽然出現潮濕的現象",
         "optionC": "馬桶裡的水常在晃動，或是沒辦法止水",
         "optionD": "水費有大幅度增加",
+        "answerDesc": "水龍頭打開使用時， 水表的指針持續在轉動",
         "answerNo": "A"
     },
     {
@@ -1189,6 +1337,7 @@
         "optionB": "淋浴時水量開大， 無需改變使用方法",
         "optionC": "洗澡時間盡量縮短， 塗抹肥皂時要把蓮蓬頭關起來",
         "optionD": "調整熱水器水量到適中位置",
+        "answerDesc": "淋浴時水量開大， 無需改變使用方法",
         "answerNo": "B"
     },
     {
@@ -1197,6 +1346,7 @@
         "optionB": "沉澱",
         "optionC": "過濾",
         "optionD": "煮沸",
+        "answerDesc": "煮沸",
         "answerNo": "D"
     },
     {
@@ -1205,6 +1355,7 @@
         "optionB": "中游",
         "optionC": "下游",
         "optionD": "下游出口",
+        "answerDesc": "上游",
         "answerNo": "A"
     },
     {
@@ -1213,6 +1364,7 @@
         "optionB": "1 /4",
         "optionC": "1 /5",
         "optionD": "1/6",
+        "answerDesc": "1/6",
         "answerNo": "D"
     },
     {
@@ -1221,6 +1373,7 @@
         "optionB": "降雨量在地域、季節分佈極不平均",
         "optionC": "水庫蓋得太少",
         "optionD": "台灣自來水水價過於便宜",
+        "answerDesc": "水庫蓋得太少",
         "answerNo": "C"
     },
     {
@@ -1229,6 +1382,7 @@
         "optionB": "直接用吹風機吹開灰塵就可以了",
         "optionC": "應先關閉電源總開關箱內控制該插座的分路開關，然後再清理灰塵",
         "optionD": "可以用金屬接點清潔劑噴在插座中去除銹蝕",
+        "answerDesc": "應先關閉電源總開關箱內控制該插座的分路開關，然後再清理灰塵",
         "answerNo": "C"
     },
     {
@@ -1237,6 +1391,7 @@
         "optionB": "氫氟碳化物（ HFCs）",
         "optionC": "甲烷（CH ）",
         "optionD": "氧氣（ O ）",
+        "answerDesc": "氧氣（ O ）",
         "answerNo": "D"
     },
     {
@@ -1245,6 +1400,7 @@
         "optionB": "照明系統－ 瓦特/平方公尺(W/m 2 )",
         "optionC": "冰水主機－ 千瓦/ 冷凍噸(kW/RT)",
         "optionD": "冰水主機－千瓦 (kW)",
+        "answerDesc": "冰水主機－千瓦 (kW)",
         "answerNo": "D"
     },
     {
@@ -1253,6 +1409,7 @@
         "optionB": "先針對老舊設備建立其「能源指標」或「能源基線」",
         "optionC": "唯恐一直浪費能源，馬上將老舊設備汰換掉",
         "optionD": "改善後需進行能源績效評估",
+        "answerDesc": "唯恐一直浪費能源，馬上將老舊設備汰換掉",
         "answerNo": "C"
     },
     {
@@ -1261,6 +1418,7 @@
         "optionB": "正四邊形",
         "optionC": "正五邊形",
         "optionD": "正六邊形 在表面所構成",
+        "answerDesc": "正五邊形",
         "answerNo": "C"
     },
     {
@@ -1269,6 +1427,7 @@
         "optionB": "隱藏線",
         "optionC": "中心線",
         "optionD": "剖面線",
+        "answerDesc": "中心線",
         "answerNo": "C"
     },
     {
@@ -1277,6 +1436,7 @@
         "optionB": "兩直徑差",
         "optionC": "兩半徑和",
         "optionD": "兩半徑差",
+        "answerDesc": "兩半徑和",
         "answerNo": "C"
     },
     {
@@ -1285,6 +1445,7 @@
         "optionB": "45°",
         "optionC": "60°",
         "optionD": "90°",
+        "answerDesc": "90°",
         "answerNo": "D"
     },
     {
@@ -1293,6 +1454,7 @@
         "optionB": "外線",
         "optionC": "內緣",
         "optionD": "前緣 覆蓋於鉛筆線上",
+        "answerDesc": "中心",
         "answerNo": "A"
     },
     {
@@ -1301,6 +1463,7 @@
         "optionB": "ＳＩＯ",
         "optionC": "ＩＳＯ",
         "optionD": "ＩＯＳ",
+        "answerDesc": "ＩＳＯ",
         "answerNo": "C"
     },
     {
@@ -1309,6 +1472,7 @@
         "optionB": "1:20",
         "optionC": "20: 1",
         "optionD": "2:1",
+        "answerDesc": "2:1",
         "answerNo": "D"
     },
     {
@@ -1317,6 +1481,7 @@
         "optionB": "4 張",
         "optionC": "6 張",
         "optionD": "8 張",
+        "answerDesc": "4 張",
         "answerNo": "B"
     },
     {
@@ -1325,6 +1490,7 @@
         "optionB": "二圓心畫法",
         "optionC": "三圓心畫法",
         "optionD": "四圓心畫法",
+        "answerDesc": "同心圓畫法",
         "answerNo": "A"
     },
     {
@@ -1333,6 +1499,7 @@
         "optionB": "折斷線",
         "optionC": "隱藏線",
         "optionD": "節線",
+        "answerDesc": "隱藏線",
         "answerNo": "C"
     },
     {
@@ -1341,6 +1508,7 @@
         "optionB": "螺旋線",
         "optionC": "擺線",
         "optionD": "複曲線",
+        "answerDesc": "擺線",
         "answerNo": "C"
     },
     {
@@ -1349,6 +1517,7 @@
         "optionB": "背面",
         "optionC": "內側",
         "optionD": "底面",
+        "answerDesc": "上面",
         "answerNo": "A"
     },
     {
@@ -1357,6 +1526,7 @@
         "optionB": "ＪＩＳ",
         "optionC": "ＩＳＪ",
         "optionD": "ＩＪＳ",
+        "answerDesc": "ＪＩＳ",
         "answerNo": "B"
     },
     {
@@ -1365,6 +1535,7 @@
         "optionB": "軟",
         "optionC": "一樣",
         "optionD": "不一定",
+        "answerDesc": "硬",
         "answerNo": "A"
     },
     {
@@ -1373,6 +1544,7 @@
         "optionB": "20 ㎜",
         "optionC": "30 ㎜",
         "optionD": "40 ㎜",
+        "answerDesc": "40 ㎜",
         "answerNo": "D"
     },
     {
@@ -1381,6 +1553,7 @@
         "optionB": "指線",
         "optionC": "折斷線",
         "optionD": "隱藏線",
+        "answerDesc": "折斷線",
         "answerNo": "C"
     },
     {
@@ -1389,6 +1562,7 @@
         "optionB": "2 倍",
         "optionC": "倍",
         "optionD": "3 倍",
+        "answerDesc": "2 倍",
         "answerNo": "B"
     },
     {
@@ -1397,6 +1571,7 @@
         "optionB": "實線",
         "optionC": "虛線",
         "optionD": "點線 畫出",
+        "answerDesc": "細實線",
         "answerNo": "A"
     },
     {
@@ -1405,6 +1580,7 @@
         "optionB": "g/㎜ 2",
         "optionC": "g/ m2",
         "optionD": "g/dm 2",
+        "answerDesc": "g/ m2",
         "answerNo": "C"
     },
     {
@@ -1413,6 +1589,7 @@
         "optionB": "螺旋線",
         "optionC": "雙曲線",
         "optionD": "拋物線",
+        "answerDesc": "螺旋線",
         "answerNo": "B"
     },
     {
@@ -1421,6 +1598,7 @@
         "optionB": "轉量長度與畫圓",
         "optionC": "等分與畫圓",
         "optionD": "等分與轉量長度",
+        "answerDesc": "等分與轉量長度",
         "answerNo": "D"
     },
     {
@@ -1429,6 +1607,7 @@
         "optionB": "12",
         "optionC": "9",
         "optionD": "6",
+        "answerDesc": "24",
         "answerNo": "A"
     },
     {
@@ -1437,6 +1616,7 @@
         "optionB": "ＣＮＳ",
         "optionC": "ＳＣＮ",
         "optionD": "ＮＣＳ",
+        "answerDesc": "ＣＮＳ",
         "answerNo": "B"
     },
     {
@@ -1445,6 +1625,7 @@
         "optionB": "2/3",
         "optionC": "1/ 8",
         "optionD": "1/10",
+        "answerDesc": "2/3",
         "answerNo": "B"
     },
     {
@@ -1453,6 +1634,7 @@
         "optionB": "1.3.5",
         "optionC": "2.5 .10",
         "optionD": "5. 10.15 倍數的比例",
+        "answerDesc": "2.5 .10",
         "answerNo": "C"
     },
     {
@@ -1461,6 +1643,7 @@
         "optionB": "機構圖",
         "optionC": "製配圖",
         "optionD": "工作圖",
+        "answerDesc": "工作圖",
         "answerNo": "D"
     },
     {
@@ -1469,6 +1652,7 @@
         "optionB": "A3",
         "optionC": "A4",
         "optionD": "A5 圖紙",
+        "answerDesc": "A3",
         "answerNo": "B"
     },
     {
@@ -1477,6 +1661,7 @@
         "optionB": "中心線",
         "optionC": "粗實線",
         "optionD": "假想線",
+        "answerDesc": "粗實線",
         "answerNo": "C"
     },
     {
@@ -1485,6 +1670,7 @@
         "optionB": "長徑之半",
         "optionC": "短徑",
         "optionD": "短徑之半",
+        "answerDesc": "長徑之半",
         "answerNo": "B"
     },
     {
@@ -1493,6 +1679,7 @@
         "optionB": "拋物線",
         "optionC": "圓",
         "optionD": "橢圓",
+        "answerDesc": "圓",
         "answerNo": "C"
     },
     {
@@ -1501,6 +1688,7 @@
         "optionB": ":1",
         "optionC": ":1",
         "optionD": "1:",
+        "answerDesc": ":1",
         "answerNo": "C"
     },
     {
@@ -1509,6 +1697,7 @@
         "optionB": "35°",
         "optionC": "25°",
         "optionD": "15° 之斜線",
+        "answerDesc": "15° 之斜線",
         "answerNo": "D"
     },
     {
@@ -1517,6 +1706,7 @@
         "optionB": "外擺線",
         "optionC": "正擺線",
         "optionD": "蝸線",
+        "answerDesc": "內擺線",
         "answerNo": "A"
     },
     {
@@ -1525,6 +1715,7 @@
         "optionB": "2H、H、F、HB",
         "optionC": "F、H、HB、2H",
         "optionD": "2H、HB、F、H",
+        "answerDesc": "2H、H、F、HB",
         "answerNo": "B"
     },
     {
@@ -1533,6 +1724,7 @@
         "optionB": "內接圓",
         "optionC": "外切圓",
         "optionD": "外接圓",
+        "answerDesc": "外接圓",
         "answerNo": "D"
     },
     {
@@ -1541,6 +1733,7 @@
         "optionB": "A1",
         "optionC": "A2",
         "optionD": "A3",
+        "answerDesc": "A1",
         "answerNo": "B"
     },
     {
@@ -1549,6 +1742,7 @@
         "optionB": "120°",
         "optionC": "90°",
         "optionD": "45°",
+        "answerDesc": "90°",
         "answerNo": "C"
     },
     {
@@ -1557,6 +1751,7 @@
         "optionB": "180°",
         "optionC": "270°",
         "optionD": "360°",
+        "answerDesc": "360°",
         "answerNo": "D"
     },
     {
@@ -1565,6 +1760,7 @@
         "optionB": "270 °",
         "optionC": "360°",
         "optionD": "540°",
+        "answerDesc": "540°",
         "answerNo": "D"
     },
     {
@@ -1573,6 +1769,7 @@
         "optionB": "1/3",
         "optionC": "1/ 5",
         "optionD": "1/15",
+        "answerDesc": "1/15",
         "answerNo": "D"
     },
     {
@@ -1581,6 +1778,7 @@
         "optionB": "粗淡",
         "optionC": "細淡",
         "optionD": "細黑",
+        "answerDesc": "細淡",
         "answerNo": "C"
     },
     {
@@ -1589,6 +1787,7 @@
         "optionB": "平面",
         "optionC": "透視",
         "optionD": "陰影 表現法",
+        "answerDesc": "平面",
         "answerNo": "B"
     },
     {
@@ -1597,6 +1796,7 @@
         "optionB": "細實線",
         "optionC": "假想線",
         "optionD": "斷裂線 繪之",
+        "answerDesc": "假想線",
         "answerNo": "C"
     },
     {
@@ -1605,6 +1805,7 @@
         "optionB": "細實線",
         "optionC": "兩點細鏈線",
         "optionD": "徒手細實線 表示",
+        "answerDesc": "兩點細鏈線",
         "answerNo": "C"
     },
     {
@@ -1613,6 +1814,7 @@
         "optionB": "兩直徑差",
         "optionC": "兩半徑和",
         "optionD": "兩半徑差",
+        "answerDesc": "兩半徑差",
         "answerNo": "D"
     },
     {
@@ -1621,6 +1823,7 @@
         "optionB": "二圓心近似法",
         "optionC": "三圓心近似法",
         "optionD": "四圓心近似法",
+        "answerDesc": "四圓心近似法",
         "answerNo": "D"
     },
     {
@@ -1629,6 +1832,7 @@
         "optionB": "等於該線段",
         "optionC": "小於該線段之半",
         "optionD": "大於該線段之半 為最合理",
+        "answerDesc": "大於該線段之半 為最合理",
         "answerNo": "D"
     },
     {
@@ -1637,6 +1841,7 @@
         "optionB": "定比例",
         "optionC": "定角度",
         "optionD": "畫直線",
+        "answerDesc": "畫圓",
         "answerNo": "A"
     },
     {
@@ -1645,6 +1850,7 @@
         "optionB": "60°",
         "optionC": "45°",
         "optionD": "30°",
+        "answerDesc": "60°",
         "answerNo": "B"
     },
     {
@@ -1653,6 +1859,7 @@
         "optionB": "297×210",
         "optionC": "420× 297",
         "optionD": "594×420 mm",
+        "answerDesc": "297×210",
         "answerNo": "B"
     },
     {
@@ -1661,6 +1868,7 @@
         "optionB": "隱藏線",
         "optionC": "中心線",
         "optionD": "假想線 繪之",
+        "answerDesc": "假想線 繪之",
         "answerNo": "D"
     },
     {
@@ -1669,6 +1877,7 @@
         "optionB": "細實線",
         "optionC": "虛線",
         "optionD": "兩點細鏈線",
+        "answerDesc": "一點細鏈線",
         "answerNo": "A"
     },
     {
@@ -1677,6 +1886,7 @@
         "optionB": "長徑之半",
         "optionC": "短徑加長徑",
         "optionD": "短徑",
+        "answerDesc": "長徑",
         "answerNo": "A"
     },
     {
@@ -1685,6 +1895,7 @@
         "optionB": "右下方",
         "optionC": "左上方",
         "optionD": "左下方",
+        "answerDesc": "右下方",
         "answerNo": "B"
     },
     {
@@ -1693,6 +1904,7 @@
         "optionB": "阿拉伯數字",
         "optionC": "中文簡寫數字",
         "optionD": "英文大體數字",
+        "answerDesc": "拉丁字母",
         "answerNo": "A"
     },
     {
@@ -1701,6 +1913,7 @@
         "optionB": ":1",
         "optionC": ":1",
         "optionD": ":1",
+        "answerDesc": ":1",
         "answerNo": "B"
     },
     {
@@ -1709,6 +1922,7 @@
         "optionB": "中線",
         "optionC": "細線",
         "optionD": "虛線 繪製",
+        "answerDesc": "細線",
         "answerNo": "C"
     },
     {
@@ -1717,6 +1931,7 @@
         "optionB": "拋物線",
         "optionC": "橢圓",
         "optionD": "雙曲線",
+        "answerDesc": "雙曲線",
         "answerNo": "D"
     },
     {
@@ -1725,6 +1940,7 @@
         "optionB": "60°",
         "optionC": "40°",
         "optionD": "30°",
+        "answerDesc": "90°",
         "answerNo": "A"
     },
     {
@@ -1733,6 +1949,7 @@
         "optionB": "正仿宋",
         "optionC": "長仿宋",
         "optionD": "粗體為原則",
+        "answerDesc": "等線體",
         "answerNo": "A"
     },
     {
@@ -1741,6 +1958,7 @@
         "optionB": "隱藏線",
         "optionC": "折斷線",
         "optionD": "作圖線",
+        "answerDesc": "隱藏線",
         "answerNo": "B"
     },
     {
@@ -1749,6 +1967,7 @@
         "optionB": "徒手細線",
         "optionC": "細實線",
         "optionD": "粗實線",
+        "answerDesc": "粗實線",
         "answerNo": "D"
     },
     {
@@ -1757,6 +1976,7 @@
         "optionB": "拋物線",
         "optionC": "橢圓",
         "optionD": "雙曲線",
+        "answerDesc": "橢圓",
         "answerNo": "C"
     },
     {
@@ -1765,6 +1985,7 @@
         "optionB": "4 種",
         "optionC": "5 種",
         "optionD": "6 種",
+        "answerDesc": "4 種",
         "answerNo": "B"
     },
     {
@@ -1773,6 +1994,7 @@
         "optionB": "外切",
         "optionC": "內接",
         "optionD": "外接 多邊形",
+        "answerDesc": "內接",
         "answerNo": "C"
     },
     {
@@ -1781,6 +2003,7 @@
         "optionB": "2.5",
         "optionC": "3.5",
         "optionD": "5",
+        "answerDesc": "2.5",
         "answerNo": "B"
     },
     {
@@ -1789,6 +2012,7 @@
         "optionB": "60° 之對邊長",
         "optionC": "30°之對邊長",
         "optionD": "三角板之斜邊",
+        "answerDesc": "60° 之對邊長",
         "answerNo": "B"
     },
     {
@@ -1797,6 +2021,7 @@
         "optionB": "中心線",
         "optionC": "節線",
         "optionD": "表面處理範圍",
+        "answerDesc": "旋轉剖面輪廓線",
         "answerNo": "A"
     },
     {
@@ -1805,6 +2030,7 @@
         "optionB": "1:3",
         "optionC": "1:5",
         "optionD": "1 :7",
+        "answerDesc": "1:3",
         "answerNo": "B"
     },
     {
@@ -1813,6 +2039,7 @@
         "optionB": "720°",
         "optionC": "900°",
         "optionD": "1080°",
+        "answerDesc": "720°",
         "answerNo": "B"
     },
     {
@@ -1821,6 +2048,7 @@
         "optionB": "量角規",
         "optionC": "樑規",
         "optionD": "曲線規",
+        "answerDesc": "分規",
         "answerNo": "A"
     },
     {
@@ -1829,6 +2057,7 @@
         "optionB": "2. 5:1",
         "optionC": "5 :1",
         "optionD": "10: 1",
+        "answerDesc": "2. 5:1",
         "answerNo": "B"
     },
     {
@@ -1837,6 +2066,7 @@
         "optionB": "請願法",
         "optionC": "公交法",
         "optionD": "獎勵投資條例",
+        "answerDesc": "著作權法",
         "answerNo": "A"
     },
     {
@@ -1845,6 +2075,7 @@
         "optionB": "ROM",
         "optionC": "LAN",
         "optionD": "VGA",
+        "answerDesc": "CPU",
         "answerNo": "A"
     },
     {
@@ -1853,6 +2084,7 @@
         "optionB": "ROM",
         "optionC": "LAM",
         "optionD": "VGA",
+        "answerDesc": "RAM",
         "answerNo": "A"
     },
     {
@@ -1861,6 +2093,7 @@
         "optionB": "ROM",
         "optionC": "LAM",
         "optionD": "VGA",
+        "answerDesc": "ROM",
         "answerNo": "B"
     },
     {
@@ -1869,6 +2102,7 @@
         "optionB": "螢幕垂直高",
         "optionC": "螢幕對角線長",
         "optionD": "螢幕面積大小 表示",
+        "answerDesc": "螢幕對角線長",
         "answerNo": "C"
     },
     {
@@ -1877,6 +2111,7 @@
         "optionB": "隨身碟",
         "optionC": "繪圖機",
         "optionD": "鍵盤",
+        "answerDesc": "隨身碟",
         "answerNo": "B"
     },
     {
@@ -1885,6 +2120,7 @@
         "optionB": "C、A、B",
         "optionC": "B、C、A",
         "optionD": "C、B、A",
+        "answerDesc": "C、B、A",
         "answerNo": "D"
     },
     {
@@ -1893,6 +2129,7 @@
         "optionB": "擴充槽( Slot)",
         "optionC": "組合系統(Assembly system)",
         "optionD": "串列傳送( Serial transfer)",
+        "answerDesc": "網路(Network)",
         "answerNo": "A"
     },
     {
@@ -1901,6 +2138,7 @@
         "optionB": "環狀",
         "optionC": "星狀",
         "optionD": "樹狀",
+        "answerDesc": "樹狀",
         "answerNo": "D"
     },
     {
@@ -1909,6 +2147,7 @@
         "optionB": "＃",
         "optionC": "＆",
         "optionD": "＊ 符號隔開",
+        "answerDesc": "‧",
         "answerNo": "A"
     },
     {
@@ -1917,6 +2156,7 @@
         "optionB": "圖示列",
         "optionC": "狀態列",
         "optionD": "標題列 拖曳",
+        "answerDesc": "標題列 拖曳",
         "answerNo": "D"
     },
     {
@@ -1925,6 +2165,7 @@
         "optionB": "cps",
         "optionC": "dpi",
         "optionD": "pixel",
+        "answerDesc": "pixel",
         "answerNo": "D"
     },
     {
@@ -1933,6 +2174,7 @@
         "optionB": "1 ：8",
         "optionC": "1： 16",
         "optionD": "1：32",
+        "answerDesc": "1 ：8",
         "answerNo": "B"
     },
     {
@@ -1941,6 +2183,7 @@
         "optionB": "位元組(Byte)",
         "optionC": "字組( word)",
         "optionD": "雙字組(double word)",
+        "answerDesc": "位元(bit)",
         "answerNo": "A"
     },
     {
@@ -1949,6 +2192,7 @@
         "optionB": "編譯程式",
         "optionC": "作業系統",
         "optionD": "資料庫系統",
+        "answerDesc": "作業系統",
         "answerNo": "C"
     },
     {
@@ -1957,6 +2201,7 @@
         "optionB": "CPS",
         "optionC": "DPI",
         "optionD": "PPM",
+        "answerDesc": "PPM",
         "answerNo": "D"
     },
     {
@@ -1965,6 +2210,7 @@
         "optionB": "256",
         "optionC": "512",
         "optionD": "1024 Bytes",
+        "answerDesc": "1024 Bytes",
         "answerNo": "D"
     },
     {
@@ -1973,6 +2219,7 @@
         "optionB": "位元指令",
         "optionC": "位元片微處理機結構",
         "optionD": "布林運算",
+        "answerDesc": "輸入輸出系統",
         "answerNo": "A"
     },
     {
@@ -1981,6 +2228,7 @@
         "optionB": "複製",
         "optionC": "搬移",
         "optionD": "刪除",
+        "answerDesc": "複製",
         "answerNo": "B"
     },
     {
@@ -1989,6 +2237,7 @@
         "optionB": "複製",
         "optionC": "搬移",
         "optionD": "刪除",
+        "answerDesc": "搬移",
         "answerNo": "C"
     },
     {
@@ -1997,6 +2246,7 @@
         "optionB": "100",
         "optionC": "1000",
         "optionD": "10000 公釐",
+        "answerDesc": "1000",
         "answerNo": "C"
     },
     {
@@ -2005,6 +2255,7 @@
         "optionB": "㎜",
         "optionC": "㎝",
         "optionD": "μm",
+        "answerDesc": "㎜",
         "answerNo": "B"
     },
     {
@@ -2013,6 +2264,7 @@
         "optionB": "A",
         "optionC": "B",
         "optionD": "C 系列的規定",
+        "answerDesc": "A",
         "answerNo": "B"
     },
     {
@@ -2021,6 +2273,7 @@
         "optionB": "3 倍",
         "optionC": "4 倍",
         "optionD": "8 倍",
+        "answerDesc": "8 倍",
         "answerNo": "D"
     },
     {
@@ -2029,6 +2282,7 @@
         "optionB": "4 張",
         "optionC": "6 張",
         "optionD": "8 張",
+        "answerDesc": "4 張",
         "answerNo": "B"
     },
     {
@@ -2037,6 +2291,7 @@
         "optionB": "10㎜",
         "optionC": "15 ㎜",
         "optionD": "20 ㎜",
+        "answerDesc": "15 ㎜",
         "answerNo": "C"
     },
     {
@@ -2045,6 +2300,7 @@
         "optionB": "字寬",
         "optionC": "字間距",
         "optionD": "字面積 來決定",
+        "answerDesc": "字高",
         "answerNo": "A"
     },
     {
@@ -2053,6 +2309,7 @@
         "optionB": "67. 5°",
         "optionC": "75°",
         "optionD": "82.5 °",
+        "answerDesc": "75°",
         "answerNo": "C"
     },
     {
@@ -2061,6 +2318,7 @@
         "optionB": "3/ 4",
         "optionC": "2/3",
         "optionD": "1 /2",
+        "answerDesc": "3/ 4",
         "answerNo": "B"
     },
     {
@@ -2069,6 +2327,7 @@
         "optionB": "4/ 3",
         "optionC": "3/2",
         "optionD": "2 /1",
+        "answerDesc": "4/ 3",
         "answerNo": "B"
     },
     {
@@ -2077,6 +2336,7 @@
         "optionB": "Ctrl 鍵",
         "optionC": "Ins 鍵",
         "optionD": "Shift 鍵",
+        "answerDesc": "Shift 鍵",
         "answerNo": "D"
     },
     {
@@ -2085,6 +2345,7 @@
         "optionB": "Ctrl 鍵",
         "optionC": "Ins 鍵",
         "optionD": "Shift 鍵",
+        "answerDesc": "Ctrl 鍵",
         "answerNo": "B"
     },
     {
@@ -2093,6 +2354,7 @@
         "optionB": "滑鼠",
         "optionC": "硬碟",
         "optionD": "繪圖機",
+        "answerDesc": "硬碟",
         "answerNo": "C"
     },
     {
@@ -2101,6 +2363,7 @@
         "optionB": "滑鼠",
         "optionC": "印表機",
         "optionD": "數位板",
+        "answerDesc": "印表機",
         "answerNo": "C"
     },
     {
@@ -2109,6 +2372,7 @@
         "optionB": "BIOS",
         "optionC": "CMOS",
         "optionD": "DRAM",
+        "answerDesc": "BIOS",
         "answerNo": "B"
     },
     {
@@ -2117,6 +2381,7 @@
         "optionB": "Linux",
         "optionC": "Unix",
         "optionD": "MS-Windows",
+        "answerDesc": "CAD",
         "answerNo": "A"
     },
     {
@@ -2125,6 +2390,7 @@
         "optionB": "垂直相交",
         "optionC": "相切",
         "optionD": "傾斜",
+        "answerDesc": "垂直相交",
         "answerNo": "B"
     },
     {
@@ -2133,6 +2399,7 @@
         "optionB": "四面體",
         "optionC": "五面體",
         "optionD": "六面體",
+        "answerDesc": "五面體",
         "answerNo": "C"
     },
     {
@@ -2141,6 +2408,7 @@
         "optionB": "橢圓",
         "optionC": "雙曲線",
         "optionD": "拋物線",
+        "answerDesc": "拋物線",
         "answerNo": "D"
     },
     {
@@ -2149,6 +2417,7 @@
         "optionB": "Ctrl+ Space",
         "optionC": "Alt+ Shift",
         "optionD": "Alt+Space",
+        "answerDesc": "Ctrl+ Space",
         "answerNo": "B"
     },
     {
@@ -2157,6 +2426,7 @@
         "optionB": "120- 360/n",
         "optionC": "180-360 /n",
         "optionD": "240-360/ n 度",
+        "answerDesc": "180-360 /n",
         "answerNo": "C"
     },
     {
@@ -2165,6 +2435,7 @@
         "optionB": "高",
         "optionC": "軸",
         "optionD": "底",
+        "answerDesc": "高",
         "answerNo": "B"
     },
     {
@@ -2173,6 +2444,7 @@
         "optionB": "三個",
         "optionC": "四個",
         "optionD": "五個 三角形",
+        "answerDesc": "三個",
         "answerNo": "B"
     },
     {
@@ -2181,6 +2453,7 @@
         "optionB": "(N+ 1)× 180°",
         "optionC": "(N-2)× 180°",
         "optionD": "(N+2 )×180°",
+        "answerDesc": "(N-2)× 180°",
         "answerNo": "C"
     },
     {
@@ -2189,6 +2462,7 @@
         "optionB": "折斷線",
         "optionC": "中心線",
         "optionD": "假想線",
+        "answerDesc": "中心線",
         "answerNo": "C"
     },
     {
@@ -2197,6 +2471,7 @@
         "optionB": "細實線",
         "optionC": "細鏈線",
         "optionD": "虛線",
+        "answerDesc": "細實線",
         "answerNo": "B"
     },
     {
@@ -2205,6 +2480,7 @@
         "optionB": "二條",
         "optionC": "三條",
         "optionD": "四條 切線",
+        "answerDesc": "二條",
         "answerNo": "B"
     },
     {
@@ -2213,6 +2489,7 @@
         "optionB": "橢圓",
         "optionC": "拋物線",
         "optionD": "雙曲線",
+        "answerDesc": "圓",
         "answerNo": "A"
     },
     {
@@ -2221,6 +2498,7 @@
         "optionB": "二條",
         "optionC": "三條",
         "optionD": "四條",
+        "answerDesc": "一條",
         "answerNo": "A"
     },
     {
@@ -2229,6 +2507,7 @@
         "optionB": "拋物線",
         "optionC": "橢圓",
         "optionD": "圓",
+        "answerDesc": "圓",
         "answerNo": "D"
     },
     {
@@ -2237,6 +2516,7 @@
         "optionB": "二條",
         "optionC": "三條",
         "optionD": "四條 切線",
+        "answerDesc": "一條",
         "answerNo": "A"
     },
     {
@@ -2245,6 +2525,7 @@
         "optionB": "120°",
         "optionC": "135°",
         "optionD": "150°",
+        "answerDesc": "135°",
         "answerNo": "C"
     },
     {
@@ -2253,6 +2534,7 @@
         "optionB": "粗鏈線",
         "optionC": "細實線",
         "optionD": "粗實線",
+        "answerDesc": "細實線",
         "answerNo": "C"
     },
     {
@@ -2261,6 +2543,7 @@
         "optionB": "導程",
         "optionC": "圓周",
         "optionD": "高度",
+        "answerDesc": "導程",
         "answerNo": "B"
     },
     {
@@ -2269,6 +2552,7 @@
         "optionB": "假想線",
         "optionC": "隱藏線",
         "optionD": "中心線",
+        "answerDesc": "輪廓線",
         "answerNo": "A"
     },
     {
@@ -2277,6 +2561,7 @@
         "optionB": "正四邊形",
         "optionC": "正五邊形",
         "optionD": "正六邊形",
+        "answerDesc": "正三角形",
         "answerNo": "A"
     },
     {
@@ -2285,6 +2570,7 @@
         "optionB": "正四邊形",
         "optionC": "正五邊形",
         "optionD": "正六邊形",
+        "answerDesc": "正四邊形",
         "answerNo": "B"
     },
     {
@@ -2293,6 +2579,7 @@
         "optionB": "96°",
         "optionC": "108°",
         "optionD": "154°",
+        "answerDesc": "108°",
         "answerNo": "C"
     },
     {
@@ -2301,6 +2588,7 @@
         "optionB": "二條",
         "optionC": "三條",
         "optionD": "四條",
+        "answerDesc": "二條",
         "answerNo": "B"
     },
     {
@@ -2309,6 +2597,7 @@
         "optionB": "複曲線",
         "optionC": "空間曲線",
         "optionD": "法線",
+        "answerDesc": "平面曲線",
         "answerNo": "A"
     },
     {
@@ -2317,6 +2606,7 @@
         "optionB": "圓",
         "optionC": "曲線",
         "optionD": "拋物線",
+        "answerDesc": "圓",
         "answerNo": "B"
     },
     {
@@ -2325,6 +2615,7 @@
         "optionB": "相交",
         "optionC": "垂直",
         "optionD": "垂直且相交",
+        "answerDesc": "平行",
         "answerNo": "A"
     },
     {
@@ -2333,6 +2624,7 @@
         "optionB": "隱藏線",
         "optionC": "中心線",
         "optionD": "剖面線",
+        "answerDesc": "隱藏線",
         "answerNo": "B"
     },
     {
@@ -2341,6 +2633,7 @@
         "optionB": "4. 5 ㎜",
         "optionC": "5 ㎜",
         "optionD": "7 ㎜",
+        "answerDesc": "2. 5 ㎜",
         "answerNo": "A"
     },
     {
@@ -2349,6 +2642,7 @@
         "optionB": "存檔",
         "optionC": "出圖",
         "optionD": "校對",
+        "answerDesc": "存檔",
         "answerNo": "B"
     },
     {
@@ -2357,6 +2651,7 @@
         "optionB": "中心線",
         "optionC": "虛線",
         "optionD": "細實線",
+        "answerDesc": "細實線",
         "answerNo": "D"
     },
     {
@@ -2365,6 +2660,7 @@
         "optionB": "虛線",
         "optionC": "細實線",
         "optionD": "兩點細鏈線",
+        "answerDesc": "兩點細鏈線",
         "answerNo": "D"
     },
     {
@@ -2373,6 +2669,7 @@
         "optionB": "3. 5 ㎜",
         "optionC": "5 ㎜",
         "optionD": "7 ㎜",
+        "answerDesc": "3. 5 ㎜",
         "answerNo": "B"
     },
     {
@@ -2381,6 +2678,7 @@
         "optionB": "正四邊形",
         "optionC": "正五邊形",
         "optionD": "正六邊形",
+        "answerDesc": "正三角形",
         "answerNo": "A"
     },
     {
@@ -2389,6 +2687,7 @@
         "optionB": "橢圓",
         "optionC": "雙曲線",
         "optionD": "拋物線",
+        "answerDesc": "橢圓",
         "answerNo": "B"
     },
     {
@@ -2397,6 +2696,7 @@
         "optionB": "全圖都使用粗實線",
         "optionC": "全圖都使用中線",
         "optionD": "全圖都使用細實線",
+        "answerDesc": "粗細都須按製圖規定",
         "answerNo": "A"
     },
     {
@@ -2405,6 +2705,7 @@
         "optionB": "4",
         "optionC": "8",
         "optionD": "12",
+        "answerDesc": "8",
         "answerNo": "C"
     },
     {
@@ -2413,6 +2714,7 @@
         "optionB": "平轉 35°16 ，前傾60°",
         "optionC": "平轉 30°， 前傾 45°",
         "optionD": "平轉 45°，前傾 30°",
+        "answerDesc": "平轉 45°，前傾 35°16",
         "answerNo": "A"
     },
     {
@@ -2421,6 +2723,7 @@
         "optionB": "0.866 倍",
         "optionC": "1.225 倍",
         "optionD": "1.414 倍",
+        "answerDesc": "1.225 倍",
         "answerNo": "C"
     },
     {
@@ -2429,6 +2732,7 @@
         "optionB": "120°",
         "optionC": "30°",
         "optionD": "60°",
+        "answerDesc": "120°",
         "answerNo": "B"
     },
     {
@@ -2437,6 +2741,7 @@
         "optionB": "等斜投影法",
         "optionC": "半斜投影法",
         "optionD": "正投影法",
+        "answerDesc": "正投影法",
         "answerNo": "D"
     },
     {
@@ -2445,6 +2750,7 @@
         "optionB": "各部分尺度依比例目測即可，不需使用量具",
         "optionC": "測繪工作大都是在現場進行",
         "optionD": "繪製草圖也需注意線型分明",
+        "answerDesc": "各部分尺度依比例目測即可，不需使用量具",
         "answerNo": "B"
     },
     {
@@ -2453,6 +2759,7 @@
         "optionB": "正方形",
         "optionC": "任意四邊形",
         "optionD": "60° 菱 形",
+        "answerDesc": "60° 菱 形",
         "answerNo": "D"
     },
     {
@@ -2461,6 +2768,7 @@
         "optionB": "投影線",
         "optionC": "等角線",
         "optionD": "非等角線",
+        "answerDesc": "等角線",
         "answerNo": "C"
     },
     {
@@ -2469,6 +2777,7 @@
         "optionB": "斜投影",
         "optionC": "正投影",
         "optionD": "輔助投影 原理繪製而成",
+        "answerDesc": "正投影",
         "answerNo": "C"
     },
     {
@@ -2477,6 +2786,7 @@
         "optionB": "74/100",
         "optionC": "81.65 /100",
         "optionD": "100 /100",
+        "answerDesc": "81.65 /100",
         "answerNo": "C"
     },
     {
@@ -2485,6 +2795,7 @@
         "optionB": "等角投影圖的等角線是不能直接量度當作實長的",
         "optionC": "較具真實感的立體圖是透視圖",
         "optionD": "等角圖所根據的投影原理是透視投影",
+        "answerDesc": "等角投影圖的等角線是不能直接量度當作實長的",
         "answerNo": "B"
     },
     {
@@ -2493,6 +2804,7 @@
         "optionB": "潦草簡略",
         "optionC": "先有實物再有圖面",
         "optionD": "著重於節省時間迅速完成",
+        "answerDesc": "潦草簡略",
         "answerNo": "B"
     },
     {
@@ -2501,6 +2813,7 @@
         "optionB": "一橢圓",
         "optionC": "一圓",
         "optionD": "一球",
+        "answerDesc": "一圓",
         "answerNo": "C"
     },
     {
@@ -2509,6 +2822,7 @@
         "optionB": "描圖紙",
         "optionC": "方格紙",
         "optionD": "影印紙",
+        "answerDesc": "方格紙",
         "answerNo": "C"
     },
     {
@@ -2517,6 +2831,7 @@
         "optionB": "畫出邊長為半徑大小的正方形， 再畫對角線得交點圓心，畫短圓弧於對角線及正方形中點上，再連成圓",
         "optionC": "用紙條當量尺，在上面畫兩短線為半徑，沿圓周畫出短圓弧，再連接成圓",
         "optionD": "使用兩支鉛筆， 一支為圓心， 一支取半徑距離，慢慢旋轉圖紙畫出圓",
+        "answerDesc": "畫出邊長為半徑大小的正方形， 再畫對角線得交點圓心，畫短圓弧於對角線及正方形中點上，再連成圓",
         "answerNo": "B"
     },
     {
@@ -2525,6 +2840,7 @@
         "optionB": "投影面的傾斜角度",
         "optionC": "所位於之象限",
         "optionD": "視點之位置 而改變",
+        "answerDesc": "投影面的傾斜角度",
         "answerNo": "B"
     },
     {
@@ -2533,6 +2849,7 @@
         "optionB": "由上往下畫",
         "optionC": "由左至右畫",
         "optionD": "由右至左畫",
+        "answerDesc": "由上往下畫",
         "answerNo": "B"
     },
     {
@@ -2541,6 +2858,7 @@
         "optionB": "5 個",
         "optionC": "4 個",
         "optionD": "3 個 視圖表示",
+        "answerDesc": "3 個 視圖表示",
         "answerNo": "D"
     },
     {
@@ -2549,6 +2867,7 @@
         "optionB": "面與面之交線",
         "optionC": "面的極限",
         "optionD": "一個點",
+        "answerDesc": "一個點",
         "answerNo": "D"
     },
     {
@@ -2557,6 +2876,7 @@
         "optionB": "中心線",
         "optionC": "細實線",
         "optionD": "虛線",
+        "answerDesc": "中心線",
         "answerNo": "B"
     },
     {
@@ -2565,6 +2885,7 @@
         "optionB": "1 /3",
         "optionC": "1 /4",
         "optionD": "1/5",
+        "answerDesc": "1 /4",
         "answerNo": "C"
     },
     {
@@ -2573,6 +2894,7 @@
         "optionB": "二面一線",
         "optionC": "三線",
         "optionD": "三面",
+        "answerDesc": "二面一線",
         "answerNo": "B"
     },
     {
@@ -2581,6 +2903,7 @@
         "optionB": "四個",
         "optionC": "五個",
         "optionD": "六個",
+        "answerDesc": "六個",
         "answerNo": "D"
     },
     {
@@ -2589,6 +2912,7 @@
         "optionB": "照畫",
         "optionC": "加粗",
         "optionD": "畫點線",
+        "answerDesc": "照畫",
         "answerNo": "B"
     },
     {
@@ -2597,6 +2921,7 @@
         "optionB": "30度交叉粗實線",
         "optionC": "60 度交叉細實線",
         "optionD": "60 度交叉粗實線",
+        "answerDesc": "30 度交叉細實線",
         "answerNo": "A"
     },
     {
@@ -2605,6 +2930,7 @@
         "optionB": "投光線",
         "optionC": "拋射線",
         "optionD": "垂線",
+        "answerDesc": "投射線",
         "answerNo": "A"
     },
     {
@@ -2613,6 +2939,7 @@
         "optionB": "細實線圓",
         "optionC": "粗虛線圓",
         "optionD": "虛線圓",
+        "answerDesc": "細實線圓",
         "answerNo": "B"
     },
     {
@@ -2621,6 +2948,7 @@
         "optionB": "線",
         "optionC": "面",
         "optionD": "不一定",
+        "answerDesc": "點",
         "answerNo": "A"
     },
     {
@@ -2629,6 +2957,7 @@
         "optionB": "細實線",
         "optionC": "粗鏈線",
         "optionD": "細鏈線 表示",
+        "answerDesc": "細實線",
         "answerNo": "B"
     },
     {
@@ -2637,6 +2966,7 @@
         "optionB": "細實線",
         "optionC": "虛線",
         "optionD": "粗鏈線 繪製",
+        "answerDesc": "細實線",
         "answerNo": "B"
     },
     {
@@ -2645,6 +2975,7 @@
         "optionB": "細鏈線",
         "optionC": "粗實線",
         "optionD": "粗鏈線",
+        "answerDesc": "細實線",
         "answerNo": "A"
     },
     {
@@ -2653,6 +2984,7 @@
         "optionB": "互相垂直",
         "optionC": "垂直於物面",
         "optionD": "交於一點",
+        "answerDesc": "互相平行",
         "answerNo": "A"
     },
     {
@@ -2661,6 +2993,7 @@
         "optionB": "距離拉大",
         "optionC": "不需改變",
         "optionD": "全部塗黑",
+        "answerDesc": "全部塗黑",
         "answerNo": "D"
     },
     {
@@ -2669,6 +3002,7 @@
         "optionB": "直線",
         "optionC": "斜線",
         "optionD": "複斜面",
+        "answerDesc": "複斜面",
         "answerNo": "D"
     },
     {
@@ -2677,6 +3011,7 @@
         "optionB": "兩點細鏈線",
         "optionC": "一點細線",
         "optionD": "虛線 繪製",
+        "answerDesc": "兩點細鏈線",
         "answerNo": "B"
     },
     {
@@ -2685,6 +3020,7 @@
         "optionB": "半剖面",
         "optionC": "移轉剖面",
         "optionD": "局部剖面",
+        "answerDesc": "移轉剖面",
         "answerNo": "C"
     },
     {
@@ -2693,6 +3029,7 @@
         "optionB": "二度",
         "optionC": "三度",
         "optionD": "四度 的空間度量",
+        "answerDesc": "二度",
         "answerNo": "B"
     },
     {
@@ -2701,6 +3038,7 @@
         "optionB": "不規則形體",
         "optionC": "柱體",
         "optionD": "球體",
+        "answerDesc": "柱體",
         "answerNo": "C"
     },
     {
@@ -2709,6 +3047,7 @@
         "optionB": "縮短",
         "optionC": "範圍",
         "optionD": "美觀",
+        "answerDesc": "範圍",
         "answerNo": "C"
     },
     {
@@ -2717,6 +3056,7 @@
         "optionB": "方向一致，間隔不同",
         "optionC": "方向不同，間隔一致",
         "optionD": "方向不同， 間隔不同",
+        "answerDesc": "方向一致，間隔一致",
         "answerNo": "A"
     },
     {
@@ -2725,6 +3065,7 @@
         "optionB": "細線",
         "optionC": "中心線",
         "optionD": "看情形而定 繪製之",
+        "answerDesc": "中心線",
         "answerNo": "C"
     },
     {
@@ -2733,6 +3074,7 @@
         "optionB": "4 個",
         "optionC": "5 個",
         "optionD": "6 個 視圖",
+        "answerDesc": "6 個 視圖",
         "answerNo": "D"
     },
     {
@@ -2741,6 +3083,7 @@
         "optionB": "單視圖",
         "optionC": "雙視圖",
         "optionD": "三視圖",
+        "answerDesc": "單視圖",
         "answerNo": "B"
     },
     {
@@ -2749,6 +3092,7 @@
         "optionB": "正垂面",
         "optionC": "單斜面",
         "optionD": "複斜面",
+        "answerDesc": "複斜面",
         "answerNo": "D"
     },
     {
@@ -2757,6 +3101,7 @@
         "optionB": "彈簧",
         "optionC": "鐵板",
         "optionD": "薄墊圈",
+        "answerDesc": "把手",
         "answerNo": "A"
     },
     {
@@ -2765,6 +3110,7 @@
         "optionB": "3個",
         "optionC": "2 個",
         "optionD": "1 個",
+        "answerDesc": "2 個",
         "answerNo": "C"
     },
     {
@@ -2773,6 +3119,7 @@
         "optionB": "獨立剖切",
         "optionC": "相互剖切",
         "optionD": "一半剖切",
+        "answerDesc": "獨立剖切",
         "answerNo": "B"
     },
     {
@@ -2781,6 +3128,7 @@
         "optionB": "愈大",
         "optionC": "大小不變",
         "optionD": "不一定",
+        "answerDesc": "愈大",
         "answerNo": "B"
     },
     {
@@ -2789,6 +3137,7 @@
         "optionB": "移轉剖面",
         "optionC": "局部剖面",
         "optionD": "旋轉剖面",
+        "answerDesc": "旋轉剖面",
         "answerNo": "D"
     },
     {
@@ -2797,6 +3146,7 @@
         "optionB": "折斷剖面",
         "optionC": "移轉剖面",
         "optionD": "局部剖面",
+        "answerDesc": "局部剖面",
         "answerNo": "D"
     },
     {
@@ -2805,6 +3155,7 @@
         "optionB": "前、後視圖",
         "optionC": "俯、仰視圖",
         "optionD": "輔助視圖",
+        "answerDesc": "俯、仰視圖",
         "answerNo": "C"
     },
     {
@@ -2813,6 +3164,7 @@
         "optionB": "斜視圖",
         "optionC": "邊視圖",
         "optionD": "端視圖",
+        "answerDesc": "正垂視圖",
         "answerNo": "A"
     },
     {
@@ -2821,6 +3173,7 @@
         "optionB": "墊圈",
         "optionC": "Ｖ型塊",
         "optionD": "飛輪",
+        "answerDesc": "軸",
         "answerNo": "A"
     },
     {
@@ -2829,6 +3182,7 @@
         "optionB": "投影面、物體、觀察者",
         "optionC": "觀察者、投影面、物體",
         "optionD": "物體、觀察者、投影面 三者依次排列之一種正投影表示法",
+        "answerDesc": "觀察者、投影面、物體",
         "answerNo": "C"
     },
     {
@@ -2837,6 +3191,7 @@
         "optionB": "斜投影原理",
         "optionC": "透視投影原理",
         "optionD": "立體投影原理",
+        "answerDesc": "正投影原理",
         "answerNo": "A"
     },
     {
@@ -2845,6 +3200,7 @@
         "optionB": "第二角法或第三角法",
         "optionC": "第一角法或第三角法",
         "optionD": "第二角法或第四角法",
+        "answerDesc": "第一角法或第三角法",
         "answerNo": "C"
     },
     {
@@ -2853,6 +3209,7 @@
         "optionB": "下方",
         "optionC": "左方",
         "optionD": "右方",
+        "answerDesc": "下方",
         "answerNo": "B"
     },
     {
@@ -2861,6 +3218,7 @@
         "optionB": "下方",
         "optionC": "左方",
         "optionD": "右方",
+        "answerDesc": "左方",
         "answerNo": "C"
     },
     {
@@ -2869,6 +3227,7 @@
         "optionB": "第二角法",
         "optionC": "第三角法",
         "optionD": "第四角法 的符號",
+        "answerDesc": "第三角法",
         "answerNo": "C"
     },
     {
@@ -2877,6 +3236,7 @@
         "optionB": "第二角法",
         "optionC": "第三角法",
         "optionD": "第四角法 的符號",
+        "answerDesc": "第一角法",
         "answerNo": "A"
     },
     {
@@ -2885,6 +3245,7 @@
         "optionB": "相交",
         "optionC": "垂直",
         "optionD": "平行",
+        "answerDesc": "平行",
         "answerNo": "D"
     },
     {
@@ -2893,6 +3254,7 @@
         "optionB": "邊視圖",
         "optionC": "斜視圖",
         "optionD": "透視圖",
+        "answerDesc": "端視圖",
         "answerNo": "A"
     },
     {
@@ -2901,6 +3263,7 @@
         "optionB": "邊視圖",
         "optionC": "斜視圖",
         "optionD": "透視圖",
+        "answerDesc": "邊視圖",
         "answerNo": "B"
     },
     {
@@ -2909,6 +3272,7 @@
         "optionB": "線",
         "optionC": "面",
         "optionD": "體",
+        "answerDesc": "線",
         "answerNo": "B"
     },
     {
@@ -2917,6 +3281,7 @@
         "optionB": "相交",
         "optionC": "垂直",
         "optionD": "平行",
+        "answerDesc": "平行",
         "answerNo": "D"
     },
     {
@@ -2925,6 +3290,7 @@
         "optionB": "俯視圖",
         "optionC": "側視圖",
         "optionD": "輔助視圖 求得",
+        "answerDesc": "輔助視圖 求得",
         "answerNo": "D"
     },
     {
@@ -2933,6 +3299,7 @@
         "optionB": "單斜面",
         "optionC": "複斜面",
         "optionD": "平行面",
+        "answerDesc": "單斜面",
         "answerNo": "B"
     },
     {
@@ -2941,6 +3308,7 @@
         "optionB": "垂直",
         "optionC": "單斜",
         "optionD": "複斜",
+        "answerDesc": "垂直",
         "answerNo": "B"
     },
     {
@@ -2949,6 +3317,7 @@
         "optionB": "之二垂直",
         "optionC": "均垂直",
         "optionD": "均不垂直",
+        "answerDesc": "之二垂直",
         "answerNo": "B"
     },
     {
@@ -2957,6 +3326,7 @@
         "optionB": "第二象限",
         "optionC": "第三象限",
         "optionD": "第四象限",
+        "answerDesc": "第一象限",
         "answerNo": "A"
     },
     {
@@ -2965,6 +3335,7 @@
         "optionB": "二視圖",
         "optionC": "三視圖",
         "optionD": "輔助視圖 表示",
+        "answerDesc": "單視圖",
         "answerNo": "A"
     },
     {
@@ -2973,6 +3344,7 @@
         "optionB": "二視圖",
         "optionC": "三視圖",
         "optionD": "輔助視圖表示",
+        "answerDesc": "單視圖",
         "answerNo": "A"
     },
     {
@@ -2981,6 +3353,7 @@
         "optionB": "直線",
         "optionC": "矩形",
         "optionD": "圓形",
+        "answerDesc": "圓形",
         "answerNo": "D"
     },
     {
@@ -2989,6 +3362,7 @@
         "optionB": "一圓形",
         "optionC": "二平行直線",
         "optionD": "二平行圓形",
+        "answerDesc": "二平行直線",
         "answerNo": "C"
     },
     {
@@ -2997,6 +3371,7 @@
         "optionB": "二個",
         "optionC": "三個",
         "optionD": "四個",
+        "answerDesc": "四個",
         "answerNo": "D"
     },
     {
@@ -3005,6 +3380,7 @@
         "optionB": "二個",
         "optionC": "三個",
         "optionD": "四個",
+        "answerDesc": "三個",
         "answerNo": "C"
     },
     {
@@ -3013,6 +3389,7 @@
         "optionB": "中心線",
         "optionC": "折斷線",
         "optionD": "虛線",
+        "answerDesc": "虛線",
         "answerNo": "D"
     },
     {
@@ -3021,6 +3398,7 @@
         "optionB": "愈小",
         "optionC": "大小不變",
         "optionD": "不一定",
+        "answerDesc": "大小不變",
         "answerNo": "C"
     },
     {
@@ -3029,6 +3407,7 @@
         "optionB": "對稱部分",
         "optionC": "空心部分",
         "optionD": "實心部分",
+        "answerDesc": "剖切的位置",
         "answerNo": "A"
     },
     {
@@ -3037,6 +3416,7 @@
         "optionB": "薄墊圈",
         "optionC": "彈簧",
         "optionD": "銷",
+        "answerDesc": "銷",
         "answerNo": "D"
     },
     {
@@ -3045,6 +3425,7 @@
         "optionB": "愈密",
         "optionC": "均為2 ㎜",
         "optionD": "不一定",
+        "answerDesc": "愈疏",
         "answerNo": "A"
     },
     {
@@ -3053,6 +3434,7 @@
         "optionB": "半剖面",
         "optionC": "局部剖面",
         "optionD": "移出剖面",
+        "answerDesc": "全剖面",
         "answerNo": "A"
     },
     {
@@ -3061,6 +3443,7 @@
         "optionB": "虛線",
         "optionC": "中心線",
         "optionD": "折斷線 為分界線",
+        "answerDesc": "中心線",
         "answerNo": "C"
     },
     {
@@ -3069,6 +3452,7 @@
         "optionB": "半剖面",
         "optionC": "移轉剖面",
         "optionD": "旋轉剖面",
+        "answerDesc": "移轉剖面",
         "answerNo": "C"
     },
     {
@@ -3077,6 +3461,7 @@
         "optionB": "半剖面",
         "optionC": "局部剖面",
         "optionD": "旋轉剖面",
+        "answerDesc": "局部剖面",
         "answerNo": "C"
     },
     {
@@ -3085,6 +3470,7 @@
         "optionB": "齒輪",
         "optionC": "皮帶輪",
         "optionD": "型鋼",
+        "answerDesc": "螺栓",
         "answerNo": "A"
     },
     {
@@ -3093,6 +3479,7 @@
         "optionB": "半剖面",
         "optionC": "輔助剖面",
         "optionD": "旋轉剖面 表示",
+        "answerDesc": "旋轉剖面 表示",
         "answerNo": "D"
     },
     {
@@ -3101,6 +3488,7 @@
         "optionB": "螺桿",
         "optionC": "型鋼",
         "optionD": "軸",
+        "answerDesc": "型鋼",
         "answerNo": "C"
     },
     {
@@ -3109,6 +3497,7 @@
         "optionB": "鉚釘",
         "optionC": "軸",
         "optionD": "皮帶輪",
+        "answerDesc": "皮帶輪",
         "answerNo": "D"
     },
     {
@@ -3117,6 +3506,7 @@
         "optionB": "照畫",
         "optionC": "加粗",
         "optionD": "塗黑",
+        "answerDesc": "省略",
         "answerNo": "A"
     },
     {
@@ -3125,6 +3515,7 @@
         "optionB": "□",
         "optionC": "△",
         "optionD": "○",
+        "answerDesc": "△",
         "answerNo": "C"
     },
     {
@@ -3133,6 +3524,7 @@
         "optionB": "中心",
         "optionC": "外圓",
         "optionD": "內圓",
+        "answerDesc": "中心",
         "answerNo": "B"
     },
     {
@@ -3141,6 +3533,7 @@
         "optionB": "中線",
         "optionC": "細線",
         "optionD": "粗細自定",
+        "answerDesc": "細線",
         "answerNo": "C"
     },
     {
@@ -3149,6 +3542,7 @@
         "optionB": "1: 1 .5",
         "optionC": "1 :2",
         "optionD": "1: 3",
+        "answerDesc": "1: 3",
         "answerNo": "D"
     },
     {
@@ -3157,6 +3551,7 @@
         "optionB": "剖面線",
         "optionC": "輪廓線",
         "optionD": "隱藏線",
+        "answerDesc": "剖面線",
         "answerNo": "B"
     },
     {
@@ -3165,6 +3560,7 @@
         "optionB": "1: 1 .5",
         "optionC": "1 :2",
         "optionD": "1: 3",
+        "answerDesc": "1: 1 .5",
         "answerNo": "B"
     },
     {
@@ -3173,6 +3569,7 @@
         "optionB": "1 倍",
         "optionC": "1/ 2 倍",
         "optionD": "12 倍",
+        "answerDesc": "1/ 2 倍",
         "answerNo": "C"
     },
     {
@@ -3181,6 +3578,7 @@
         "optionB": "cm",
         "optionC": "μm",
         "optionD": "dm",
+        "answerDesc": "μm",
         "answerNo": "C"
     },
     {
@@ -3189,6 +3587,7 @@
         "optionB": "一樣",
         "optionC": "小",
         "optionD": "大小都可以",
+        "answerDesc": "小",
         "answerNo": "C"
     },
     {
@@ -3197,6 +3596,7 @@
         "optionB": "25.4mm",
         "optionC": "25.4cm",
         "optionD": "12mm",
+        "answerDesc": "25.4mm",
         "answerNo": "B"
     },
     {
@@ -3205,6 +3605,7 @@
         "optionB": "非功能尺度",
         "optionC": "大小尺度",
         "optionD": "參考尺度",
+        "answerDesc": "功能尺度",
         "answerNo": "A"
     },
     {
@@ -3213,6 +3614,7 @@
         "optionB": "30°",
         "optionC": "60°",
         "optionD": "75°",
+        "answerDesc": "60°",
         "answerNo": "C"
     },
     {
@@ -3221,6 +3623,7 @@
         "optionB": "20°",
         "optionC": "30°",
         "optionD": "40°",
+        "answerDesc": "20°",
         "answerNo": "B"
     },
     {
@@ -3229,6 +3632,7 @@
         "optionB": "公差等級",
         "optionC": "偏差位置",
         "optionD": "配合等級",
+        "answerDesc": "偏差位置",
         "answerNo": "C"
     },
     {
@@ -3237,6 +3641,7 @@
         "optionB": "1 倍",
         "optionC": "1/ 2 倍",
         "optionD": "12 倍",
+        "answerDesc": "2 倍",
         "answerNo": "A"
     },
     {
@@ -3245,6 +3650,7 @@
         "optionB": "45°",
         "optionC": "60°",
         "optionD": "75°",
+        "answerDesc": "75°",
         "answerNo": "D"
     },
     {
@@ -3253,6 +3659,7 @@
         "optionB": "Rc",
         "optionC": "Rs",
         "optionD": "Rz",
+        "answerDesc": "Ra",
         "answerNo": "A"
     },
     {
@@ -3261,6 +3668,7 @@
         "optionB": "3",
         "optionC": "4",
         "optionD": "5",
+        "answerDesc": "2",
         "answerNo": "A"
     },
     {
@@ -3269,6 +3677,7 @@
         "optionB": "SR50",
         "optionC": "Sψ50",
         "optionD": "ψS50",
+        "answerDesc": "Sψ50",
         "answerNo": "C"
     },
     {
@@ -3277,6 +3686,7 @@
         "optionB": "寬度和高度",
         "optionC": "深度和高度",
         "optionD": "直徑和高度",
+        "answerDesc": "直徑和高度",
         "answerNo": "D"
     },
     {
@@ -3285,6 +3695,7 @@
         "optionB": "白氏錐度",
         "optionC": "加農錐度",
         "optionD": "7 ： 24",
+        "answerDesc": "莫氏錐度",
         "answerNo": "A"
     },
     {
@@ -3293,6 +3704,7 @@
         "optionB": "4 ～5 ㎜",
         "optionC": "2 ～3 ㎜",
         "optionD": "1 ㎜",
+        "answerDesc": "2 ～3 ㎜",
         "answerNo": "C"
     },
     {
@@ -3301,6 +3713,7 @@
         "optionB": "白氏錐度",
         "optionC": "加農錐 度",
         "optionD": "7：24",
+        "answerDesc": "莫氏錐度",
         "answerNo": "A"
     },
     {
@@ -3309,6 +3722,7 @@
         "optionB": "粗糙面",
         "optionC": "加工面",
         "optionD": "任意面",
+        "answerDesc": "加工面",
         "answerNo": "C"
     },
     {
@@ -3317,6 +3731,7 @@
         "optionB": "Rc",
         "optionC": "Rs",
         "optionD": "Rz",
+        "answerDesc": "Rz",
         "answerNo": "D"
     },
     {
@@ -3325,6 +3740,7 @@
         "optionB": "M",
         "optionC": "＝",
         "optionD": "⊥",
+        "answerDesc": "＝",
         "answerNo": "C"
     },
     {
@@ -3333,6 +3749,7 @@
         "optionB": "180°",
         "optionC": "270°",
         "optionD": "360°",
+        "answerDesc": "180°",
         "answerNo": "B"
     },
     {
@@ -3341,6 +3758,7 @@
         "optionB": "斜度",
         "optionC": "梯度",
         "optionD": "圓度",
+        "answerDesc": "斜度",
         "answerNo": "B"
     },
     {
@@ -3349,6 +3767,7 @@
         "optionB": "0. 5 ㎜",
         "optionC": "1 ㎜",
         "optionD": "1.25 ㎜",
+        "answerDesc": "1 ㎜",
         "answerNo": "C"
     },
     {
@@ -3357,6 +3776,7 @@
         "optionB": "小圓點",
         "optionC": "箭頭",
         "optionD": "斜線",
+        "answerDesc": "小圓點",
         "answerNo": "B"
     },
     {
@@ -3365,6 +3785,7 @@
         "optionB": "㎜",
         "optionC": "cm",
         "optionD": "dm",
+        "answerDesc": "㎜",
         "answerNo": "B"
     },
     {
@@ -3373,6 +3794,7 @@
         "optionB": "30°",
         "optionC": "45°",
         "optionD": "60°",
+        "answerDesc": "45°",
         "answerNo": "C"
     },
     {
@@ -3381,6 +3803,7 @@
         "optionB": "高與底面積",
         "optionC": "元線與底直徑",
         "optionD": "元線與底面積",
+        "answerDesc": "高與底直徑",
         "answerNo": "A"
     },
     {
@@ -3389,6 +3812,7 @@
         "optionB": "MT3",
         "optionC": "MT3",
         "optionD": "MT3",
+        "answerDesc": "MT3",
         "answerNo": "C"
     },
     {
@@ -3397,6 +3821,7 @@
         "optionB": "支距法",
         "optionC": "角度法",
         "optionD": "跨距法",
+        "answerDesc": "支距法",
         "answerNo": "B"
     },
     {
@@ -3405,6 +3830,7 @@
         "optionB": "高度",
         "optionC": "寬度",
         "optionD": "厚度",
+        "answerDesc": "寬度",
         "answerNo": "C"
     },
     {
@@ -3413,6 +3839,7 @@
         "optionB": "半徑",
         "optionC": "半圓弧",
         "optionD": "鑽頭編號",
+        "answerDesc": "直徑",
         "answerNo": "A"
     },
     {
@@ -3421,6 +3848,7 @@
         "optionB": "輪廓線",
         "optionC": "虛線",
         "optionD": "尺度界線",
+        "answerDesc": "尺度界線",
         "answerNo": "D"
     },
     {
@@ -3429,6 +3857,7 @@
         "optionB": "斜度",
         "optionC": "頂點",
         "optionD": "板厚",
+        "answerDesc": "板厚",
         "answerNo": "D"
     },
     {
@@ -3437,6 +3866,7 @@
         "optionB": "平面",
         "optionC": "端面",
         "optionD": "正方形",
+        "answerDesc": "正方形",
         "answerNo": "D"
     },
     {
@@ -3445,6 +3875,7 @@
         "optionB": "10ψ",
         "optionC": "∮10",
         "optionD": "ψ10",
+        "answerDesc": "ψ10",
         "answerNo": "D"
     },
     {
@@ -3453,6 +3884,7 @@
         "optionB": "加工紋路",
         "optionC": "粗度",
         "optionD": "公差",
+        "answerDesc": "加工方法",
         "answerNo": "A"
     },
     {
@@ -3461,6 +3893,7 @@
         "optionB": "弦長為 30 ㎜",
         "optionC": "弧長為 30㎜",
         "optionD": "圓心角為 30°",
+        "answerDesc": "弧長為 30㎜",
         "answerNo": "C"
     },
     {
@@ -3469,6 +3902,7 @@
         "optionB": "100",
         "optionC": "1000",
         "optionD": "1 /10",
+        "answerDesc": "1000",
         "answerNo": "C"
     },
     {
@@ -3477,6 +3911,7 @@
         "optionB": "小圓點",
         "optionC": "短斜線",
         "optionD": "省略不畫",
+        "answerDesc": "小圓點",
         "answerNo": "B"
     },
     {
@@ -3485,6 +3920,7 @@
         "optionB": "寬度、高度",
         "optionC": "深度、高度",
         "optionD": "深度、高度、寬度",
+        "answerDesc": "深度、高度",
         "answerNo": "C"
     },
     {
@@ -3493,6 +3929,7 @@
         "optionB": "斜角滾珠軸承",
         "optionC": "滾針軸承",
         "optionD": "止推軸承",
+        "answerDesc": "斜角滾珠軸承",
         "answerNo": "B"
     },
     {
@@ -3501,6 +3938,7 @@
         "optionB": "壓應力",
         "optionC": "剪應力",
         "optionD": "負荷應力",
+        "answerDesc": "剪應力",
         "answerNo": "C"
     },
     {
@@ -3509,6 +3947,7 @@
         "optionB": "60°",
         "optionC": "90°",
         "optionD": "120°",
+        "answerDesc": "90°",
         "answerNo": "C"
     },
     {
@@ -3517,6 +3956,7 @@
         "optionB": "LH",
         "optionC": "RH",
         "optionD": "HR 字樣",
+        "answerDesc": "LH",
         "answerNo": "B"
     },
     {
@@ -3525,6 +3965,7 @@
         "optionB": "軸長",
         "optionC": "轂徑",
         "optionD": "轂深",
+        "answerDesc": "軸徑",
         "answerNo": "A"
     },
     {
@@ -3533,6 +3974,7 @@
         "optionB": "30°",
         "optionC": "35°",
         "optionD": "45°",
+        "answerDesc": "30°",
         "answerNo": "B"
     },
     {
@@ -3541,6 +3983,7 @@
         "optionB": "90°",
         "optionC": "120 °",
         "optionD": "180 °",
+        "answerDesc": "180 °",
         "answerNo": "D"
     },
     {
@@ -3549,6 +3992,7 @@
         "optionB": "1 :20",
         "optionC": "1 :50",
         "optionD": "1: 100",
+        "answerDesc": "1 :50",
         "answerNo": "C"
     },
     {
@@ -3557,6 +4001,7 @@
         "optionB": "鍵上",
         "optionC": "轂上",
         "optionD": "輻上",
+        "answerDesc": "轂上",
         "answerNo": "C"
     },
     {
@@ -3565,6 +4010,7 @@
         "optionB": "易生振動處",
         "optionC": "受拉力處",
         "optionD": "受剪力處",
+        "answerDesc": "易生振動處",
         "answerNo": "B"
     },
     {
@@ -3573,6 +4019,7 @@
         "optionB": "平底",
         "optionC": "圓形",
         "optionD": "沒有規定",
+        "answerDesc": "圓形",
         "answerNo": "C"
     },
     {
@@ -3581,6 +4028,7 @@
         "optionB": "梯形螺紋",
         "optionC": "方形螺紋",
         "optionD": "鋸齒形螺紋",
+        "answerDesc": "公制細螺紋",
         "answerNo": "A"
     },
     {
@@ -3589,6 +4037,7 @@
         "optionB": "齒高",
         "optionC": "牙數",
         "optionD": "螺距",
+        "answerDesc": "螺距",
         "answerNo": "D"
     },
     {
@@ -3597,6 +4046,7 @@
         "optionB": "內環內徑尺度",
         "optionC": "外環外徑尺度",
         "optionD": "外環內徑尺度15.(1)用於伸縮鏡頭的 8 線螺紋，導程為 12 ㎜，螺距應為",
+        "answerDesc": "內環內徑尺度",
         "answerNo": "B"
     },
     {
@@ -3605,6 +4055,7 @@
         "optionB": "厚度不同",
         "optionC": "內徑不同",
         "optionD": "外徑不同",
+        "answerDesc": "厚度不同",
         "answerNo": "B"
     },
     {
@@ -3613,6 +4064,7 @@
         "optionB": "直銷",
         "optionC": "斜銷",
         "optionD": "彈簧銷",
+        "answerDesc": "直銷",
         "answerNo": "B"
     },
     {
@@ -3621,6 +4073,7 @@
         "optionB": "螺距",
         "optionC": "牙角",
         "optionD": "牙形",
+        "answerDesc": "厚度",
         "answerNo": "A"
     },
     {
@@ -3629,6 +4082,7 @@
         "optionB": "45°",
         "optionC": "55°",
         "optionD": "60°",
+        "answerDesc": "60°",
         "answerNo": "D"
     },
     {
@@ -3637,6 +4091,7 @@
         "optionB": "55°",
         "optionC": "45°",
         "optionD": "30°",
+        "answerDesc": "30°",
         "answerNo": "D"
     },
     {
@@ -3645,6 +4100,7 @@
         "optionB": "螺距",
         "optionC": "配合等級",
         "optionD": "螺紋長度",
+        "answerDesc": "螺距",
         "answerNo": "B"
     },
     {
@@ -3653,6 +4109,7 @@
         "optionB": "防漏",
         "optionC": "防鬆",
         "optionD": "微調",
+        "answerDesc": "一般連結",
         "answerNo": "A"
     },
     {
@@ -3661,6 +4118,7 @@
         "optionB": "定位",
         "optionC": "傳送動力",
         "optionD": "防鬆",
+        "answerDesc": "防鬆",
         "answerNo": "D"
     },
     {
@@ -3669,6 +4127,7 @@
         "optionB": "同向右",
         "optionC": "反方向",
         "optionD": "任意方向",
+        "answerDesc": "反方向",
         "answerNo": "C"
     },
     {
@@ -3677,6 +4136,7 @@
         "optionB": "30°",
         "optionC": "35°",
         "optionD": "45°",
+        "answerDesc": "30°",
         "answerNo": "B"
     },
     {
@@ -3685,6 +4145,7 @@
         "optionB": "帶頭斜鍵",
         "optionC": "半圓鍵",
         "optionD": "平鍵",
+        "answerDesc": "帶頭斜鍵",
         "answerNo": "B"
     },
     {
@@ -3693,6 +4154,7 @@
         "optionB": "合金鋼",
         "optionC": "鑄鐵",
         "optionD": "鑄鋼",
+        "answerDesc": "碳鋼",
         "answerNo": "A"
     },
     {
@@ -3701,6 +4163,7 @@
         "optionB": "鉸孔",
         "optionC": "搪孔",
         "optionD": "拉孔",
+        "answerDesc": "鑽孔",
         "answerNo": "A"
     },
     {
@@ -3709,6 +4172,7 @@
         "optionB": "鋸齒形螺紋",
         "optionC": "梯形螺紋",
         "optionD": "圓形螺紋",
+        "answerDesc": "梯形螺紋",
         "answerNo": "C"
     },
     {
@@ -3717,6 +4181,7 @@
         "optionB": "圓的",
         "optionC": "尖的",
         "optionD": "沒有規定",
+        "answerDesc": "平的",
         "answerNo": "A"
     },
     {
@@ -3725,6 +4190,7 @@
         "optionB": "蝸形彈簧",
         "optionC": "拉伸彈簧",
         "optionD": "疊板彈簧",
+        "answerDesc": "疊板彈簧",
         "answerNo": "D"
     },
     {
@@ -3733,6 +4199,7 @@
         "optionB": "大端直徑表示",
         "optionC": "中間直徑表示",
         "optionD": "平均直徑表示",
+        "answerDesc": "小端直徑表示",
         "answerNo": "A"
     },
     {
@@ -3741,6 +4208,7 @@
         "optionB": "1: 30",
         "optionC": "1: 50",
         "optionD": "1: 100",
+        "answerDesc": "1: 100",
         "answerNo": "D"
     },
     {
@@ -3749,6 +4217,7 @@
         "optionB": "三角形螺紋",
         "optionC": "鋸齒形螺紋",
         "optionD": "圓形螺紋",
+        "answerDesc": "鋸齒形螺紋",
         "answerNo": "C"
     },
     {
@@ -3757,6 +4226,7 @@
         "optionB": "內徑",
         "optionC": "平均徑",
         "optionD": "長度",
+        "answerDesc": "內徑",
         "answerNo": "B"
     },
     {
@@ -3765,6 +4235,7 @@
         "optionB": "2/3",
         "optionC": "3 /4",
         "optionD": "4/ 5",
+        "answerDesc": "3 /4",
         "answerNo": "C"
     },
     {
@@ -3773,6 +4244,7 @@
         "optionB": "P＝3L",
         "optionC": "L＝3＋P",
         "optionD": "P＝3＋L",
+        "answerDesc": "L＝3 P",
         "answerNo": "A"
     },
     {
@@ -3781,6 +4253,7 @@
         "optionB": "拉伸長度",
         "optionC": "控制長度",
         "optionD": "自由長度",
+        "answerDesc": "自由長度",
         "answerNo": "D"
     },
     {
@@ -3789,6 +4262,7 @@
         "optionB": "斜鍵",
         "optionC": "鞍形鍵",
         "optionD": "半圓鍵",
+        "answerDesc": "鞍形鍵",
         "answerNo": "C"
     },
     {
@@ -3797,6 +4271,7 @@
         "optionB": "在鎖緊時構成初拉力",
         "optionC": "增加承受面積",
         "optionD": "減少單位面積之受力",
+        "answerDesc": "在鎖緊時構成初拉力",
         "answerNo": "B"
     },
     {
@@ -3805,6 +4280,7 @@
         "optionB": "導螺桿",
         "optionC": "連接件",
         "optionD": "調整桿",
+        "answerDesc": "導螺桿",
         "answerNo": "B"
     },
     {
@@ -3813,6 +4289,7 @@
         "optionB": "2/ 3 倍",
         "optionC": "3/ 4 倍",
         "optionD": "7 /8 倍",
+        "answerDesc": "7 /8 倍",
         "answerNo": "D"
     },
     {
@@ -3821,6 +4298,7 @@
         "optionB": "60°",
         "optionC": "120°",
         "optionD": "180°",
+        "answerDesc": "120°",
         "answerNo": "C"
     },
     {
@@ -3829,6 +4307,7 @@
         "optionB": "安裝長度",
         "optionC": "工作長度",
         "optionD": "壓實長度",
+        "answerDesc": "自由長度",
         "answerNo": "A"
     },
     {
@@ -3837,6 +4316,7 @@
         "optionB": "圓頭",
         "optionC": "大端圓頭，小端平頭",
         "optionD": "小端圓頭，大端平頭",
+        "answerDesc": "圓頭",
         "answerNo": "B"
     },
     {
@@ -3845,6 +4325,7 @@
         "optionB": "防止鬆脫",
         "optionC": "防止震動",
         "optionD": "增加美觀",
+        "answerDesc": "防止鬆脫",
         "answerNo": "B"
     },
     {
@@ -3853,6 +4334,7 @@
         "optionB": "3 倍",
         "optionC": "1.5 倍",
         "optionD": "相 同",
+        "answerDesc": "1.5 倍",
         "answerNo": "C"
     },
     {
@@ -3861,6 +4343,7 @@
         "optionB": "2 /3",
         "optionC": "3/ 4",
         "optionD": "7/8 倍",
+        "answerDesc": "2 /3",
         "answerNo": "B"
     },
     {
@@ -3869,6 +4352,7 @@
         "optionB": "鍵",
         "optionC": "軸承",
         "optionD": "彈簧",
+        "answerDesc": "彈簧",
         "answerNo": "D"
     },
     {
@@ -3877,6 +4361,7 @@
         "optionB": "內螺紋",
         "optionC": "左螺紋",
         "optionD": "右螺紋",
+        "answerDesc": "外螺紋",
         "answerNo": "A"
     },
     {
@@ -3885,6 +4370,7 @@
         "optionB": "黃銅",
         "optionC": "碳鋼",
         "optionD": "合金鋼",
+        "answerDesc": "鑄鐵",
         "answerNo": "A"
     },
     {
@@ -3893,6 +4379,7 @@
         "optionB": "三角形",
         "optionC": "圓弧形",
         "optionD": "一端圓一端方",
+        "answerDesc": "圓弧形",
         "answerNo": "C"
     },
     {
@@ -3901,6 +4388,7 @@
         "optionB": "梯形螺紋",
         "optionC": "圓頂螺紋",
         "optionD": "鋸齒形螺紋",
+        "answerDesc": "梯形螺紋",
         "answerNo": "B"
     },
     {
@@ -3909,6 +4397,7 @@
         "optionB": "45°",
         "optionC": "55°",
         "optionD": "60°",
+        "answerDesc": "55°",
         "answerNo": "C"
     },
     {
@@ -3917,6 +4406,7 @@
         "optionB": "導程",
         "optionC": "長徑",
         "optionD": "短徑",
+        "answerDesc": "螺距",
         "answerNo": "A"
     },
     {
@@ -3925,6 +4415,7 @@
         "optionB": "15°",
         "optionC": "30°",
         "optionD": "60°",
+        "answerDesc": "30°",
         "answerNo": "C"
     },
     {
@@ -3933,6 +4424,7 @@
         "optionB": "方螺紋",
         "optionC": "Ｖ型螺紋",
         "optionD": "圓形螺紋",
+        "answerDesc": "圓形螺紋",
         "answerNo": "D"
     },
     {
@@ -3941,6 +4433,7 @@
         "optionB": "粗實線",
         "optionC": "虛線",
         "optionD": "省略不畫",
+        "answerDesc": "細實線",
         "answerNo": "A"
     },
     {
@@ -3949,6 +4442,7 @@
         "optionB": "0.52 P",
         "optionC": "0.5 P",
         "optionD": "0.43 P",
+        "answerDesc": "0.5 P",
         "answerNo": "C"
     },
     {
@@ -3957,6 +4451,7 @@
         "optionB": "摩擦角",
         "optionC": "傾斜角",
         "optionD": "導程角",
+        "answerDesc": "導程角",
         "answerNo": "D"
     },
     {
@@ -3965,6 +4460,7 @@
         "optionB": "1/4",
         "optionC": "1/3",
         "optionD": "1 /2",
+        "answerDesc": "1/4",
         "answerNo": "B"
     },
     {
@@ -3973,6 +4469,7 @@
         "optionB": "鍵",
         "optionC": "斜銷",
         "optionD": "鉚釘",
+        "answerDesc": "鉚釘",
         "answerNo": "D"
     },
     {
@@ -3981,6 +4478,7 @@
         "optionB": "45°",
         "optionC": "55°",
         "optionD": "60°",
+        "answerDesc": "60°",
         "answerNo": "D"
     },
     {
@@ -3989,6 +4487,7 @@
         "optionB": "三倍",
         "optionC": "四倍",
         "optionD": "六倍",
+        "answerDesc": "二倍",
         "answerNo": "A"
     },
     {
@@ -3997,6 +4496,7 @@
         "optionB": "PS",
         "optionC": "PT",
         "optionD": "PF",
+        "answerDesc": "R",
         "answerNo": "A"
     },
     {
@@ -4005,6 +4505,7 @@
         "optionB": "皿形彈簧",
         "optionC": "筍形彈簧",
         "optionD": "動力彈簧",
+        "answerDesc": "筍形彈簧",
         "answerNo": "C"
     },
     {
@@ -4013,6 +4514,7 @@
         "optionB": "1/4",
         "optionC": "1/3",
         "optionD": "1 /2",
+        "answerDesc": "1 /2",
         "answerNo": "D"
     },
     {
@@ -4021,6 +4523,7 @@
         "optionB": "小徑",
         "optionC": "節徑",
         "optionD": "大徑",
+        "answerDesc": "大徑",
         "answerNo": "D"
     },
     {
@@ -4029,6 +4532,7 @@
         "optionB": "小徑 1.5 ㎜",
         "optionC": "節徑 1.5 ㎜",
         "optionD": "大徑 1. 5 ㎜",
+        "answerDesc": "螺距 1.5 ㎜",
         "answerNo": "A"
     },
     {
@@ -4037,6 +4541,7 @@
         "optionB": "1： 8",
         "optionC": "1：16",
         "optionD": "1： 32",
+        "answerDesc": "1：16",
         "answerNo": "C"
     },
     {
@@ -4045,6 +4550,7 @@
         "optionB": "梯形螺紋",
         "optionC": "鋸齒形螺紋",
         "optionD": "圓形螺紋",
+        "answerDesc": "管螺紋",
         "answerNo": "A"
     },
     {
@@ -4053,6 +4559,7 @@
         "optionB": "齒輪",
         "optionC": "扣環",
         "optionD": "螺桿",
+        "answerDesc": "螺桿",
         "answerNo": "D"
     },
     {
@@ -4061,6 +4568,7 @@
         "optionB": "公制細螺紋",
         "optionC": "統一粗螺紋",
         "optionD": "統一細螺紋",
+        "answerDesc": "公制粗螺紋",
         "answerNo": "A"
     },
     {
@@ -4069,6 +4577,7 @@
         "optionB": "干涉配合",
         "optionC": "粗螺紋",
         "optionD": "細螺紋",
+        "answerDesc": "細螺紋",
         "answerNo": "D"
     },
     {
@@ -4077,6 +4586,7 @@
         "optionB": "M25",
         "optionC": "LM25",
         "optionD": "2 NM25",
+        "answerDesc": "LM25",
         "answerNo": "C"
     },
     {
@@ -4085,6 +4595,7 @@
         "optionB": "R",
         "optionC": "Tr",
         "optionD": "Rd",
+        "answerDesc": "R",
         "answerNo": "B"
     },
     {
@@ -4093,6 +4604,7 @@
         "optionB": "螺距",
         "optionC": "節距",
         "optionD": "導程",
+        "answerDesc": "螺距",
         "answerNo": "B"
     },
     {
@@ -4101,6 +4613,7 @@
         "optionB": "螺絲攻",
         "optionC": "螺釘",
         "optionD": "螺栓",
+        "answerDesc": "螺絲攻",
         "answerNo": "B"
     },
     {
@@ -4109,6 +4622,7 @@
         "optionB": "小徑",
         "optionC": "節徑",
         "optionD": "螺距",
+        "answerDesc": "節徑",
         "answerNo": "C"
     },
     {
@@ -4117,6 +4631,7 @@
         "optionB": "105°",
         "optionC": "90°",
         "optionD": "60°",
+        "answerDesc": "90°",
         "answerNo": "C"
     },
     {
@@ -4125,6 +4640,7 @@
         "optionB": "雙線左旋",
         "optionC": "單線右旋",
         "optionD": "單線左旋",
+        "answerDesc": "雙線左旋",
         "answerNo": "B"
     },
     {
@@ -4133,6 +4649,7 @@
         "optionB": "1 ㎜",
         "optionC": "1.5 ㎜",
         "optionD": "2 ㎜",
+        "answerDesc": "1 ㎜",
         "answerNo": "B"
     },
     {
@@ -4141,6 +4658,7 @@
         "optionB": "導程",
         "optionC": "螺距",
         "optionD": "小徑",
+        "answerDesc": "導程",
         "answerNo": "B"
     },
     {
@@ -4149,6 +4667,7 @@
         "optionB": "螺樁",
         "optionC": "鉚釘",
         "optionD": "銷",
+        "answerDesc": "機螺釘",
         "answerNo": "A"
     },
     {
@@ -4157,6 +4676,7 @@
         "optionB": "螺樁與螺帽",
         "optionC": "固定螺釘",
         "optionD": "有頭螺釘",
+        "answerDesc": "螺栓與螺帽",
         "answerNo": "A"
     },
     {
@@ -4165,6 +4685,7 @@
         "optionB": "三角形螺紋",
         "optionC": "方形螺紋",
         "optionD": "圓形螺紋",
+        "answerDesc": "方形螺紋",
         "answerNo": "C"
     },
     {
@@ -4173,6 +4694,7 @@
         "optionB": "組合圖中",
         "optionC": "標題欄內",
         "optionD": "零件表內",
+        "answerDesc": "零件表內",
         "answerNo": "D"
     },
     {
@@ -4181,6 +4703,7 @@
         "optionB": "由外向內車削",
         "optionC": "由半徑中點向內車削",
         "optionD": "視工件大小而定",
+        "answerDesc": "由中心向外車削",
         "answerNo": "A"
     },
     {
@@ -4189,6 +4712,7 @@
         "optionB": "不規則連續線",
         "optionC": "剖面線",
         "optionD": "割面線",
+        "answerDesc": "不規則連續線",
         "answerNo": "B"
     },
     {
@@ -4197,6 +4721,7 @@
         "optionB": "中斷視圖",
         "optionC": "轉正視圖",
         "optionD": "局部視圖",
+        "answerDesc": "中斷視圖",
         "answerNo": "B"
     },
     {
@@ -4205,6 +4730,7 @@
         "optionB": "2 個",
         "optionC": "3 個",
         "optionD": "4 個 視圖表示",
+        "answerDesc": "2 個",
         "answerNo": "B"
     },
     {
@@ -4213,6 +4739,7 @@
         "optionB": "立體圖",
         "optionC": "立體系統圖",
         "optionD": "輪廓組合圖",
+        "answerDesc": "組合圖",
         "answerNo": "A"
     },
     {
@@ -4221,6 +4748,7 @@
         "optionB": "每一批所須發工之數量",
         "optionC": "每一批裝配所需之數量",
         "optionD": "安全庫存量",
+        "answerDesc": "每一組裝配所需之數量",
         "answerNo": "A"
     },
     {
@@ -4229,6 +4757,7 @@
         "optionB": "鉗口張開的最大尺寸",
         "optionC": "鉗口寬度",
         "optionD": "虎鉗螺栓的全長",
+        "answerDesc": "鉗口寬度",
         "answerNo": "C"
     },
     {
@@ -4237,6 +4766,7 @@
         "optionB": "銑削成",
         "optionC": "拉削成",
         "optionD": "磨削成",
+        "answerDesc": "拉削成",
         "answerNo": "C"
     },
     {
@@ -4245,6 +4775,7 @@
         "optionB": "鉸削成",
         "optionC": "拉削成",
         "optionD": "車削成",
+        "answerDesc": "鉸削成",
         "answerNo": "B"
     },
     {
@@ -4253,6 +4784,7 @@
         "optionB": "旋轉剖面",
         "optionC": "半剖面",
         "optionD": "全剖面",
+        "answerDesc": "旋轉剖面",
         "answerNo": "B"
     },
     {
@@ -4261,6 +4793,7 @@
         "optionB": "0.05 ㎜",
         "optionC": "0.1 ㎜",
         "optionD": "0.5 ㎜",
+        "answerDesc": "0.05 ㎜",
         "answerNo": "B"
     },
     {
@@ -4269,6 +4802,7 @@
         "optionB": "列表圖",
         "optionC": "標準圖",
         "optionD": "零件圖",
+        "answerDesc": "列表圖",
         "answerNo": "B"
     },
     {
@@ -4277,6 +4811,7 @@
         "optionB": "俯視圖",
         "optionC": "側視圖",
         "optionD": "前視、俯視及側視等圖",
+        "answerDesc": "前視、俯視及側視等圖",
         "answerNo": "D"
     },
     {
@@ -4285,6 +4820,7 @@
         "optionB": "半剖面",
         "optionC": "移轉剖面",
         "optionD": "旋轉剖面",
+        "answerDesc": "半剖面",
         "answerNo": "B"
     },
     {
@@ -4293,6 +4829,7 @@
         "optionB": "後半部",
         "optionC": "左半部",
         "optionD": "右半部",
+        "answerDesc": "後半部",
         "answerNo": "B"
     },
     {
@@ -4301,6 +4838,7 @@
         "optionB": "中斷視圖",
         "optionC": "轉正視圖",
         "optionD": "局部視圖",
+        "answerDesc": "半視圖",
         "answerNo": "A"
     },
     {
@@ -4309,6 +4847,7 @@
         "optionB": "不須繪製零件圖但須有規格",
         "optionC": "須繪製零件圖且有規格",
         "optionD": "不一定",
+        "answerDesc": "不須繪製零件圖但須有規格",
         "answerNo": "B"
     },
     {
@@ -4317,6 +4856,7 @@
         "optionB": "白氏錐度5 號(B& ST)",
         "optionC": "加農錐度 10 號(J. T)",
         "optionD": "銑床標準錐度 20 號(N. T)",
+        "answerDesc": "莫氏錐度 3 號( M.T)",
         "answerNo": "A"
     },
     {
@@ -4325,6 +4865,7 @@
         "optionB": "斜視圖法",
         "optionC": "鳥瞰圖法",
         "optionD": "正投影法",
+        "answerDesc": "正投影法",
         "answerNo": "D"
     },
     {
@@ -4333,6 +4874,7 @@
         "optionB": "第三角法",
         "optionC": "第一角、第三角同時適用",
         "optionD": "隨意任何角法皆可",
+        "answerDesc": "第一角、第三角同時適用",
         "answerNo": "C"
     },
     {
@@ -4341,6 +4883,7 @@
         "optionB": "60°",
         "optionC": "45°",
         "optionD": "30°",
+        "answerDesc": "45°",
         "answerNo": "C"
     },
     {
@@ -4349,6 +4892,7 @@
         "optionB": "須附實物",
         "optionC": "須加畫立體圖",
         "optionD": "須加口頭說明 ，即能製造零件",
+        "answerDesc": "不必另加口頭說明",
         "answerNo": "A"
     },
     {
@@ -4357,6 +4901,7 @@
         "optionB": "漸開線",
         "optionC": "渦線",
         "optionD": "拋物線",
+        "answerDesc": "漸開線",
         "answerNo": "B"
     },
     {
@@ -4365,6 +4910,7 @@
         "optionB": "切割面的移動方向",
         "optionC": "物體的移動方向",
         "optionD": "視圖的投影方向",
+        "answerDesc": "視圖的投影方向",
         "answerNo": "D"
     },
     {
@@ -4373,6 +4919,7 @@
         "optionB": "120°",
         "optionC": "135°",
         "optionD": "150°",
+        "answerDesc": "120°",
         "answerNo": "B"
     },
     {
@@ -4381,6 +4928,7 @@
         "optionB": "輔助視圖",
         "optionC": "斜視圖",
         "optionD": "側視圖",
+        "answerDesc": "輔助視圖",
         "answerNo": "B"
     },
     {
@@ -4389,6 +4937,7 @@
         "optionB": "細實線",
         "optionC": "中鏈線",
         "optionD": "中實線",
+        "answerDesc": "細實線",
         "answerNo": "B"
     },
     {
@@ -4397,6 +4946,7 @@
         "optionB": "硬化",
         "optionC": "韌化",
         "optionD": "消除應力",
+        "answerDesc": "韌化",
         "answerNo": "C"
     },
     {
@@ -4405,6 +4955,7 @@
         "optionB": "擴大孔徑尺度",
         "optionC": "修正孔的位置",
         "optionD": "調整孔徑的錐度",
+        "answerDesc": "提高孔徑的精度",
         "answerNo": "A"
     },
     {
@@ -4413,6 +4964,7 @@
         "optionB": "斷開",
         "optionC": "拉長",
         "optionD": "照畫",
+        "answerDesc": "斷開",
         "answerNo": "B"
     },
     {
@@ -4421,6 +4973,7 @@
         "optionB": "一直線",
         "optionC": "正三邊形",
         "optionD": "任意三邊形",
+        "answerDesc": "任意三邊形",
         "answerNo": "D"
     },
     {
@@ -4429,6 +4982,7 @@
         "optionB": "細點線",
         "optionC": "細斜線",
         "optionD": "細交叉線",
+        "answerDesc": "細交叉線",
         "answerNo": "D"
     },
     {
@@ -4437,6 +4991,7 @@
         "optionB": "低於工作物之中心",
         "optionC": "與工作物之中心等高",
         "optionD": "視工作物材質而定",
+        "answerDesc": "與工作物之中心等高",
         "answerNo": "C"
     },
     {
@@ -4445,6 +5000,7 @@
         "optionB": "大小",
         "optionC": "形狀",
         "optionD": "代號 以標明切割面",
+        "answerDesc": "代號 以標明切割面",
         "answerNo": "D"
     },
     {
@@ -4453,6 +5009,7 @@
         "optionB": "任意直線",
         "optionC": "與該直線同長之直線",
         "optionD": "一平面",
+        "answerDesc": "與該直線同長之直線",
         "answerNo": "C"
     },
     {
@@ -4461,6 +5018,7 @@
         "optionB": "虛擬視圖",
         "optionC": "局部視圖",
         "optionD": "轉正視圖",
+        "answerDesc": "局部詳圖",
         "answerNo": "A"
     },
     {
@@ -4469,6 +5027,7 @@
         "optionB": "須特殊加工",
         "optionC": "為一平面",
         "optionD": "須熱處理",
+        "answerDesc": "為一平面",
         "answerNo": "C"
     },
     {
@@ -4477,6 +5036,7 @@
         "optionB": "每一加工面均標註",
         "optionC": "標註在其中一面即可",
         "optionD": "全部省略",
+        "answerDesc": "以公用符號標註",
         "answerNo": "A"
     },
     {
@@ -4485,6 +5045,7 @@
         "optionB": "一黑方點",
         "optionC": "一小圓圈",
         "optionD": "一小黑圓點",
+        "answerDesc": "一小黑圓點",
         "answerNo": "D"
     },
     {
@@ -4493,6 +5054,7 @@
         "optionB": "鑽頭直徑小轉數要快",
         "optionC": "兩者無關係",
         "optionD": "不一定",
+        "answerDesc": "鑽頭直徑小轉數要快",
         "answerNo": "B"
     },
     {
@@ -4501,6 +5063,7 @@
         "optionB": "配置組合圖",
         "optionC": "輪廓組合圖",
         "optionD": "系統組合圖",
+        "answerDesc": "部分組合圖",
         "answerNo": "A"
     },
     {
@@ -4509,6 +5072,7 @@
         "optionB": "螺帽",
         "optionC": "帶輪",
         "optionD": "飛輪",
+        "answerDesc": "螺帽",
         "answerNo": "B"
     },
     {
@@ -4517,6 +5081,7 @@
         "optionB": "粗實線",
         "optionC": "粗點線",
         "optionD": "一點粗鏈線",
+        "answerDesc": "一點粗鏈線",
         "answerNo": "D"
     },
     {
@@ -4525,6 +5090,7 @@
         "optionB": "轉正視圖",
         "optionC": "局部視圖",
         "optionD": "虛擬視圖",
+        "answerDesc": "虛擬視圖",
         "answerNo": "D"
     },
     {
@@ -4533,6 +5099,7 @@
         "optionB": "組合圖",
         "optionC": "配置圖",
         "optionD": "零件圖",
+        "answerDesc": "組合圖",
         "answerNo": "B"
     },
     {
@@ -4541,6 +5108,7 @@
         "optionB": "較大者居前，標準零件殿後",
         "optionC": "依組合順序而定",
         "optionD": "任意排列",
+        "answerDesc": "較大者居前，標準零件殿後",
         "answerNo": "B"
     },
     {
@@ -4549,6 +5117,7 @@
         "optionB": "鍵",
         "optionC": "鉚釘",
         "optionD": "齒輪",
+        "answerDesc": "齒輪",
         "answerNo": "D"
     },
     {
@@ -4557,6 +5126,7 @@
         "optionB": "畫與長邊垂直之細線",
         "optionC": "畫與長邊平行之細線",
         "optionD": "不必加任何線",
+        "answerDesc": "全部塗墨",
         "answerNo": "A"
     },
     {
@@ -4565,6 +5135,7 @@
         "optionB": "第二角",
         "optionC": "第三角",
         "optionD": "第四角 投影法",
+        "answerDesc": "第一角",
         "answerNo": "A"
     },
     {
@@ -4573,6 +5144,7 @@
         "optionB": "投影法",
         "optionC": "零件數",
         "optionD": "材料",
+        "answerDesc": "投影法",
         "answerNo": "B"
     },
     {
@@ -4581,6 +5153,7 @@
         "optionB": "隱藏線",
         "optionC": "剖面線",
         "optionD": "輪廓線",
+        "answerDesc": "隱藏線",
         "answerNo": "B"
     },
     {
@@ -4589,6 +5162,7 @@
         "optionB": "IT5～IT8",
         "optionC": "IT9 ～IT12",
         "optionD": "IT13 ～IT16",
+        "answerDesc": "IT01～IT4",
         "answerNo": "A"
     },
     {
@@ -4597,6 +5171,7 @@
         "optionB": "應畫剖面線",
         "optionC": "視材質而定",
         "optionD": "一律塗黑",
+        "answerDesc": "應畫剖面線",
         "answerNo": "B"
     },
     {
@@ -4605,6 +5180,7 @@
         "optionB": "全剖面",
         "optionC": "半剖面",
         "optionD": "旋轉剖面",
+        "answerDesc": "旋轉剖面",
         "answerNo": "D"
     },
     {
@@ -4613,6 +5189,7 @@
         "optionB": "中斷視圖",
         "optionC": "轉正視圖",
         "optionD": "局部視圖",
+        "answerDesc": "轉正視圖",
         "answerNo": "C"
     },
     {
@@ -4621,6 +5198,7 @@
         "optionB": "分厘卡",
         "optionC": "鋼尺",
         "optionD": "萬能角度儀",
+        "answerDesc": "鋼尺",
         "answerNo": "C"
     },
     {
@@ -4629,6 +5207,7 @@
         "optionB": "1 ㎝",
         "optionC": "0.5 ㎜",
         "optionD": "0. 5 ㎝",
+        "answerDesc": "0.5 ㎜",
         "answerNo": "C"
     },
     {
@@ -4637,6 +5216,7 @@
         "optionB": "內徑",
         "optionC": "錐度",
         "optionD": "深度",
+        "answerDesc": "錐度",
         "answerNo": "C"
     },
     {
@@ -4645,6 +5225,7 @@
         "optionB": "0.02 ㎜",
         "optionC": "0.04 ㎜",
         "optionD": "0.1 ㎜",
+        "answerDesc": "0.02 ㎜",
         "answerNo": "B"
     },
     {
@@ -4653,6 +5234,7 @@
         "optionB": "12 進位",
         "optionC": "60 進位",
         "optionD": "100 進位",
+        "answerDesc": "60 進位",
         "answerNo": "C"
     },
     {
@@ -4661,6 +5243,7 @@
         "optionB": "0 .02 ㎜",
         "optionC": "0.05 ㎜",
         "optionD": "0. 1 ㎜",
+        "answerDesc": "0 .02 ㎜",
         "answerNo": "B"
     },
     {
@@ -4669,6 +5252,7 @@
         "optionB": "中碳鋼",
         "optionC": "高碳鋼",
         "optionD": "工具鋼",
+        "answerDesc": "低碳鋼",
         "answerNo": "A"
     },
     {
@@ -4677,6 +5261,7 @@
         "optionB": "鐵",
         "optionC": "鋁合金",
         "optionD": "鉛",
+        "answerDesc": "鋁合金",
         "answerNo": "C"
     },
     {
@@ -4685,6 +5270,7 @@
         "optionB": "鉋床及鑽床",
         "optionC": "車床及鉋床",
         "optionD": "車床及鑽床",
+        "answerDesc": "車床及鑽床",
         "answerNo": "D"
     },
     {
@@ -4693,6 +5279,7 @@
         "optionB": "外卡",
         "optionC": "游標卡尺",
         "optionD": "分厘卡",
+        "answerDesc": "分厘卡",
         "answerNo": "D"
     },
     {
@@ -4701,6 +5288,7 @@
         "optionB": "0. 001～25 ㎜",
         "optionC": "0.1～25 ㎜",
         "optionD": "1～25 ㎜",
+        "answerDesc": "0.01～ 25 ㎜",
         "answerNo": "A"
     },
     {
@@ -4709,6 +5297,7 @@
         "optionB": "大量錶與小量錶",
         "optionC": "長針量錶與短針量錶",
         "optionD": "大分劃量錶與小分劃量錶",
+        "answerDesc": "指示量錶與比較量錶",
         "answerNo": "A"
     },
     {
@@ -4717,6 +5306,7 @@
         "optionB": "半徑規",
         "optionC": "內卡",
         "optionD": "中心規",
+        "answerDesc": "游標卡尺",
         "answerNo": "A"
     },
     {
@@ -4725,6 +5315,7 @@
         "optionB": "0.01 ㎜",
         "optionC": "0.001 ㎜",
         "optionD": "0.0001 ㎜",
+        "answerDesc": "0.01 ㎜",
         "answerNo": "B"
     },
     {
@@ -4733,6 +5324,7 @@
         "optionB": "每分鐘轉數",
         "optionC": "每小時轉數",
         "optionD": "每分鐘切削速度",
+        "answerDesc": "每分鐘轉數",
         "answerNo": "B"
     },
     {
@@ -4741,6 +5333,7 @@
         "optionB": "傳動軸",
         "optionC": "齒輪",
         "optionD": "螺釘",
+        "answerDesc": "螺釘",
         "answerNo": "D"
     },
     {
@@ -4749,6 +5342,7 @@
         "optionB": "皮帶輪",
         "optionC": "軸承",
         "optionD": "斜梢",
+        "answerDesc": "斜梢",
         "answerNo": "D"
     },
     {
@@ -4757,6 +5351,7 @@
         "optionB": "鉋床",
         "optionC": "鑽床",
         "optionD": "車床",
+        "answerDesc": "車床",
         "answerNo": "D"
     },
     {
@@ -4765,6 +5360,7 @@
         "optionB": "多軸鑽床",
         "optionC": "靈敏鑽床",
         "optionD": "懸臂鑽床",
+        "answerDesc": "懸臂鑽床",
         "answerNo": "D"
     },
     {
@@ -4773,6 +5369,7 @@
         "optionB": "受剪力處",
         "optionC": "重負荷",
         "optionD": "易生震動處",
+        "answerDesc": "易生震動處",
         "answerNo": "D"
     },
     {
@@ -4781,6 +5378,7 @@
         "optionB": "90°",
         "optionC": "120°",
         "optionD": "150°",
+        "answerDesc": "120°",
         "answerNo": "C"
     },
     {
@@ -4789,6 +5387,7 @@
         "optionB": "標題欄",
         "optionC": "零件圖",
         "optionD": "零件表82. ( 2) 在輪軸上加工鍵座， 通常使用到",
+        "answerDesc": "零件表82. ( 2) 在輪軸上加工鍵座， 通常使用到",
         "answerNo": "D"
     },
     {
@@ -4797,6 +5396,7 @@
         "optionB": "㎜",
         "optionC": "cm",
         "optionD": "dm",
+        "answerDesc": "㎜",
         "answerNo": "B"
     },
     {
@@ -4805,6 +5405,7 @@
         "optionB": "透視圖",
         "optionC": "等角圖",
         "optionD": "正投影視圖 來表示物體之形狀",
+        "answerDesc": "正投影視圖 來表示物體之形狀",
         "answerNo": "D"
     },
     {
@@ -4813,6 +5414,7 @@
         "optionB": "剖面線",
         "optionC": "件號線",
         "optionD": "隱藏線",
+        "answerDesc": "隱藏線",
         "answerNo": "D"
     },
     {
@@ -4821,6 +5423,7 @@
         "optionB": "二個",
         "optionC": "三個",
         "optionD": "四個",
+        "answerDesc": "一個",
         "answerNo": "A"
     },
     {
@@ -4829,6 +5432,7 @@
         "optionB": "公差配合",
         "optionC": "比例大小",
         "optionD": "加工方法",
+        "answerDesc": "比例大小",
         "answerNo": "C"
     }
 ]
