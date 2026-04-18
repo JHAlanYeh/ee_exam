@@ -5,7 +5,7 @@
         "optionB": "檔案的機密等級分類",
         "optionC": "消防設備",
         "optionD": "門禁管制",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "關於資訊安全的威脅，何種類型最難預防?",
@@ -13,7 +13,7 @@
         "optionB": "蓄意破壞",
         "optionC": "停電",
         "optionD": "電腦病毒",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "何者對於預防電腦犯罪最有效?",
@@ -21,7 +21,7 @@
         "optionB": "裝設不斷電設置",
         "optionC": "定期保養電腦",
         "optionD": "建置資訊安全管制系統",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "何者不是資訊安全的防護措施?",
@@ -29,7 +29,7 @@
         "optionB": "採用合法軟體",
         "optionC": "小問題組合成大問題",
         "optionD": "可確認檔案的傳輸",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "關於「防治天然災害威脅資訊安全措施」之敘述何者最不適宜?",
@@ -37,7 +37,7 @@
         "optionB": "經常清潔，不用除濕",
         "optionC": "設置不斷電設備",
         "optionD": "設置空調設備",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "何者無法有效避免電腦災害的資料安全防護?",
@@ -45,7 +45,7 @@
         "optionB": "資料經常備份",
         "optionC": "常駐防毒程式",
         "optionD": "備份資料存放於不同地點",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "何種措施不利於資訊系統的安全?",
@@ -53,7 +53,7 @@
         "optionB": "資料備份",
         "optionC": "每個使用者的使用權限相同",
         "optionD": "定期保存日誌檔",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "為避免電腦中資料遺失，何種方法最適當?",
@@ -61,7 +61,7 @@
         "optionB": "安裝防毒軟體",
         "optionC": "設定密碼",
         "optionD": "定期備份",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "資訊系統之安全與管理，除了可藉由密碼控制使用者之權限外，最積極之例行工作為何?",
@@ -69,7 +69,7 @@
         "optionB": "經常變更密碼",
         "optionC": "硬體設鎖",
         "optionD": "監控系統使用人員",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "何者是網路安全之使用原則?",
@@ -77,7 +77,7 @@
         "optionB": "密碼中最好包含字母及非字母字元",
         "optionC": "用你名字或帳號當作密碼",
         "optionD": "用你個人的資料當作密碼",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "何者是錯誤的系統安全措施?",
@@ -85,7 +85,7 @@
         "optionB": "資料加密",
         "optionC": "密碼變更",
         "optionD": "公佈之電子文件設定成唯讀檔",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "關於密碼之敘述何者較不妥?",
@@ -93,7 +93,7 @@
         "optionB": "密碼越長越安全",
         "optionC": "常更換密碼",
         "optionD": "用電話當密碼",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "何者對於預防電腦犯罪無效?",
@@ -101,7 +101,7 @@
         "optionB": "設定密碼",
         "optionC": "設置防火牆",
         "optionD": "裝設空調設備",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "關於資料備份， 尋找第二個儲存空間的安全作法之敘述何者不適宜?",
@@ -109,7 +109,7 @@
         "optionB": "與專業儲存公司合作",
         "optionC": "儲存在防火除溼之保險櫃",
         "optionD": "儲存在同一部電腦的不同硬碟中",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "關於「電腦安全防護措施」的敘述中，何者是同時針對「實體」及「資料」來做的防護措施?",
@@ -117,7 +117,7 @@
         "optionB": "保留日誌檔",
         "optionC": "不斷電系統",
         "optionD": "管制上機次數與時間",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "關於防範電腦犯罪的敘述何者錯誤?",
@@ -125,7 +125,7 @@
         "optionB": "加強機房門禁管制",
         "optionC": "資料檔案加密",
         "optionD": "明確劃分使用者權限",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "我國身分證字號的第一個數值碼是用來進行何種檢驗?",
@@ -133,7 +133,7 @@
         "optionB": "一致性",
         "optionC": "性別",
         "optionD": "地區別",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "我國身分證字號的最前面的英文碼是用來進行何種檢驗?",
@@ -141,7 +141,7 @@
         "optionB": "一致性",
         "optionC": "性別",
         "optionD": "地區別",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "我國身分證字號的最後一碼是用來檢查號碼的何種檢驗?",
@@ -149,7 +149,7 @@
         "optionB": "一致性",
         "optionC": "性別",
         "optionD": "地區別",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "程式設計師在某一系統中插入一段程式， 只要他的姓名從公司的人事檔案中被刪除時，則該程式會將公司整個檔案破壞掉， 這是屬於何種電腦犯罪行為?",
@@ -157,7 +157,7 @@
         "optionB": "制壓( Super zapping)",
         "optionC": "邏輯炸彈 (Logic bombs)",
         "optionD": "特洛依木馬( Trojan horse)",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "何者是兩大國際信用卡發卡機構 Visa 及 Master Card 聯合制定的網路信用卡安全交易標準?",
@@ -165,7 +165,7 @@
         "optionB": "安全超文字傳輸協定(S- HTTP)",
         "optionC": "BBS 傳輸協定",
         "optionD": "安全電子交易(SET) 協定",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "網際網路上用來防止駭客入侵的裝置為何?",
@@ -173,7 +173,7 @@
         "optionB": "防毒軟體",
         "optionC": "閘道器",
         "optionD": "路由器",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "關於網路防火牆之敘述何者錯誤?",
@@ -181,7 +181,7 @@
         "optionB": "防火牆能管制封包的流向",
         "optionC": "防火牆可以管制外部網路進入內部系統",
         "optionD": "防火牆可以防止任何病毒的入侵",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "何者不是選購網路防火牆的重要考慮因素?",
@@ -189,7 +189,7 @@
         "optionB": "效能",
         "optionC": "價格",
         "optionD": "體積",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "何者不是病毒侵入家庭中的個人電腦後， 所造成的損害?",
@@ -197,7 +197,7 @@
         "optionB": "無法開機",
         "optionC": "無法上網",
         "optionD": "停電",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "何者可能會造成電腦程式執行的速度愈來愈慢?",
@@ -205,7 +205,7 @@
         "optionB": "中央處理器等級太高",
         "optionC": "螢幕太小",
         "optionD": "感染病毒",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "關於電腦防毒措施之敘述何者錯誤?",
@@ -213,7 +213,7 @@
         "optionB": "可隨意拷貝他人軟體",
         "optionC": "不下載來路不明的軟體",
         "optionD": "定期更新病毒碼",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "何者無法辨識病毒感染?",
@@ -221,7 +221,7 @@
         "optionB": "檔案儲存日期改變",
         "optionC": "螢幕出現亂碼",
         "optionD": "電源電壓變小",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "一部電腦最多可能會感染幾種病毒?",
@@ -229,7 +229,7 @@
         "optionB": "二種病毒",
         "optionC": "三種病毒",
         "optionD": "多種病毒",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "何者與避免病毒災害無關?",
@@ -237,7 +237,7 @@
         "optionB": "公司集中電腦操作",
         "optionC": "定期備份",
         "optionD": "勤於更新病毒碼",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "何種途徑可能會感染病毒?",
@@ -245,7 +245,7 @@
         "optionB": "傳送電子郵件",
         "optionC": "圖形輸出",
         "optionD": "資料列印",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "關於電腦感染病毒的過程之敘述何者錯誤?",
@@ -253,7 +253,7 @@
         "optionB": "潛伏",
         "optionC": "發作",
         "optionD": "自我消失",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "何種裝置會傳染電腦病毒?",
@@ -261,7 +261,7 @@
         "optionB": "鍵盤",
         "optionC": "隨身碟",
         "optionD": "滑鼠",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "何種裝置不會感染電腦病毒?",
@@ -269,7 +269,7 @@
         "optionB": "個人數位助理",
         "optionC": "平板電腦",
         "optionD": "滑鼠",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "關於電腦病毒之敘述何者錯誤?",
@@ -277,7 +277,7 @@
         "optionB": "能使操作者中毒",
         "optionC": "能自我複製",
         "optionD": "能破壞硬碟資料",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "若程式具有自行複製的能力， 且會破壞資料檔案， 則此程式稱之為何?",
@@ -285,7 +285,7 @@
         "optionB": "電腦遊戲",
         "optionC": "電腦試算表",
         "optionD": "電腦文書處理",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "個人電腦如果已感染病毒時， 何者較為適宜?",
@@ -293,7 +293,7 @@
         "optionB": "按 Ctrl+Alt+Del 鍵重新開機",
         "optionC": "更換光碟機",
         "optionD": "更換主記憶體",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "病毒入侵電腦發作後，會隱藏在電腦的那個元件中?",
@@ -301,7 +301,7 @@
         "optionB": "PROM",
         "optionC": "EPROM",
         "optionD": "RAM",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "程式若已中毒， 則在執行時， 病毒會被載入記憶體中發作，此病毒稱之為何?",
@@ -309,7 +309,7 @@
         "optionB": "開機型病毒",
         "optionC": "網路型病毒",
         "optionD": "檔案型病毒",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "電子郵件在傳輸時， 加入哪個動作有助於防止被竊取資料?",
@@ -317,7 +317,7 @@
         "optionB": "回傳給本人",
         "optionC": "加密",
         "optionD": "副本",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "電腦病毒不會造成何種現象?",
@@ -325,7 +325,7 @@
         "optionB": "破壞軟體",
         "optionC": "潛伏記憶體中",
         "optionD": "隨身碟燒毀",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "電腦病毒的侵入是屬於何種災害?",
@@ -333,7 +333,7 @@
         "optionB": "天然災害",
         "optionC": "惡意破壞",
         "optionD": "交通事故",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "「電腦病毒」其實是為何?",
@@ -341,7 +341,7 @@
         "optionB": "破壞電腦運作的程式",
         "optionC": "感染黴菌的資料",
         "optionD": "毒藥",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "系統資料安全之威脅，輕則致使作業中斷、短路， 重則造成資料損毀，設備傾覆， 因此加強事前之預防措施乃是避免遭受損壞的重要手段之一，因此面對日益嚴重的「電腦犯罪」，何項預防措施錯誤?",
@@ -349,7 +349,7 @@
         "optionB": "絕對不使用網路",
         "optionC": "技術性管制",
         "optionD": "警衛、門禁",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "一般資訊中心為確保電腦作業而採取各種防護的措施，何者不在防護的項目之內?",
@@ -357,7 +357,7 @@
         "optionB": "資料",
         "optionC": "軟體系統",
         "optionD": "差假記錄",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "何者是數位簽名的功能?",
@@ -365,7 +365,7 @@
         "optionB": "回傳給本人",
         "optionC": "加密",
         "optionD": "密件副本",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "將原執行檔程式的程序中斷， 佈下陷阱後，再回頭繼續原始程式的病毒為何種?",
@@ -373,7 +373,7 @@
         "optionB": "開機型病毒",
         "optionC": "檔案型病毒",
         "optionD": "CPU 病毒",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "何者不是電腦病毒的特性?",
@@ -381,7 +381,7 @@
         "optionB": "病毒會寄生在正常程式中，伺機將自己複製並感染給其它正常程式",
         "optionC": "有些病毒發作時會降低 CPU 的執行速度",
         "optionD": "當病毒感染正常程式中，並不一定會立即發作，有時須條件成立時，才會發病",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "關於「防治電腦病毒」的敘述何者正確?",
@@ -389,7 +389,7 @@
         "optionB": "電腦病毒只存在記憶體、開機磁區及執行檔中",
         "optionC": "受病毒感染的檔案，不執行也會發作",
         "optionD": "遇到開機型病毒，只要無毒的開機隨身碟重新開機後即可清除",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "何者無法有效避免電腦災害發生後的資料安全防護?",
@@ -397,7 +397,7 @@
         "optionB": "經常備份磁碟資料",
         "optionC": "在執行程式過程中，重要資料分別存在硬碟及 USB 隨身碟上",
         "optionD": "備份資料存放於不同地點",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "關於「電腦病毒防治方式」之敘述何者錯誤?",
@@ -405,7 +405,7 @@
         "optionB": "用乾淨無毒的開機系統開機",
         "optionC": "不使用來路不明之軟體",
         "optionD": "電腦上加裝防毒軟體",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "硬式磁碟機為防資料流失或中毒，應常定期執行何種工作?",
@@ -413,7 +413,7 @@
         "optionB": "備份",
         "optionC": "規格化",
         "optionD": "用清潔片清洗",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "關於「電腦病毒」的敘述何者錯誤?",
@@ -421,7 +421,7 @@
         "optionB": "中毒的檔案，由於病毒程式的寄居，檔案通常會變大",
         "optionC": "主記憶體無毒，此時 COPY 無毒的檔案到 USB 隨身碟， 將使其中毒",
         "optionD": "檔案型病毒，將隨著檔案的執行，載入記憶體",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "電腦病毒的發作起因為何?",
@@ -429,7 +429,7 @@
         "optionB": "程式產生",
         "optionC": "記憶體突變",
         "optionD": "細菌感染",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "何種程式軟體是以竊取資料為主，並不希望被駭者發現它的存在，才能繼續躲藏， 並藉由網路將被竊資料傳送給駭客?",
@@ -437,7 +437,7 @@
         "optionB": "電腦病毒",
         "optionC": "P2 P 軟體",
         "optionD": "備份程式",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "關於「電腦設備」之管理何者錯誤?",
@@ -445,7 +445,7 @@
         "optionB": "定期保養設備",
         "optionC": "允許使用者因個人方便隨意搬移設備",
         "optionD": "使用電源穩壓器",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "何種系統可以確保穩定的電腦電源?",
@@ -453,7 +453,7 @@
         "optionB": "網路系統",
         "optionC": "廣播系統",
         "optionD": "保全系統",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "不斷電系統( UPS) 的主要功能為何?",
@@ -461,7 +461,7 @@
         "optionB": "傳送檔案",
         "optionC": "維護電源品質",
         "optionD": "通訊協定",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "學校的電腦中心若發生火災時，使用何種滅火器材最適宜?",
@@ -469,7 +469,7 @@
         "optionB": "泡沫滅火器",
         "optionC": "水",
         "optionD": "乾粉滅火器",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "集線器(Hub)的網路運作是屬於 OSI 七層的那一層?",
@@ -477,7 +477,7 @@
         "optionB": "應用層",
         "optionC": "網路層",
         "optionD": "資料鏈結層",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "交換器(L2 Switch) 的網路運作是屬於 OSI 七層的那一層?",
@@ -485,7 +485,7 @@
         "optionB": "應用層",
         "optionC": "傳輸層",
         "optionD": "資料鏈結層",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "SSH( Secure SHell protocol) 伺服器為較為安全的遠端連線伺服器，其預設通訊埠號為何?",
@@ -493,7 +493,7 @@
         "optionB": "53",
         "optionC": "80",
         "optionD": "110",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "依能源局「指定能源用戶應遵行之節約能源規定」，在正常使用條件下，公眾出入之場所其室內冷氣溫度平均值不得低於攝氏幾度?",
@@ -501,7 +501,7 @@
         "optionB": "25",
         "optionC": "24",
         "optionD": "22",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "下列產業中耗能佔比最大的產業為?",
@@ -509,7 +509,7 @@
         "optionB": "公用事業",
         "optionC": "農林漁牧業",
         "optionD": "能源密集產業",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "下列何者「不是」節省能源的做法?",
@@ -517,7 +517,7 @@
         "optionB": "影印機當 15 分鐘無人使用時， 自動進入省電模式",
         "optionC": "電視機勿背著窗戶，並避免太陽直射",
         "optionD": "短程不開汽車，以儘量搭乘公車、騎單車或步行為宜",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "經濟部能源局的能源效率標示分為幾個等級?",
@@ -525,7 +525,7 @@
         "optionB": "3",
         "optionC": "5",
         "optionD": "7",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "溫室氣體排放量：指自排放源排出之各種溫室氣體量乘以各該物質溫暖化潛勢所得之合計量， 以?",
@@ -533,7 +533,7 @@
         "optionB": "二氧化碳(CO )",
         "optionC": "甲烷(CH )2 2 4",
         "optionD": "六氟化硫( SF ) 當量表示",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "國家溫室氣體長期減量目標為中華民國 139 年( 西元 2050 年)溫室氣體排放量降為中華民國 94 年溫室氣體排放量的百分之多少以下?",
@@ -541,7 +541,7 @@
         "optionB": "30",
         "optionC": "40",
         "optionD": "50",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "溫室氣體減量及管理法所稱主管機關，在中央為下列何單位?",
@@ -549,7 +549,7 @@
         "optionB": "環境部",
         "optionC": "國家發展委員會",
         "optionD": "衛生福利部",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "溫室氣體減量及管理法中所稱：一單位之排放額度相當於允許排放多少的二氧化碳當量?",
@@ -557,7 +557,7 @@
         "optionB": "1 立方米",
         "optionC": "1 公噸",
         "optionD": "1 公升 之二氧化碳當量",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "下列何者「不是」全球暖化帶來的影響?",
@@ -565,7 +565,7 @@
         "optionB": "熱浪",
         "optionC": "地震",
         "optionD": "旱災",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "下列何種方法無法減少二氧化碳?",
@@ -573,7 +573,7 @@
         "optionB": "選購當地、當季食材，減少運輸碳足跡",
         "optionC": "多吃蔬菜，少吃肉",
         "optionD": "自備杯筷，減少免洗用具垃圾量",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "下列何者不會減少溫室氣體的排放?",
@@ -581,7 +581,7 @@
         "optionB": "大量植樹造林， 禁止亂砍亂伐",
         "optionC": "增高燃煤氣體排放的煙囪",
         "optionD": "開發太陽能、水能等新能源",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "關於綠色採購的敘述，下列何者錯誤?",
@@ -589,7 +589,7 @@
         "optionB": "採購的產品對環境及人類健康有最小的傷害性",
         "optionC": "選購對環境傷害較少、污染程度較低的產品",
         "optionD": "以精美包裝為主要首選",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "一旦大氣中的二氧化碳含量增加，會引起那一種後果?",
@@ -597,7 +597,7 @@
         "optionB": "臭氧層破洞",
         "optionC": "冰期來臨",
         "optionD": "海平面下降",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "關於建築中常用的金屬玻璃帷幕牆， 下列敘述何者正確?",
@@ -605,7 +605,7 @@
         "optionB": "玻璃帷幕牆適用於臺灣，讓夏天的室內產生溫暖的感覺",
         "optionC": "在溫度高的國家， 建築物使用金屬玻璃帷幕會造成日照輻射熱，產生室內「溫室效應」",
         "optionD": "臺灣的氣候濕熱，特別適合在大樓以金屬玻璃帷幕作為建材",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "下列何者不是能源之類型?",
@@ -613,7 +613,7 @@
         "optionB": "壓縮空氣",
         "optionC": "蒸汽",
         "optionD": "熱傳",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "我國已制定能源管理系統標準為?",
@@ -621,7 +621,7 @@
         "optionB": "CNS 12681",
         "optionC": "CNS 14001",
         "optionD": "CNS 22000",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "台灣電力股份有限公司所謂的三段式時間電價於夏月平日(非週六日) 之尖峰用電時段為何?",
@@ -629,7 +629,7 @@
         "optionB": "9：00~24： 00",
         "optionC": "6： 00~11：00",
         "optionD": "16：00~22 ：00",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "基於節能減碳的目標，下列何種光源發光效率最低，不鼓勵使用?",
@@ -637,7 +637,7 @@
         "optionB": "LED 燈泡",
         "optionC": "省電燈泡",
         "optionD": "螢光燈管",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "下列的能源效率分級標示，哪一項較省電?",
@@ -645,7 +645,7 @@
         "optionB": "2",
         "optionC": "3",
         "optionD": "4",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "下列何者「不是」目前台灣主要的發電方式?",
@@ -653,7 +653,7 @@
         "optionB": "燃氣",
         "optionC": "水力",
         "optionD": "地熱",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "有關延長線及電線的使用，下列敘述何者錯誤?",
@@ -661,7 +661,7 @@
         "optionB": "使用中之延長線如有異味產生，屬正常現象不須理會",
         "optionC": "應避開火源，以免外覆塑膠熔解，致使用時造成短路",
         "optionD": "使用老舊之延長線，容易造成短路、漏電或觸電等危險情形，應立即更換",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "有關觸電的處理方式，下列敘述何者錯誤?",
@@ -669,7 +669,7 @@
         "optionB": "把電源開關關閉",
         "optionC": "通知救護人員",
         "optionD": "使用絕緣的裝備來移除電源",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "目前電費單中， 係以「度」為收費依據， 請問下列何者為其單位?",
@@ -677,7 +677,7 @@
         "optionB": "kWh",
         "optionC": "kJ",
         "optionD": "kJh",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "依據台灣電力公司三段式時間電價(尖峰、半尖峰及離峰時段) 的規定，請問哪個時段電價最便宜?",
@@ -685,7 +685,7 @@
         "optionB": "夏月半尖峰時段",
         "optionC": "非夏月半尖峰時段",
         "optionD": "離峰時段",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "當用電設備遭遇電源不足或輸配電設備受限制時， 導致用戶暫停或減少用電的情形，常以下列何者名稱出現?",
@@ -693,7 +693,7 @@
         "optionB": "限電",
         "optionC": "斷電",
         "optionD": "配電",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "照明控制可以達到節能與省電費的好處， 下列何種方法最適合一般住宅社區兼顧節能、經濟性與實際照明需求?",
@@ -701,7 +701,7 @@
         "optionB": "走廊與地下停車場選用紅外線感應控制電燈",
         "optionC": "全面調低照明需求",
         "optionD": "晚上關閉所有公共區域的照明",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "上班性質的商辦大樓為了降低尖峰時段用電，下列何者是錯的?",
@@ -709,7 +709,7 @@
         "optionB": "白天有陽光照明， 所以白天可以將照明設備全關掉",
         "optionC": "汰換老舊電梯馬達並使用變頻控制",
         "optionD": "電梯設定隔層停止控制， 減少頻繁啟動",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "為了節能與降低電費的需求， 應該如何正確選用家電產品?",
@@ -717,7 +717,7 @@
         "optionB": "優先選用取得節能標章的產品",
         "optionC": "設備沒有壞，還是堪用，繼續用，不會增加支出",
         "optionD": "選用能效分級數字較高的產品， 效率較高，5 級的比 1 級的電器產品更省電",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "有效而正確的節能從選購產品開始， 就一般而言， 下列的因素中，何者是選購電氣設備的最優先考量項目?",
@@ -725,7 +725,7 @@
         "optionB": "採購價格比較， 便宜優先",
         "optionC": "安全第一，一定要通過安規檢驗合格",
         "optionD": "名人或演藝明星推薦，應該口碑較好",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "高效率燈具如果要降低眩光的不舒服，下列何者與降低刺眼眩光影響無關?",
@@ -733,7 +733,7 @@
         "optionB": "燈具的遮光板",
         "optionC": "光源的色溫",
         "optionD": "採用間接照明",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "用電熱爐煮火鍋，採用中溫 50% 加熱， 比用高溫 100 %加熱， 將同一鍋水煮開，下列何者是對的?",
@@ -741,7 +741,7 @@
         "optionB": "高溫 100 %加熱比較省電",
         "optionC": "中溫 50% 加熱，電流反而比較大",
         "optionD": "兩種方式用電量是一樣的",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "電力公司為降低尖峰負載時段超載的停電風險，將尖峰時段電價費率(每度電單價)提高，離峰時段的費率降低， 引導用戶轉移部分負載至離峰時段，這種電能管理策略稱為?",
@@ -749,7 +749,7 @@
         "optionB": "時間電價",
         "optionC": "可停電力",
         "optionD": "表燈用戶彈性電價",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "集合式住宅的地下停車場需要維持通風良好的空氣品質， 又要兼顧節能效益，下列的排風扇控制方式何者是不恰當的?",
@@ -757,7 +757,7 @@
         "optionB": "兩天一次運轉通風扇就好了",
         "optionC": "結合一氧化碳偵測器， 自動啟動/停止控制",
         "optionD": "設定每天早晚二次定期啟動排風扇",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "大樓電梯為了節能及生活便利需求， 可設定部分控制功能，下列何者是錯誤或不正確的做法?",
@@ -765,7 +765,7 @@
         "optionB": "縮短每次開門/關門的時間",
         "optionC": "電梯設定隔樓層停靠，減少頻繁啟動",
         "optionD": "電梯馬達加裝變頻控制",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "為了節能及兼顧冰箱的保溫效果，下列何者是錯誤或不正確的做法?",
@@ -773,7 +773,7 @@
         "optionB": "食物存放位置紀錄清楚，一次拿齊食物， 減少開門次數",
         "optionC": "冰箱門的密封壓條如果鬆弛，無法緊密關門， 應儘速更新修復",
         "optionD": "冰箱內食物擺滿塞滿，效益最高",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "電鍋剩飯持續保溫至隔天再食用，或剩飯先放冰箱冷藏， 隔天用微波爐加熱，就加熱及節能觀點來評比，下列何者是對的?",
@@ -781,7 +781,7 @@
         "optionB": "微波爐再加熱比較省電又方便",
         "optionC": "兩者一樣",
         "optionD": "優先選電鍋保溫方式，因為馬上就可以吃",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "不斷電系統 UPS 與緊急發電機的裝置都是應付臨時性供電狀況；停電時，下列的陳述何者是對的?",
@@ -789,7 +789,7 @@
         "optionB": "不斷電系統 UPS 先啟動，緊急發電機是後備的",
         "optionC": "兩者同時啟動",
         "optionD": "不斷電系統 UPS 可以撐比較久",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "下列何者為非再生能源?",
@@ -797,7 +797,7 @@
         "optionB": "焦煤",
         "optionC": "太陽能",
         "optionD": "水力能",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "一般桶裝瓦斯(液化石油氣) 主要成分為丁烷與下列何種成分所組成?",
@@ -805,7 +805,7 @@
         "optionB": "乙烷",
         "optionC": "丙烷",
         "optionD": "辛烷",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "在正常操作，且提供相同暖氣之情形下， 下列何種暖氣設備之能源效率最高?",
@@ -813,7 +813,7 @@
         "optionB": "電熱風扇",
         "optionC": "電熱輻射機",
         "optionD": "電暖爐",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "下列何種熱水器所需能源費用最少?",
@@ -821,7 +821,7 @@
         "optionB": "天然瓦斯熱水器",
         "optionC": "柴油鍋爐熱水器",
         "optionD": "熱泵熱水器",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "某公司希望能進行節能減碳， 為地球盡點心力，以下何種作為並不恰當?",
@@ -829,7 +829,7 @@
         "optionB": "盤查所有能源使用設備",
         "optionC": "實行能源管理",
         "optionD": "為考慮經營成本， 汰換設備時採買最便宜的機種",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "冷氣外洩會造成能源之浪費， 下列的入門設施與管理何者最耗能?",
@@ -837,7 +837,7 @@
         "optionB": "全開式無氣簾",
         "optionC": "自動門有氣簾",
         "optionD": "自動門無氣簾",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "下列何者「不是」潔淨能源?",
@@ -845,7 +845,7 @@
         "optionB": "地熱",
         "optionC": "太陽能",
         "optionD": "頁岩氣",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "有關再生能源中的風力、太陽能的使用特性中，下列敘述中何者錯誤?",
@@ -853,7 +853,7 @@
         "optionB": "不易受天氣影響",
         "optionC": "需較大的土地面積",
         "optionD": "設置成本較高",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "有關台灣能源發展所面臨的挑戰，下列選項何者是錯誤的?",
@@ -861,7 +861,7 @@
         "optionB": "化石能源所占比例高， 溫室氣體減量壓力大",
         "optionC": "自產能源充足，不需仰賴進口",
         "optionD": "能源密集度較先進國家仍有改善空間",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "全球暖化潛勢(Global Warming Potential, GWP) 是衡量溫室氣體對全球暖化的影響，其中是以何者為比較基準?",
@@ -869,7 +869,7 @@
         "optionB": "CH",
         "optionC": "SF",
         "optionD": "N O",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "下列何者燈泡的發光效率最高?",
@@ -877,7 +877,7 @@
         "optionB": "省電燈泡",
         "optionC": "白熾燈泡",
         "optionD": "鹵素燈泡",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "有關吹風機使用注意事項，下列敘述中錯誤的是?",
@@ -885,7 +885,7 @@
         "optionB": "應保持吹風機進、出風口之空氣流通，以免造成過熱",
         "optionC": "應避免長時間使用，使用時應保持適當的距離",
         "optionD": "可用來作為烘乾棉被及床單等用途",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "下列何者是造成聖嬰現象發生的主要原因?",
@@ -893,7 +893,7 @@
         "optionB": "溫室效應",
         "optionC": "霧霾",
         "optionD": "颱風",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "為了避免漏電而危害生命安全，下列「不正確」的做法是?",
@@ -901,7 +901,7 @@
         "optionB": "有濕氣的用電場合， 線路加裝漏電斷路器",
         "optionC": "加強定期的漏電檢查及維護",
         "optionD": "使用保險絲來防止漏電的危險性",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "用電設備的線路保護用電力熔絲( 保險絲) 經常燒斷，造成停電的不便， 下列「不正確」的作法是?",
@@ -909,7 +909,7 @@
         "optionB": "減少線路連接的電氣設備，降低用電量",
         "optionC": "重新設計線路，改較粗的導線或用兩迴路並聯",
         "optionD": "提高用電設備的功率因數",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "政府為推廣節能設備而補助民眾汰換老舊設備，下列何者的節電效益最佳?",
@@ -917,7 +917,7 @@
         "optionB": "優先淘汰 10 年以上的老舊冷氣機為能源效率標示分級中之一級冷氣機",
         "optionC": "汰換電風扇， 改裝設能源效率標示分級為一級的冷氣機",
         "optionD": "因為經費有限，選擇便宜的產品比較重要",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "依據我國現行國家標準規定， 冷氣機的冷氣能力標示應以何種單位表示?",
@@ -925,7 +925,7 @@
         "optionB": "BTU/h",
         "optionC": "kcal/h",
         "optionD": "RT",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "漏電影響節電成效， 並且影響用電安全， 簡易的查修方法為?",
@@ -933,7 +933,7 @@
         "optionB": "用手碰觸就可以知道有無漏電",
         "optionC": "用三用電表檢查",
         "optionD": "看電費單有無紀錄",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "使用了 10 幾年的通風換氣扇老舊又骯髒，噪音又大，維修時採取下列哪一種對策最為正確及節能?",
@@ -941,7 +941,7 @@
         "optionB": "不必再猶豫， 10 年以上的電扇效率偏低，直接換為高效率通風扇",
         "optionC": "直接噴沙拉脫清潔劑就可以了，省錢又方便",
         "optionD": "高效率通風扇較貴， 換同機型的廠內備用品就好了",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "電氣設備維修時，在關掉電源後，最好停留 1 至 5 分鐘才開始檢修，其主要的理由為下列何者?",
@@ -949,7 +949,7 @@
         "optionB": "讓機器設備降溫下來再查修",
         "optionC": "讓裡面的電容器有時間放電完畢， 才安全",
         "optionD": "法規沒有規定，這完全沒有必要",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "電氣設備裝設於有潮濕水氣的環境時，最應該優先檢查及確認的措施是?",
@@ -957,7 +957,7 @@
         "optionB": "電氣設備上有無安全保險絲",
         "optionC": "有無過載及過熱保護設備",
         "optionD": "有無可能傾倒及生鏽",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "為保持中央空調主機效率，每隔多久時間應請維護廠商或保養人員檢視中央空調主機?",
@@ -965,7 +965,7 @@
         "optionB": "1 年",
         "optionC": "1. 5 年",
         "optionD": "2 年",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "家庭用電最大宗來自於?",
@@ -973,7 +973,7 @@
         "optionB": "電腦",
         "optionC": "電視",
         "optionD": "吹風機",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "有關電冰箱放置位置的處理方式，下列何者是正確的?",
@@ -981,7 +981,7 @@
         "optionB": "背後距離牆壁應有 10 公分以上空間，以利散熱",
         "optionC": "室內空間有限，側面緊貼牆壁就可以了",
         "optionD": "冰箱最好貼近流理台，以便存取食材",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "下列何項「不是」照明節能改善需優先考量之因素?",
@@ -989,7 +989,7 @@
         "optionB": "燈具之外型是否美觀",
         "optionC": "照明之品質是否適當",
         "optionD": "照度是否適當",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "醫院、飯店或宿舍之熱水系統耗能大，要設置熱水系統時，應優先選用何種熱水系統較節能?",
@@ -997,7 +997,7 @@
         "optionB": "熱泵熱水系統",
         "optionC": "瓦斯熱水系統",
         "optionD": "重油熱水系統",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "如下圖， 你知道這是什麼標章嗎?",
@@ -1005,7 +1005,7 @@
         "optionB": "環保標章",
         "optionC": "奈米標章",
         "optionD": "能源效率標示",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "台灣電力公司電價表所指的夏月用電月份( 電價比其他月份高) 是為?",
@@ -1013,7 +1013,7 @@
         "optionB": "5 /1~ 8/31",
         "optionC": "6/1~ 9/ 30",
         "optionD": "7/ 1~10 / 31",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "屋頂隔熱可有效降低空調用電，下列何項措施較不適當?",
@@ -1021,7 +1021,7 @@
         "optionB": "屋頂綠化",
         "optionC": "於適當位置設置太陽能板發電同時加以隔熱",
         "optionD": "鋪設隔熱磚",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "電腦機房使用時間長、耗電量大，下列何項措施對電腦機房之用電管理較不適當?",
@@ -1029,7 +1029,7 @@
         "optionB": "設置冷熱通道",
         "optionC": "使用較高效率之空調設備",
         "optionD": "使用新型高效能電腦設備",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "下列有關省水標章的敘述中正確的是?",
@@ -1037,7 +1037,7 @@
         "optionB": "獲得省水標章的產品並無嚴格測試，所以對消費者並無一定的保障",
         "optionC": "省水標章能激勵廠商重視省水產品的研發與製造，進而達到推廣節水良性循環之目的",
         "optionD": "省水標章除有用水設備外，亦可使用於冷氣或冰箱上",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "透過淋浴習慣的改變就可以節約用水，以下的何種方式正確?",
@@ -1045,7 +1045,7 @@
         "optionB": "等待熱水前流出的冷水可以用水桶接起來再利用",
         "optionC": "淋浴流下的水不可以刷洗浴室地板",
         "optionD": "淋浴沖澡流下的水，可以儲蓄洗菜使用",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "家人洗澡時，一個接一個連續洗，也是一種有效的省水方式嗎?",
@@ -1053,7 +1053,7 @@
         "optionB": "否，這跟省水沒什麼關係，不用這麼麻煩",
         "optionC": "否，因為等熱水時流出的水量不多",
         "optionD": "有可能省水也可能不省水，無法定論",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "下列何種方式有助於節省洗衣機的用水量?",
@@ -1061,7 +1061,7 @@
         "optionB": "購買洗衣機時選購有省水標章的洗衣機， 可有效節約用水",
         "optionC": "無需將衣物適當分類",
         "optionD": "洗濯衣物時盡量選擇高水位才洗的乾淨",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "如果水龍頭流量過大，下列何種處理方式是錯誤的?",
@@ -1069,7 +1069,7 @@
         "optionB": "加裝可自動關閉水龍頭的自動感應器",
         "optionC": "直接換裝沒有省水標章的水龍頭",
         "optionD": "直接調整水龍頭到適當水量",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "洗菜水、洗碗水、洗衣水、洗澡水等的清洗水，不可直接利用來做什麼用途?",
@@ -1077,7 +1077,7 @@
         "optionB": "沖馬桶",
         "optionC": "澆花",
         "optionD": "飲用水",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "如果馬桶有不正常的漏水問題，下列何者處理方式是錯誤的?",
@@ -1085,7 +1085,7 @@
         "optionB": "立刻檢查馬桶水箱零件有無鬆脫， 並確認有無漏水",
         "optionC": "滴幾滴食用色素到水箱裡，檢查有無有色水流進馬桶， 代表可能有漏水",
         "optionD": "通知水電行或檢修人員來檢修， 徹底根絕漏水問題",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "水費的計量單位是「度」，你知道一度水的容量大約有多少?",
@@ -1093,7 +1093,7 @@
         "optionB": "3000 個 600cc 的寶特瓶",
         "optionC": "1 立方公尺的水量",
         "optionD": "3 立方公尺的水量",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "臺灣在一年中什麼時期會比較缺水(即枯水期)?",
@@ -1101,7 +1101,7 @@
         "optionB": "9 月至 12月",
         "optionC": "11 月至次年 4 月",
         "optionD": "臺灣全年不缺水",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "下列何種現象「不是」直接造成台灣缺水的原因?",
@@ -1109,7 +1109,7 @@
         "optionB": "地形山高坡陡，所以雨一下很快就會流入大海",
         "optionC": "因為民生與工商業用水需求量都愈來愈大，所以缺水季節很容易無水可用",
         "optionD": "台灣地區夏天過熱， 致蒸發量過大",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "冷凍食品該如何讓它退冰，才是既「節能」又「省水」?",
@@ -1117,7 +1117,7 @@
         "optionB": "使用微波爐解凍快速又方便",
         "optionC": "烹煮前盡早拿出來放置退冰",
         "optionD": "用熱水浸泡， 每 5 分鐘更換一次",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "洗碗、洗菜用何種方式可以達到清洗又省水的效果?",
@@ -1125,7 +1125,7 @@
         "optionB": "將適量的水放在盆槽內洗濯，以減少用水",
         "optionC": "把碗盤、菜等浸在水盆裡，再開水龍頭拼命沖水",
         "optionD": "用熱水及冷水大量交叉沖洗達到最佳清洗效果",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "解決台灣水荒(缺水) 問題的無效對策是?",
@@ -1133,7 +1133,7 @@
         "optionB": "全面節約用水",
         "optionC": "水資源重複利用， 海水淡化…等",
         "optionD": "積極推動全民體育運動",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "如下圖， 你知道這是什麼標章嗎?",
@@ -1141,7 +1141,7 @@
         "optionB": "環保標章",
         "optionC": "省水標章",
         "optionD": "節能標章",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "澆花的時間何時較為適當，水分不易蒸發又對植物最好?",
@@ -1149,7 +1149,7 @@
         "optionB": "下午時段",
         "optionC": "清晨或傍晚",
         "optionD": "半夜十二點",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "下列何種方式沒有辦法降低洗衣機之使用水量，所以不建議採用?",
@@ -1157,7 +1157,7 @@
         "optionB": "選擇快洗行程",
         "optionC": "兩、三件衣服也丟洗衣機洗",
         "optionD": "選擇有自動調節水量的洗衣機",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "有關省水馬桶的使用方式與觀念認知，下列何者是錯誤的?",
@@ -1165,7 +1165,7 @@
         "optionB": "如果家裡的馬桶是傳統舊式， 可以加裝二段式沖水配件",
         "optionC": "省水馬桶因為水量較小， 會有沖不乾淨的問題，所以應該多沖幾次",
         "optionD": "因為馬桶是家裡用水的大宗， 所以應該儘量採用省水馬桶來節約用水",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "下列的洗車方式，何者「無法」節約用水?",
@@ -1173,7 +1173,7 @@
         "optionB": "用水桶及海綿抹布擦洗",
         "optionC": "用大口徑強力水注沖洗",
         "optionD": "利用機械自動洗車，洗車水處理循環使用",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "下列何種現象「無法」看出家裡有漏水的問題?",
@@ -1181,7 +1181,7 @@
         "optionB": "牆面、地面或天花板忽然出現潮濕的現象",
         "optionC": "馬桶裡的水常在晃動，或是沒辦法止水",
         "optionD": "水費有大幅度增加",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "蓮蓬頭出水量過大時，下列對策何者「無法」達到省水?",
@@ -1189,7 +1189,7 @@
         "optionB": "淋浴時水量開大， 無需改變使用方法",
         "optionC": "洗澡時間盡量縮短， 塗抹肥皂時要把蓮蓬頭關起來",
         "optionD": "調整熱水器水量到適中位置",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "自來水淨水步驟，何者是錯誤的?",
@@ -1197,7 +1197,7 @@
         "optionB": "沉澱",
         "optionC": "過濾",
         "optionD": "煮沸",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "為了取得良好的水資源，通常在河川的哪一段興建水庫?",
@@ -1205,7 +1205,7 @@
         "optionB": "中游",
         "optionC": "下游",
         "optionD": "下游出口",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "台灣是屬缺水地區， 每人每年實際分配到可利用水量是世界平均值的約多少?",
@@ -1213,7 +1213,7 @@
         "optionB": "1 /4",
         "optionC": "1 /5",
         "optionD": "1/6",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "台灣年降雨量是世界平均值的 2.6 倍，卻仍屬缺水地區， 下列何者不是真正缺水的原因?",
@@ -1221,7 +1221,7 @@
         "optionB": "降雨量在地域、季節分佈極不平均",
         "optionC": "水庫蓋得太少",
         "optionD": "台灣自來水水價過於便宜",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "電源插座堆積灰塵可能引起電氣意外火災，維護保養時的正確做法是?",
@@ -1229,7 +1229,7 @@
         "optionB": "直接用吹風機吹開灰塵就可以了",
         "optionC": "應先關閉電源總開關箱內控制該插座的分路開關，然後再清理灰塵",
         "optionD": "可以用金屬接點清潔劑噴在插座中去除銹蝕",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "溫室氣體易造成全球氣候變遷的影響，下列何者不屬於溫室氣體?",
@@ -1237,7 +1237,7 @@
         "optionB": "氫氟碳化物（ HFCs）",
         "optionC": "甲烷（CH ）",
         "optionD": "氧氣（ O ）",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "2 4  就能源管理系統而言，下列何者不是能源效率的表示方式?",
@@ -1245,7 +1245,7 @@
         "optionB": "照明系統－ 瓦特/平方公尺(W/m 2 )",
         "optionC": "冰水主機－ 千瓦/ 冷凍噸(kW/RT)",
         "optionD": "冰水主機－千瓦 (kW)",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "某工廠規劃汰換老舊低效率設備，以下何種做法並不恰當?",
@@ -1253,7 +1253,7 @@
         "optionB": "先針對老舊設備建立其「能源指標」或「能源基線」",
         "optionC": "唯恐一直浪費能源，馬上將老舊設備汰換掉",
         "optionD": "改善後需進行能源績效評估",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "20800 電腦輔助機械設計製圖 丙級 工作項目 01： 基本工作 正 12 面體是由 12 個?",
@@ -1261,7 +1261,7 @@
         "optionB": "正四邊形",
         "optionC": "正五邊形",
         "optionD": "正六邊形 在表面所構成",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "可延長至圖外作為尺度界線的是?",
@@ -1269,7 +1269,7 @@
         "optionB": "隱藏線",
         "optionC": "中心線",
         "optionD": "剖面線",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "兩圓外切時，其連心線等於?",
@@ -1277,7 +1277,7 @@
         "optionB": "兩直徑差",
         "optionC": "兩半徑和",
         "optionD": "兩半徑差",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "一直線與圓周相切， 切點與圓心之連線與該直線成為?",
@@ -1285,7 +1285,7 @@
         "optionB": "45°",
         "optionC": "60°",
         "optionD": "90°",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "上墨時， 應使墨線之?",
@@ -1293,7 +1293,7 @@
         "optionB": "外線",
         "optionC": "內緣",
         "optionD": "前緣 覆蓋於鉛筆線上",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "國際標準組織之簡稱為?",
@@ -1301,7 +1301,7 @@
         "optionB": "ＳＩＯ",
         "optionC": "ＩＳＯ",
         "optionD": "ＩＯＳ",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "實際長度為 50 ㎜， 若圖面以 100 ㎜長繪之，則比例為?",
@@ -1309,7 +1309,7 @@
         "optionB": "1:20",
         "optionC": "20: 1",
         "optionD": "2:1",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "A2 圖紙可裁成 A4 圖紙?",
@@ -1317,7 +1317,7 @@
         "optionB": "4 張",
         "optionC": "6 張",
         "optionD": "8 張",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "橢圓畫法正確性較高的畫法為?",
@@ -1325,7 +1325,7 @@
         "optionB": "二圓心畫法",
         "optionC": "三圓心畫法",
         "optionD": "四圓心畫法",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "線條規範中，中線用於?",
@@ -1333,7 +1333,7 @@
         "optionB": "折斷線",
         "optionC": "隱藏線",
         "optionD": "節線",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "當圓在平面上沿一直線滾動時，圓周上一點所形成之軌跡為?",
@@ -1341,7 +1341,7 @@
         "optionB": "螺旋線",
         "optionC": "擺線",
         "optionD": "複曲線",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "圖紙裝訂成冊摺疊時，圖面之標題欄必須摺在?",
@@ -1349,7 +1349,7 @@
         "optionB": "背面",
         "optionC": "內側",
         "optionD": "底面",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "日本工業國家標準簡稱?",
@@ -1357,7 +1357,7 @@
         "optionB": "ＪＩＳ",
         "optionC": "ＩＳＪ",
         "optionD": "ＩＪＳ",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "F 級鉛筆的硬度比 HB 級鉛筆?",
@@ -1365,7 +1365,7 @@
         "optionB": "軟",
         "optionC": "一樣",
         "optionD": "不一定",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "比例為 1 ：2 的圖形，長為 20 ㎜，則實物長為?",
@@ -1373,7 +1373,7 @@
         "optionB": "20 ㎜",
         "optionC": "30 ㎜",
         "optionD": "40 ㎜",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "不規則連續細實線為?",
@@ -1381,7 +1381,7 @@
         "optionB": "指線",
         "optionC": "折斷線",
         "optionD": "隱藏線",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "A2 圖紙為 A3 圖紙面積的?",
@@ -1389,7 +1389,7 @@
         "optionB": "2 倍",
         "optionC": "倍",
         "optionD": "3 倍",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "視圖內作旋轉剖面時，外形輪廓用?",
@@ -1397,7 +1397,7 @@
         "optionB": "實線",
         "optionC": "虛線",
         "optionD": "點線 畫出",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "描圖紙之厚度單位為?",
@@ -1405,7 +1405,7 @@
         "optionB": "g/㎜ 2",
         "optionC": "g/ m2",
         "optionD": "g/dm 2",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "下列屬空間曲線的是?",
@@ -1413,7 +1413,7 @@
         "optionB": "螺旋線",
         "optionC": "雙曲線",
         "optionD": "拋物線",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "分規的用途是?",
@@ -1421,7 +1421,7 @@
         "optionB": "轉量長度與畫圓",
         "optionC": "等分與畫圓",
         "optionD": "等分與轉量長度",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "使用丁字尺及一組三角板至多可將一圓分成幾等分?",
@@ -1429,7 +1429,7 @@
         "optionB": "12",
         "optionC": "9",
         "optionD": "6",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "中華民國國家標準之簡稱為?",
@@ -1437,7 +1437,7 @@
         "optionB": "ＣＮＳ",
         "optionC": "ＳＣＮ",
         "optionD": "ＮＣＳ",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "工程圖上寫阿拉伯數字時，行與行之間隔約為字高的?",
@@ -1445,7 +1445,7 @@
         "optionB": "2/3",
         "optionC": "1/ 8",
         "optionD": "1/10",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "工程製圖常用比例為?",
@@ -1453,7 +1453,7 @@
         "optionB": "1.3.5",
         "optionC": "2.5 .10",
         "optionD": "5. 10.15 倍數的比例",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "製造機件所用的圖， 通常稱為?",
@@ -1461,7 +1461,7 @@
         "optionB": "機構圖",
         "optionC": "製配圖",
         "optionD": "工作圖",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "製圖用紙大小 297× 420mm 的圖紙，稱為?",
@@ -1469,7 +1469,7 @@
         "optionB": "A3",
         "optionC": "A4",
         "optionD": "A5 圖紙",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "下列線條中如在圖形上重覆時，最優先者為?",
@@ -1477,7 +1477,7 @@
         "optionB": "中心線",
         "optionC": "粗實線",
         "optionD": "假想線",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "橢圓短軸端點至焦點之距離等於?",
@@ -1485,7 +1485,7 @@
         "optionB": "長徑之半",
         "optionC": "短徑",
         "optionD": "短徑之半",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "一動點對一定點作等距運動， 其所形成之軌跡為?",
@@ -1493,7 +1493,7 @@
         "optionB": "拋物線",
         "optionC": "圓",
         "optionD": "橢圓",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "直角三角形 60°角對應邊與 30° 角對應邊之比為?",
@@ -1501,7 +1501,7 @@
         "optionB": ":1",
         "optionC": ":1",
         "optionD": "1:",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "利用三角板配合丁字尺可畫?",
@@ -1509,7 +1509,7 @@
         "optionB": "35°",
         "optionC": "25°",
         "optionD": "15° 之斜線",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "一小圓在另一大圓內滾動時， 小圓上某定點所形成之軌跡為?",
@@ -1517,7 +1517,7 @@
         "optionB": "外擺線",
         "optionC": "正擺線",
         "optionD": "蝸線",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "鉛筆筆芯硬度順序為?",
@@ -1525,7 +1525,7 @@
         "optionB": "2H、H、F、HB",
         "optionC": "F、H、HB、2H",
         "optionD": "2H、HB、F、H",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "正多邊形之頂點與圓周相接時，則稱此圓為多邊形的?",
@@ -1533,7 +1533,7 @@
         "optionB": "內接圓",
         "optionC": "外切圓",
         "optionD": "外接圓",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "製圖用紙之大小尺度，其中 841× 594 mm 是?",
@@ -1541,7 +1541,7 @@
         "optionB": "A1",
         "optionC": "A2",
         "optionD": "A3",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "半圓之圓周角恆等於?",
@@ -1549,7 +1549,7 @@
         "optionB": "120°",
         "optionC": "90°",
         "optionD": "45°",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "三角形的外角和等於?",
@@ -1557,7 +1557,7 @@
         "optionB": "180°",
         "optionC": "270°",
         "optionD": "360°",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "任意五邊形之內角和為?",
@@ -1565,7 +1565,7 @@
         "optionB": "270 °",
         "optionC": "360°",
         "optionD": "540°",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "中文字體筆畫的粗細約為字高的?",
@@ -1573,7 +1573,7 @@
         "optionB": "1/3",
         "optionC": "1/ 5",
         "optionD": "1/15",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "繪鉛筆圖打底稿時， 應力求?",
@@ -1581,7 +1581,7 @@
         "optionB": "粗淡",
         "optionC": "細淡",
         "optionD": "細黑",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "根據投影的原理，描述物件形狀的方法有立體表現法和?",
@@ -1589,7 +1589,7 @@
         "optionB": "平面",
         "optionC": "透視",
         "optionD": "陰影 表現法",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "表示移動後之狀態和位置時， 以?",
@@ -1597,7 +1597,7 @@
         "optionB": "細實線",
         "optionC": "假想線",
         "optionD": "斷裂線 繪之",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "假想線應以?",
@@ -1605,7 +1605,7 @@
         "optionB": "細實線",
         "optionC": "兩點細鏈線",
         "optionD": "徒手細實線 表示",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "二圓內切則連心線長等於?",
@@ -1613,7 +1613,7 @@
         "optionB": "兩直徑差",
         "optionC": "兩半徑和",
         "optionD": "兩半徑差",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "橢圓畫法最常用的為?",
@@ -1621,7 +1621,7 @@
         "optionB": "二圓心近似法",
         "optionC": "三圓心近似法",
         "optionD": "四圓心近似法",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "作一線段垂直平分線，應以該線段的兩端各為圓心取一定長為半徑，該定長應?",
@@ -1629,7 +1629,7 @@
         "optionB": "等於該線段",
         "optionC": "小於該線段之半",
         "optionD": "大於該線段之半 為最合理",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "量規之主要用途為?",
@@ -1637,7 +1637,7 @@
         "optionB": "定比例",
         "optionC": "定角度",
         "optionD": "畫直線",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "畫直線時，鉛筆與紙面的傾斜角度約為?",
@@ -1645,7 +1645,7 @@
         "optionB": "60°",
         "optionC": "45°",
         "optionD": "30°",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "A4 圖紙之大小為?",
@@ -1653,7 +1653,7 @@
         "optionB": "297×210",
         "optionC": "420× 297",
         "optionD": "594×420 mm",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "表示參考用的鄰接部分以?",
@@ -1661,7 +1661,7 @@
         "optionB": "隱藏線",
         "optionC": "中心線",
         "optionD": "假想線 繪之",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "割面線之中段部分為?",
@@ -1669,7 +1669,7 @@
         "optionB": "細實線",
         "optionC": "虛線",
         "optionD": "兩點細鏈線",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "橢圓周上任一點至兩焦點的距離之和等於?",
@@ -1677,7 +1677,7 @@
         "optionB": "長徑之半",
         "optionC": "短徑加長徑",
         "optionD": "短徑",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "標題欄應畫於圖紙的?",
@@ -1685,7 +1685,7 @@
         "optionB": "右下方",
         "optionC": "左上方",
         "optionD": "左下方",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "圖面內容為了易於搜尋，常於圖框外圍作偶數等分刻畫，縱向框線中記入的符號是?",
@@ -1693,7 +1693,7 @@
         "optionB": "阿拉伯數字",
         "optionC": "中文簡寫數字",
         "optionD": "英文大體數字",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "圖紙長邊與短邊之比為?",
@@ -1701,7 +1701,7 @@
         "optionB": ":1",
         "optionC": ":1",
         "optionD": ":1",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "尺度界線以?",
@@ -1709,7 +1709,7 @@
         "optionB": "中線",
         "optionC": "細線",
         "optionD": "虛線 繪製",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "一點移動時，其與二定點之距離差恆為常數，該動點所形成之軌跡為?",
@@ -1717,7 +1717,7 @@
         "optionB": "拋物線",
         "optionC": "橢圓",
         "optionD": "雙曲線",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "使用針筆時宜使筆與紙面儘量成?",
@@ -1725,7 +1725,7 @@
         "optionB": "60°",
         "optionC": "40°",
         "optionD": "30°",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "工程製圖中，中文字應依印刷鉛字中的?",
@@ -1733,7 +1733,7 @@
         "optionB": "正仿宋",
         "optionC": "長仿宋",
         "optionD": "粗體為原則",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "不以細線繪製的為?",
@@ -1741,7 +1741,7 @@
         "optionB": "隱藏線",
         "optionC": "折斷線",
         "optionD": "作圖線",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "表示物體可見的外形輪廓線用?",
@@ -1749,7 +1749,7 @@
         "optionB": "徒手細線",
         "optionC": "細實線",
         "optionD": "粗實線",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "一點移動時，其與二定點間之距離和恆為常數，該動點所形成之軌跡為?",
@@ -1757,7 +1757,7 @@
         "optionB": "拋物線",
         "optionC": "橢圓",
         "optionD": "雙曲線",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "一平面切割一圓錐時，產生的平面曲線有?",
@@ -1765,7 +1765,7 @@
         "optionB": "4 種",
         "optionC": "5 種",
         "optionD": "6 種",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "正多邊形的每邊兩端接於圓周上，稱此多邊形為?",
@@ -1773,7 +1773,7 @@
         "optionB": "外切",
         "optionC": "內接",
         "optionD": "外接 多邊形",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "A4 圖紙在註解尺度時，其阿拉伯數字最小字高為?",
@@ -1781,7 +1781,7 @@
         "optionB": "2.5",
         "optionC": "3.5",
         "optionD": "5",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "60° 三角板之標稱大小係指那一邊?",
@@ -1789,7 +1789,7 @@
         "optionB": "60° 之對邊長",
         "optionC": "30°之對邊長",
         "optionD": "三角板之斜邊",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "一點鏈線不可繪製?",
@@ -1797,7 +1797,7 @@
         "optionB": "中心線",
         "optionC": "節線",
         "optionD": "表面處理範圍",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "虛線之間隔與線段之比約為?",
@@ -1805,7 +1805,7 @@
         "optionB": "1:3",
         "optionC": "1:5",
         "optionD": "1 :7",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "六邊形之內角和等於?",
@@ -1813,7 +1813,7 @@
         "optionB": "720°",
         "optionC": "900°",
         "optionD": "1080°",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "用以轉量長度及等分直線的工具是?",
@@ -1821,7 +1821,7 @@
         "optionB": "量角規",
         "optionC": "樑規",
         "optionD": "曲線規",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "不常用之放大比例為?",
@@ -1829,7 +1829,7 @@
         "optionB": "2. 5:1",
         "optionC": "5 :1",
         "optionD": "10: 1",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "目前對於取締盜版軟體的法令依據為?",
@@ -1837,7 +1837,7 @@
         "optionB": "請願法",
         "optionC": "公交法",
         "optionD": "獎勵投資條例",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "負責控制電腦執行的中央處理單元， 一般簡稱?",
@@ -1845,7 +1845,7 @@
         "optionB": "ROM",
         "optionC": "LAN",
         "optionD": "VGA",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "通稱為隨機存取記憶體者為?",
@@ -1853,7 +1853,7 @@
         "optionB": "ROM",
         "optionC": "LAM",
         "optionD": "VGA",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "通稱為唯讀記憶體者為?",
@@ -1861,7 +1861,7 @@
         "optionB": "ROM",
         "optionC": "LAM",
         "optionD": "VGA",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "電腦螢幕的尺度規格以?",
@@ -1869,7 +1869,7 @@
         "optionB": "螢幕垂直高",
         "optionC": "螢幕對角線長",
         "optionD": "螢幕面積大小 表示",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "下列何者可做為資料儲存之用?",
@@ -1877,7 +1877,7 @@
         "optionB": "隨身碟",
         "optionC": "繪圖機",
         "optionD": "鍵盤",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "下列線條 A─中心線， B─隱藏線，C─輪廓線，繪圖重疊時的優先順序為?",
@@ -1885,7 +1885,7 @@
         "optionB": "C、A、B",
         "optionC": "B、C、A",
         "optionD": "C、B、A",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "兩部以上的電腦和週邊設備連接在一起的模式，稱為?",
@@ -1893,7 +1893,7 @@
         "optionB": "擴充槽( Slot)",
         "optionC": "組合系統(Assembly system)",
         "optionD": "串列傳送( Serial transfer)",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "MS-Windows 的檔案資料夾結構為?",
@@ -1901,7 +1901,7 @@
         "optionB": "環狀",
         "optionC": "星狀",
         "optionD": "樹狀",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "在 MS-Windows 中，主檔名與副檔名間常以?",
@@ -1909,7 +1909,7 @@
         "optionB": "＃",
         "optionC": "＆",
         "optionD": "＊ 符號隔開",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "在視窗作業中要移動工作視窗時，應將指標指在?",
@@ -1917,7 +1917,7 @@
         "optionB": "圖示列",
         "optionC": "狀態列",
         "optionD": "標題列 拖曳",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "電腦螢幕解析度的單位是?",
@@ -1925,7 +1925,7 @@
         "optionB": "cps",
         "optionC": "dpi",
         "optionD": "pixel",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "bit 和 Byte 的關係為?",
@@ -1933,7 +1933,7 @@
         "optionB": "1 ：8",
         "optionC": "1： 16",
         "optionD": "1：32",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "個人電腦中，表示資料的基本單位為?",
@@ -1941,7 +1941,7 @@
         "optionB": "位元組(Byte)",
         "optionC": "字組( word)",
         "optionD": "雙字組(double word)",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "個人電腦中，負責資源調配及作業管理的軟體是?",
@@ -1949,7 +1949,7 @@
         "optionB": "編譯程式",
         "optionC": "作業系統",
         "optionD": "資料庫系統",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "評量雷射印表機列印速度的數值為?",
@@ -1957,7 +1957,7 @@
         "optionB": "CPS",
         "optionC": "DPI",
         "optionD": "PPM",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "1KB 等 於?",
@@ -1965,7 +1965,7 @@
         "optionB": "256",
         "optionC": "512",
         "optionD": "1024 Bytes",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "BIOS 是指?",
@@ -1973,7 +1973,7 @@
         "optionB": "位元指令",
         "optionC": "位元片微處理機結構",
         "optionD": "布林運算",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "在 MS 視窗作業系統中，將 C 碟之檔案拖曳至 A 碟的動作，稱為?",
@@ -1981,7 +1981,7 @@
         "optionB": "複製",
         "optionC": "搬移",
         "optionD": "刪除",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "在 MS 視窗作業系統中，將 D 碟之檔案拖曳至 D 碟另一資料夾之動作， 稱為?",
@@ -1989,7 +1989,7 @@
         "optionB": "複製",
         "optionC": "搬移",
         "optionD": "刪除",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "1 公尺等於?",
@@ -1997,7 +1997,7 @@
         "optionB": "100",
         "optionC": "1000",
         "optionD": "10000 公釐",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "機械工作圖所用的尺度單位是?",
@@ -2005,7 +2005,7 @@
         "optionB": "㎜",
         "optionC": "㎝",
         "optionD": "μm",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "CNS 工程圖用紙的規格，採用?",
@@ -2013,7 +2013,7 @@
         "optionB": "A",
         "optionC": "B",
         "optionD": "C 系列的規定",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "圖 紙 A0 的 大 小 是 A3 的?",
@@ -2021,7 +2021,7 @@
         "optionB": "3 倍",
         "optionC": "4 倍",
         "optionD": "8 倍",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "一張 A1 圖紙可裁成 A3 圖紙?",
@@ -2029,7 +2029,7 @@
         "optionB": "4 張",
         "optionC": "6 張",
         "optionD": "8 張",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "A2 工程圖紙上應繪製或印妥圖框， 圖框距紙邊的尺度， 最小為?",
@@ -2037,7 +2037,7 @@
         "optionB": "10㎜",
         "optionC": "15 ㎜",
         "optionD": "20 ㎜",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "工程圖中，字的大小以?",
@@ -2045,7 +2045,7 @@
         "optionB": "字寬",
         "optionC": "字間距",
         "optionD": "字面積 來決定",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "斜式拉丁字母與阿拉伯數字的傾斜角度約為?",
@@ -2053,7 +2053,7 @@
         "optionB": "67. 5°",
         "optionC": "75°",
         "optionD": "82.5 °",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "工程圖中，長形中文字的字寬為字高之?",
@@ -2061,7 +2061,7 @@
         "optionB": "3/ 4",
         "optionC": "2/3",
         "optionD": "1 /2",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "工程圖中，寬形中文字的字寬為字高之?",
@@ -2069,7 +2069,7 @@
         "optionB": "4/ 3",
         "optionC": "3/2",
         "optionD": "2 /1",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "在 MS 視窗作業系統中，要選取多個連續的檔案， 在選取前須先按住?",
@@ -2077,7 +2077,7 @@
         "optionB": "Ctrl 鍵",
         "optionC": "Ins 鍵",
         "optionD": "Shift 鍵",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "在 MS 視窗作業系統中，要選取多個非連續的檔案，在選取前須先按住?",
@@ -2085,7 +2085,7 @@
         "optionB": "Ctrl 鍵",
         "optionC": "Ins 鍵",
         "optionD": "Shift 鍵",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "下列設備何者可作為輸出與輸入使用?",
@@ -2093,7 +2093,7 @@
         "optionB": "滑鼠",
         "optionC": "硬碟",
         "optionD": "繪圖機",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "下列設備何者可作為輸出使用?",
@@ -2101,7 +2101,7 @@
         "optionB": "滑鼠",
         "optionC": "印表機",
         "optionD": "數位板",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "個人電腦之唯讀記憶體中的基本輸出入系統，簡稱為?",
@@ -2109,7 +2109,7 @@
         "optionB": "BIOS",
         "optionC": "CMOS",
         "optionD": "DRAM",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "下列何者不屬於作業系統軟體?",
@@ -2117,7 +2117,7 @@
         "optionB": "Linux",
         "optionC": "Unix",
         "optionD": "MS-Windows",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "一般橢圓之長軸與短軸必成?",
@@ -2125,7 +2125,7 @@
         "optionB": "垂直相交",
         "optionC": "相切",
         "optionD": "傾斜",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "三角柱為?",
@@ -2133,7 +2133,7 @@
         "optionB": "四面體",
         "optionC": "五面體",
         "optionD": "六面體",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "以一平面切割直立正圓錐，若割面與軸所相交之角等於元線與軸之交角，則所割之截面為?",
@@ -2141,7 +2141,7 @@
         "optionB": "橢圓",
         "optionC": "雙曲線",
         "optionD": "拋物線",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "在 MS 視窗作業系統中，中文與英數狀態的預設切換鍵為?",
@@ -2149,7 +2149,7 @@
         "optionB": "Ctrl+ Space",
         "optionC": "Alt+ Shift",
         "optionD": "Alt+Space",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "正 n 邊形每一內角為?",
@@ -2157,7 +2157,7 @@
         "optionB": "120- 360/n",
         "optionC": "180-360 /n",
         "optionD": "240-360/ n 度",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "從斜錐體之頂點到底面垂線稱為此斜錐體之?",
@@ -2165,7 +2165,7 @@
         "optionB": "高",
         "optionC": "軸",
         "optionD": "底",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "正五角形最少可分為?",
@@ -2173,7 +2173,7 @@
         "optionB": "三個",
         "optionC": "四個",
         "optionD": "五個 三角形",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "正 N 邊形之內角和為?",
@@ -2181,7 +2181,7 @@
         "optionB": "(N+ 1)× 180°",
         "optionC": "(N-2)× 180°",
         "optionD": "(N+2 )×180°",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "下列線條何者以一點細鏈線繪製?",
@@ -2189,7 +2189,7 @@
         "optionB": "折斷線",
         "optionC": "中心線",
         "optionD": "假想線",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "尺度界線為?",
@@ -2197,7 +2197,7 @@
         "optionB": "細實線",
         "optionC": "細鏈線",
         "optionD": "虛線",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "由圓外一點最多只能作?",
@@ -2205,7 +2205,7 @@
         "optionB": "二條",
         "optionC": "三條",
         "optionD": "四條 切線",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "以一平面切割直立正圓錐，若平面與錐軸垂直，則所得之割面為?",
@@ -2213,7 +2213,7 @@
         "optionB": "橢圓",
         "optionC": "拋物線",
         "optionD": "雙曲線",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "同一平面上，兩圓相外切，其內公切線有?",
@@ -2221,7 +2221,7 @@
         "optionB": "二條",
         "optionC": "三條",
         "optionD": "四條",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "不在一直線上的任意三點可決定?",
@@ -2229,7 +2229,7 @@
         "optionB": "拋物線",
         "optionC": "橢圓",
         "optionD": "圓",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "在平面上，圓周一點能作?",
@@ -2237,7 +2237,7 @@
         "optionB": "二條",
         "optionC": "三條",
         "optionD": "四條 切線",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "正八邊形每一內角為?",
@@ -2245,7 +2245,7 @@
         "optionB": "120°",
         "optionC": "135°",
         "optionD": "150°",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "剖面線之式樣為?",
@@ -2253,7 +2253,7 @@
         "optionB": "粗鏈線",
         "optionC": "細實線",
         "optionD": "粗實線",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "動點繞軸旋轉一周，所前進之軸向距離，稱為?",
@@ -2261,7 +2261,7 @@
         "optionB": "導程",
         "optionC": "圓周",
         "optionD": "高度",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "下列線條若在視圖中重疊時， 最優先繪出者為?",
@@ -2269,7 +2269,7 @@
         "optionB": "假想線",
         "optionC": "隱藏線",
         "optionD": "中心線",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "正八面體，其外表面組成之形狀為八個?",
@@ -2277,7 +2277,7 @@
         "optionB": "正四邊形",
         "optionC": "正五邊形",
         "optionD": "正六邊形",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "正六面體，其外表面組成之形狀為六個?",
@@ -2285,7 +2285,7 @@
         "optionB": "正四邊形",
         "optionC": "正五邊形",
         "optionD": "正六邊形",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "正五邊形之每一內角等於?",
@@ -2293,7 +2293,7 @@
         "optionB": "96°",
         "optionC": "108°",
         "optionD": "154°",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "同一面上兩相離之圓，其內公切線最多可有?",
@@ -2301,7 +2301,7 @@
         "optionB": "二條",
         "optionC": "三條",
         "optionD": "四條",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "一曲線之所有點均在同一平面上者， 稱為?",
@@ -2309,7 +2309,7 @@
         "optionB": "複曲線",
         "optionC": "空間曲線",
         "optionD": "法線",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "(本題刪題)一點繞定點保持一定距離運動，其軌跡為?",
@@ -2317,7 +2317,7 @@
         "optionB": "圓",
         "optionC": "曲線",
         "optionD": "拋物線",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "空間兩直線的方向一致，則此兩直線必須?",
@@ -2325,7 +2325,7 @@
         "optionB": "相交",
         "optionC": "垂直",
         "optionD": "垂直且相交",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "下列線條何者以虛線繪製?",
@@ -2333,7 +2333,7 @@
         "optionB": "隱藏線",
         "optionC": "中心線",
         "optionD": "剖面線",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "使用 A3 圖紙時，尺度標註最小的數字高度約為?",
@@ -2341,7 +2341,7 @@
         "optionB": "4. 5 ㎜",
         "optionC": "5 ㎜",
         "optionD": "7 ㎜",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "以電腦製圖完成後， 通常優先之工作為?",
@@ -2349,7 +2349,7 @@
         "optionB": "存檔",
         "optionC": "出圖",
         "optionD": "校對",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "在組合圖中，件號線所用線條是?",
@@ -2357,7 +2357,7 @@
         "optionB": "中心線",
         "optionC": "虛線",
         "optionD": "細實線",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "機件如板金或衝壓成形者，若須表示其成形前之形狀，可用下列何種線劃出其成形前之輪廓?",
@@ -2365,7 +2365,7 @@
         "optionB": "虛線",
         "optionC": "細實線",
         "optionD": "兩點細鏈線",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "使用 A2 圖紙尺度註解時，中文字最小字高約為?",
@@ -2373,7 +2373,7 @@
         "optionB": "3. 5 ㎜",
         "optionC": "5 ㎜",
         "optionD": "7 ㎜",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "正二十面體，其外表面組成之形狀為二十個?",
@@ -2381,7 +2381,7 @@
         "optionB": "正四邊形",
         "optionC": "正五邊形",
         "optionD": "正六邊形",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "以一平面切割直立正圓錐，若割面與軸所相交之角大於圓錐角之半，則所割之截面為?",
@@ -2389,7 +2389,7 @@
         "optionB": "橢圓",
         "optionC": "雙曲線",
         "optionD": "拋物線",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "徒手畫所用的線條粗細如何選擇?",
@@ -2397,7 +2397,7 @@
         "optionB": "全圖都使用粗實線",
         "optionC": "全圖都使用中線",
         "optionD": "全圖都使用細實線",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "圖面上，已知分離的兩圓，其中心距大於兩圓半徑相加，今兩圓的公切弧可繪製幾條?",
@@ -2405,7 +2405,7 @@
         "optionB": "4",
         "optionC": "8",
         "optionD": "12",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "等角投影圖的投影步驟將物體作?",
@@ -2413,7 +2413,7 @@
         "optionB": "平轉 35°16 ，前傾60°",
         "optionC": "平轉 30°， 前傾 45°",
         "optionD": "平轉 45°，前傾 30°",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "等角圖之邊長大小約為等角投影圖的?",
@@ -2421,7 +2421,7 @@
         "optionB": "0.866 倍",
         "optionC": "1.225 倍",
         "optionD": "1.414 倍",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "等角圖之等角軸互夾的角度為?",
@@ -2429,7 +2429,7 @@
         "optionB": "120°",
         "optionC": "30°",
         "optionD": "60°",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "不等角立體圖之投影方法是屬於?",
@@ -2437,7 +2437,7 @@
         "optionB": "等斜投影法",
         "optionC": "半斜投影法",
         "optionD": "正投影法",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "關於實物測繪， 下列敘述何者錯誤?",
@@ -2445,7 +2445,7 @@
         "optionB": "各部分尺度依比例目測即可，不需使用量具",
         "optionC": "測繪工作大都是在現場進行",
         "optionD": "繪製草圖也需注意線型分明",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "等角圖中，等角平面上的圓是一個橢圓內切於?",
@@ -2453,7 +2453,7 @@
         "optionB": "正方形",
         "optionC": "任意四邊形",
         "optionD": "60° 菱 形",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "等角圖中，凡與等角軸平行的線，稱為?",
@@ -2461,7 +2461,7 @@
         "optionB": "投影線",
         "optionC": "等角線",
         "optionD": "非等角線",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "等角圖是根據?",
@@ -2469,7 +2469,7 @@
         "optionB": "斜投影",
         "optionC": "正投影",
         "optionD": "輔助投影 原理繪製而成",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "等角投影圖中， 等角軸上的線長為實長的?",
@@ -2477,7 +2477,7 @@
         "optionB": "74/100",
         "optionC": "81.65 /100",
         "optionD": "100 /100",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "下列有關立體圖的敘述，何者錯誤?",
@@ -2485,7 +2485,7 @@
         "optionB": "等角投影圖的等角線是不能直接量度當作實長的",
         "optionC": "較具真實感的立體圖是透視圖",
         "optionD": "等角圖所根據的投影原理是透視投影",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "關於實物測繪之敘述，下列何者錯誤?",
@@ -2493,7 +2493,7 @@
         "optionB": "潦草簡略",
         "optionC": "先有實物再有圖面",
         "optionD": "著重於節省時間迅速完成",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "球的等角投影為?",
@@ -2501,7 +2501,7 @@
         "optionB": "一橢圓",
         "optionC": "一圓",
         "optionD": "一球",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "初學者進行徒手畫練習時，宜使用?",
@@ -2509,7 +2509,7 @@
         "optionB": "描圖紙",
         "optionC": "方格紙",
         "optionD": "影印紙",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "以徒手畫圓時， 下列所述何者不當?",
@@ -2517,7 +2517,7 @@
         "optionB": "畫出邊長為半徑大小的正方形， 再畫對角線得交點圓心，畫短圓弧於對角線及正方形中點上，再連成圓",
         "optionC": "用紙條當量尺，在上面畫兩短線為半徑，沿圓周畫出短圓弧，再連接成圓",
         "optionD": "使用兩支鉛筆， 一支為圓心， 一支取半徑距離，慢慢旋轉圖紙畫出圓",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "在立體投影圖中，當物體位置與投影面成傾斜時，投影視圖稜線長度之縮短量，隨著物體與?",
@@ -2525,7 +2525,7 @@
         "optionB": "投影面的傾斜角度",
         "optionC": "所位於之象限",
         "optionD": "視點之位置 而改變",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "徒手畫垂直線時，宜?",
@@ -2533,7 +2533,7 @@
         "optionB": "由上往下畫",
         "optionC": "由左至右畫",
         "optionD": "由右至左畫",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "一般物體之正投影視圖常用?",
@@ -2541,7 +2541,7 @@
         "optionB": "5 個",
         "optionC": "4 個",
         "optionD": "3 個 視圖表示",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "在正投影視圖中，不會形成線的物件可能是?",
@@ -2549,7 +2549,7 @@
         "optionB": "面與面之交線",
         "optionC": "面的極限",
         "optionD": "一個點",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "用半剖面表示對稱機件之視圖，其內外兩邊的界線，應用?",
@@ -2557,7 +2557,7 @@
         "optionB": "中心線",
         "optionC": "細實線",
         "optionD": "虛線",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "半剖面係假設切割物體之?",
@@ -2565,7 +2565,7 @@
         "optionB": "1 /3",
         "optionC": "1 /4",
         "optionD": "1/5",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "一單斜面在三個主要視圖中呈現?",
@@ -2573,7 +2573,7 @@
         "optionB": "二面一線",
         "optionC": "三線",
         "optionD": "三面",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "一正立方體在前視圖中的投影為「□」， 其所代表物體的面有?",
@@ -2581,7 +2581,7 @@
         "optionB": "四個",
         "optionC": "五個",
         "optionD": "六個",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "肋被橫切後，旋轉剖面顯示斷面形狀，其剖面線應?",
@@ -2589,7 +2589,7 @@
         "optionB": "照畫",
         "optionC": "加粗",
         "optionD": "畫點線",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "菱形輥紋的習用表示法，是在圖面上畫與軸線成?",
@@ -2597,7 +2597,7 @@
         "optionB": "30度交叉粗實線",
         "optionC": "60 度交叉細實線",
         "optionD": "60 度交叉粗實線",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "在投影中，通過視點，物體與畫面的線稱為?",
@@ -2605,7 +2605,7 @@
         "optionB": "投光線",
         "optionC": "拋射線",
         "optionD": "垂線",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "視圖中某部位需作局部放大視圖時，在該部位須畫一?",
@@ -2613,7 +2613,7 @@
         "optionB": "細實線圓",
         "optionC": "粗虛線圓",
         "optionD": "虛線圓",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "點之投影在任一投影面上為?",
@@ -2621,7 +2621,7 @@
         "optionB": "線",
         "optionC": "面",
         "optionD": "不一定",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "旋轉剖面之輪廓線用?",
@@ -2629,7 +2629,7 @@
         "optionB": "細實線",
         "optionC": "粗鏈線",
         "optionD": "細鏈線 表示",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "鐵絲網網目之習用表示法是?",
@@ -2637,7 +2637,7 @@
         "optionB": "細實線",
         "optionC": "虛線",
         "optionD": "粗鏈線 繪製",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "局部剖視圖中， 剖面部分與未剖部分之分界線是用?",
@@ -2645,7 +2645,7 @@
         "optionB": "細鏈線",
         "optionC": "粗實線",
         "optionD": "粗鏈線",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "正投影之投射線必定?",
@@ -2653,7 +2653,7 @@
         "optionB": "互相垂直",
         "optionC": "垂直於物面",
         "optionD": "交於一點",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "薄片零件之剖面線可以?",
@@ -2661,7 +2661,7 @@
         "optionB": "距離拉大",
         "optionC": "不需改變",
         "optionD": "全部塗黑",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "在正投影視圖中形成面的，可能代表物件的?",
@@ -2669,7 +2669,7 @@
         "optionB": "直線",
         "optionC": "斜線",
         "optionD": "複斜面",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "虛擬視圖中，虛擬部位的特徵，須以?",
@@ -2677,7 +2677,7 @@
         "optionB": "兩點細鏈線",
         "optionC": "一點細線",
         "optionD": "虛線 繪製",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "物體形狀逐漸變化不規則時， 其斷面可採用數個?",
@@ -2685,7 +2685,7 @@
         "optionB": "半剖面",
         "optionC": "移轉剖面",
         "optionD": "局部剖面",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "正投影之每一視圖能表示物體?",
@@ -2693,7 +2693,7 @@
         "optionB": "二度",
         "optionC": "三度",
         "optionD": "四度 的空間度量",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "常用兩視圖表示的零件是?",
@@ -2701,7 +2701,7 @@
         "optionB": "不規則形體",
         "optionC": "柱體",
         "optionD": "球體",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "局部剖面之折斷線， 主要是控制剖面線的?",
@@ -2709,7 +2709,7 @@
         "optionB": "縮短",
         "optionC": "範圍",
         "optionD": "美觀",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "組合圖中，兩相鄰機件之剖面線不宜採用?",
@@ -2717,7 +2717,7 @@
         "optionB": "方向一致，間隔不同",
         "optionC": "方向不同，間隔一致",
         "optionD": "方向不同， 間隔不同",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "半視圖被切開之處應以?",
@@ -2725,7 +2725,7 @@
         "optionB": "細線",
         "optionC": "中心線",
         "optionD": "看情形而定 繪製之",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "正投影箱展開後，可得?",
@@ -2733,7 +2733,7 @@
         "optionB": "4 個",
         "optionC": "5 個",
         "optionD": "6 個 視圖",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "物件為薄片材料，其視圖表示方法可用?",
@@ -2741,7 +2741,7 @@
         "optionB": "單視圖",
         "optionC": "雙視圖",
         "optionD": "三視圖",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "一面與三主要投影面不平行也不垂直，則此面稱為?",
@@ -2749,7 +2749,7 @@
         "optionB": "正垂面",
         "optionC": "單斜面",
         "optionD": "複斜面",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "在組合剖面中， 下列零件不得塗黑的是?",
@@ -2757,7 +2757,7 @@
         "optionB": "彈簧",
         "optionC": "鐵板",
         "optionD": "薄墊圈",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "表示圓形、六角形、三角形等純柱體之物件，常用的視圖數量為?",
@@ -2765,7 +2765,7 @@
         "optionB": "3個",
         "optionC": "2 個",
         "optionD": "1 個",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "同一物體繪多個剖視圖時，各個剖面應?",
@@ -2773,7 +2773,7 @@
         "optionB": "獨立剖切",
         "optionC": "相互剖切",
         "optionD": "一半剖切",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "左圖之右側視圖為 正投影中，若物體離投影面愈近，則其視圖?",
@@ -2781,7 +2781,7 @@
         "optionB": "愈大",
         "optionC": "大小不變",
         "optionD": "不一定",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "機件之剖面，在剖切處原地旋轉 90°，以細實線繪出斷面形狀者稱為?",
@@ -2789,7 +2789,7 @@
         "optionB": "移轉剖面",
         "optionC": "局部剖面",
         "optionD": "旋轉剖面",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "表示機件內部之某部分，僅將該部剖切， 以折斷線分界者為?",
@@ -2797,7 +2797,7 @@
         "optionB": "折斷剖面",
         "optionC": "移轉剖面",
         "optionD": "局部剖面",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "正投影中，水平投影面之視圖為?",
@@ -2805,7 +2805,7 @@
         "optionB": "前、後視圖",
         "optionC": "俯、仰視圖",
         "optionD": "輔助視圖",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "一平面與投影面平行，在這投影面上所得之視圖， 稱為此物體之?",
@@ -2813,7 +2813,7 @@
         "optionB": "斜視圖",
         "optionC": "邊視圖",
         "optionD": "端視圖",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "剖視圖中，常不加以切割之零件是?",
@@ -2821,7 +2821,7 @@
         "optionB": "墊圈",
         "optionC": "Ｖ型塊",
         "optionD": "飛輪",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "第三角法是以?",
@@ -2829,7 +2829,7 @@
         "optionB": "投影面、物體、觀察者",
         "optionC": "觀察者、投影面、物體",
         "optionD": "物體、觀察者、投影面 三者依次排列之一種正投影表示法",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "輔助視圖所依據之投影原理是?",
@@ -2837,7 +2837,7 @@
         "optionB": "斜投影原理",
         "optionC": "透視投影原理",
         "optionD": "立體投影原理",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "一般畫正投影視圖時可採用?",
@@ -2845,7 +2845,7 @@
         "optionB": "第二角法或第三角法",
         "optionC": "第一角法或第三角法",
         "optionD": "第二角法或第四角法",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "第一角法俯視圖的位置在前視圖之?",
@@ -2853,7 +2853,7 @@
         "optionB": "下方",
         "optionC": "左方",
         "optionD": "右方",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "第一角法右側視圖的位置在前視圖之?",
@@ -2861,7 +2861,7 @@
         "optionB": "下方",
         "optionC": "左方",
         "optionD": "右方",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "為?",
@@ -2869,7 +2869,7 @@
         "optionB": "第二角法",
         "optionC": "第三角法",
         "optionD": "第四角法 的符號",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "為?",
@@ -2877,7 +2877,7 @@
         "optionB": "第二角法",
         "optionC": "第三角法",
         "optionD": "第四角法 的符號",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "物面之正投影為其實形，則此面必與投影面?",
@@ -2885,7 +2885,7 @@
         "optionB": "相交",
         "optionC": "垂直",
         "optionD": "平行",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "一直線與投影面垂直，所得之正投影視圖，稱為此直線之?",
@@ -2893,7 +2893,7 @@
         "optionB": "邊視圖",
         "optionC": "斜視圖",
         "optionD": "透視圖",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "一平面與投影面垂直，所得之正投影視圖，稱為此平面之?",
@@ -2901,7 +2901,7 @@
         "optionB": "邊視圖",
         "optionC": "斜視圖",
         "optionD": "透視圖",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "物體之單斜面之稜邊，在正投影視圖中會形成?",
@@ -2909,7 +2909,7 @@
         "optionB": "線",
         "optionC": "面",
         "optionD": "體",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "和一平面相交之兩平行面，其交線互相?",
@@ -2917,7 +2917,7 @@
         "optionB": "相交",
         "optionC": "垂直",
         "optionD": "平行",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "若直線不垂直也不平行於主要投影面，其實長須由?",
@@ -2925,7 +2925,7 @@
         "optionB": "俯視圖",
         "optionC": "側視圖",
         "optionD": "輔助視圖 求得",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "垂直一主要投影面， 而與另二主要投影面成傾斜之平面， 稱為?",
@@ -2933,7 +2933,7 @@
         "optionB": "單斜面",
         "optionC": "複斜面",
         "optionD": "平行面",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "直立投影面與水平投影面互相?",
@@ -2941,7 +2941,7 @@
         "optionB": "垂直",
         "optionC": "單斜",
         "optionD": "複斜",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "正垂面是與三個主要投影面?",
@@ -2949,7 +2949,7 @@
         "optionB": "之二垂直",
         "optionC": "均垂直",
         "optionD": "均不垂直",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "點的直立投影在基線的上方， 水平投影在基線的下方，則此點位在?",
@@ -2957,7 +2957,7 @@
         "optionB": "第二象限",
         "optionC": "第三象限",
         "optionD": "第四象限",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "在單一方向觀察之薄板材料， 除採用註解外，應用?",
@@ -2965,7 +2965,7 @@
         "optionB": "二視圖",
         "optionC": "三視圖",
         "optionD": "輔助視圖 表示",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "實心球體之視圖標註尺度後，可用?",
@@ -2973,7 +2973,7 @@
         "optionB": "二視圖",
         "optionC": "三視圖",
         "optionD": "輔助視圖表示",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "圓柱面之邊視圖為?",
@@ -2981,7 +2981,7 @@
         "optionB": "直線",
         "optionC": "矩形",
         "optionD": "圓形",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "圓柱面之極限為?",
@@ -2989,7 +2989,7 @@
         "optionB": "一圓形",
         "optionC": "二平行直線",
         "optionD": "二平行圓形",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "一平面最多能穿過幾個象限?",
@@ -2997,7 +2997,7 @@
         "optionB": "二個",
         "optionC": "三個",
         "optionD": "四個",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "一直線最多能穿過幾個象限?",
@@ -3005,7 +3005,7 @@
         "optionB": "二個",
         "optionC": "三個",
         "optionD": "四個",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "下列線條重疊時，何者為優先?",
@@ -3013,7 +3013,7 @@
         "optionB": "中心線",
         "optionC": "折斷線",
         "optionD": "虛線",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "物體離投影面愈遠，所得正投影視圖?",
@@ -3021,7 +3021,7 @@
         "optionB": "愈小",
         "optionC": "大小不變",
         "optionD": "不一定",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "剖視圖中的割面線是表示機件?",
@@ -3029,7 +3029,7 @@
         "optionB": "對稱部分",
         "optionC": "空心部分",
         "optionD": "實心部分",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "下列機件不可縱向剖切的為?",
@@ -3037,7 +3037,7 @@
         "optionB": "薄墊圈",
         "optionC": "彈簧",
         "optionD": "銷",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "剖面線之間隔距離與剖面範圍大小有關， 剖面愈大者?",
@@ -3045,7 +3045,7 @@
         "optionB": "愈密",
         "optionC": "均為2 ㎜",
         "optionD": "不一定",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "機件被一割面完全剖切，稱為?",
@@ -3053,7 +3053,7 @@
         "optionB": "半剖面",
         "optionC": "局部剖面",
         "optionD": "移出剖面",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "半剖視圖應以?",
@@ -3061,7 +3061,7 @@
         "optionB": "虛線",
         "optionC": "中心線",
         "optionD": "折斷線 為分界線",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "物件沿割面線之方向移出繪於原圖外者， 稱為?",
@@ -3069,7 +3069,7 @@
         "optionB": "半剖面",
         "optionC": "移轉剖面",
         "optionD": "旋轉剖面",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "若只需表示機件某部位之內部形狀， 可使用?",
@@ -3077,7 +3077,7 @@
         "optionB": "半剖面",
         "optionC": "局部剖面",
         "optionD": "旋轉剖面",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "剖視圖中常不加以剖切之機件為?",
@@ -3085,7 +3085,7 @@
         "optionB": "齒輪",
         "optionC": "皮帶輪",
         "optionD": "型鋼",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "為表示細長機件上某處之斷面形狀可利用?",
@@ -3093,7 +3093,7 @@
         "optionB": "半剖面",
         "optionC": "輔助剖面",
         "optionD": "旋轉剖面 表示",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "下列機件的剖面線常以塗黑表示的為?",
@@ -3101,7 +3101,7 @@
         "optionB": "螺桿",
         "optionC": "型鋼",
         "optionD": "軸",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "下列哪一種機件可以沿中心線切割?",
@@ -3109,7 +3109,7 @@
         "optionB": "鉚釘",
         "optionC": "軸",
         "optionD": "皮帶輪",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "當割面線沿肋之縱向切割時，則肋上之剖面線?",
@@ -3117,7 +3117,7 @@
         "optionB": "照畫",
         "optionC": "加粗",
         "optionD": "塗黑",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "更改尺度時，新數字旁欲加註之更改記號為?",
@@ -3125,7 +3125,7 @@
         "optionB": "□",
         "optionC": "△",
         "optionD": "○",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "直徑尺度標註在圓內時，其尺度線必須經過?",
@@ -3133,7 +3133,7 @@
         "optionB": "中心",
         "optionC": "外圓",
         "optionD": "內圓",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "中心線及尺度界線都是?",
@@ -3141,7 +3141,7 @@
         "optionB": "中線",
         "optionC": "細線",
         "optionD": "粗細自定",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "斜度符號之高度與寬度之比為?",
@@ -3149,7 +3149,7 @@
         "optionB": "1: 1 .5",
         "optionC": "1 :2",
         "optionD": "1: 3",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "不可用以代替尺度界線的是?",
@@ -3157,7 +3157,7 @@
         "optionB": "剖面線",
         "optionC": "輪廓線",
         "optionD": "隱藏線",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "錐度符號之高度與寬度之比為?",
@@ -3165,7 +3165,7 @@
         "optionB": "1: 1 .5",
         "optionC": "1 :2",
         "optionD": "1: 3",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "比例 1: 2 時，是表示圖形線長為標註尺度數值的?",
@@ -3173,7 +3173,7 @@
         "optionB": "1 倍",
         "optionC": "1/ 2 倍",
         "optionD": "12 倍",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "表面粗糙度的單位為?",
@@ -3181,7 +3181,7 @@
         "optionB": "cm",
         "optionC": "μm",
         "optionD": "dm",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "螺紋孔之鑽孔尺度應比螺紋大徑?",
@@ -3189,7 +3189,7 @@
         "optionB": "一樣",
         "optionC": "小",
         "optionD": "大小都可以",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "１英吋等於?",
@@ -3197,7 +3197,7 @@
         "optionB": "25.4mm",
         "optionC": "25.4cm",
         "optionD": "12mm",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "機件尺度中，與他件組合有關之尺度，稱為?",
@@ -3205,7 +3205,7 @@
         "optionB": "非功能尺度",
         "optionC": "大小尺度",
         "optionD": "參考尺度",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "指線用細實線繪製， 通常與水平線約成?",
@@ -3213,7 +3213,7 @@
         "optionB": "30°",
         "optionC": "60°",
         "optionD": "75°",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "尺度線之箭頭的開尾角度約為?",
@@ -3221,7 +3221,7 @@
         "optionB": "20°",
         "optionC": "30°",
         "optionD": "40°",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "尺度ψ30H7 中，“H”表示?",
@@ -3229,7 +3229,7 @@
         "optionB": "公差等級",
         "optionC": "偏差位置",
         "optionD": "配合等級",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "比例 2： 1 時，是表示圖形線長為標註尺度數值的?",
@@ -3237,7 +3237,7 @@
         "optionB": "1 倍",
         "optionC": "1/ 2 倍",
         "optionD": "12 倍",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "直徑符號「ψ」中的直線與尺度線約成?",
@@ -3245,7 +3245,7 @@
         "optionB": "45°",
         "optionC": "60°",
         "optionD": "75°",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "算術平均粗糙度縮寫為?",
@@ -3253,7 +3253,7 @@
         "optionB": "Rc",
         "optionC": "Rs",
         "optionD": "Rz",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "圓錐長 100， 錐度 1 :50 則其兩端直徑的差是?",
@@ -3261,7 +3261,7 @@
         "optionB": "3",
         "optionC": "4",
         "optionD": "5",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "球面的直徑 50 時， 其標註為?",
@@ -3269,7 +3269,7 @@
         "optionB": "SR50",
         "optionC": "Sψ50",
         "optionD": "ψS50",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "直圓柱的尺度須標註?",
@@ -3277,7 +3277,7 @@
         "optionB": "寬度和高度",
         "optionC": "深度和高度",
         "optionD": "直徑和高度",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "車床尾座套筒錐度為?",
@@ -3285,7 +3285,7 @@
         "optionB": "白氏錐度",
         "optionC": "加農錐度",
         "optionD": "7 ： 24",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "尺度界線伸出尺度線約?",
@@ -3293,7 +3293,7 @@
         "optionB": "4 ～5 ㎜",
         "optionC": "2 ～3 ㎜",
         "optionD": "1 ㎜",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "慣用於鑽床主軸孔及其刀具附件柄的錐度為?",
@@ -3301,7 +3301,7 @@
         "optionB": "白氏錐度",
         "optionC": "加農錐 度",
         "optionD": "7：24",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "位置尺度之基準面應取自?",
@@ -3309,7 +3309,7 @@
         "optionB": "粗糙面",
         "optionC": "加工面",
         "optionD": "任意面",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "最大粗糙度的符號為?",
@@ -3317,7 +3317,7 @@
         "optionB": "Rc",
         "optionC": "Rs",
         "optionD": "Rz",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "用以表示表面紋理方向與其所指加工面邊緣平行之符號為?",
@@ -3325,7 +3325,7 @@
         "optionB": "M",
         "optionC": "＝",
         "optionD": "⊥",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "圓弧如以半徑表示時，通常是指未超過?",
@@ -3333,7 +3333,7 @@
         "optionB": "180°",
         "optionC": "270°",
         "optionD": "360°",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "物體斜面兩端高低差與長度的比值是?",
@@ -3341,7 +3341,7 @@
         "optionB": "斜度",
         "optionC": "梯度",
         "optionD": "圓度",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "斜度 1/ 25 係指， 每 25 ㎜長高度差?",
@@ -3349,7 +3349,7 @@
         "optionB": "0. 5 ㎜",
         "optionC": "1 ㎜",
         "optionD": "1.25 ㎜",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "採用一個基準面之單一尺度線標註尺度時，其起點應畫?",
@@ -3357,7 +3357,7 @@
         "optionB": "小圓點",
         "optionC": "箭頭",
         "optionD": "斜線",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "表面織構符號中，加工裕度之數值單位為?",
@@ -3365,7 +3365,7 @@
         "optionB": "㎜",
         "optionC": "cm",
         "optionD": "dm",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "去角角度最常見的是?",
@@ -3373,7 +3373,7 @@
         "optionB": "30°",
         "optionC": "45°",
         "optionD": "60°",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "直立圓錐的尺度記入是?",
@@ -3381,7 +3381,7 @@
         "optionB": "高與底面積",
         "optionC": "元線與底直徑",
         "optionD": "元線與底面積",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "「莫氏錐度 3 號」之標註法為?",
@@ -3389,7 +3389,7 @@
         "optionB": "MT3",
         "optionC": "MT3",
         "optionD": "MT3",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "不規則曲線的尺度標註常用?",
@@ -3397,7 +3397,7 @@
         "optionB": "支距法",
         "optionC": "角度法",
         "optionD": "跨距法",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "半圓鍵座應標註圓心位置、直徑及?",
@@ -3405,7 +3405,7 @@
         "optionB": "高度",
         "optionC": "寬度",
         "optionD": "厚度",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "鑽孔的大小尺度應標註?",
@@ -3413,7 +3413,7 @@
         "optionB": "半徑",
         "optionC": "半圓弧",
         "optionD": "鑽頭編號",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "中心線的延長線可以代替?",
@@ -3421,7 +3421,7 @@
         "optionB": "輪廓線",
         "optionC": "虛線",
         "optionD": "尺度界線",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "尺度數字前加「t」表示?",
@@ -3429,7 +3429,7 @@
         "optionB": "斜度",
         "optionC": "頂點",
         "optionD": "板厚",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "尺度標註中「□」符號表示?",
@@ -3437,7 +3437,7 @@
         "optionB": "平面",
         "optionC": "端面",
         "optionD": "正方形",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "直徑尺度數值之書寫法為?",
@@ -3445,7 +3445,7 @@
         "optionB": "10ψ",
         "optionC": "∮10",
         "optionD": "ψ10",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "表面織構符號 中，「G」的位置標示?",
@@ -3453,7 +3453,7 @@
         "optionB": "加工紋路",
         "optionC": "粗度",
         "optionD": "公差",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "左圖之尺度標註表示?",
@@ -3461,7 +3461,7 @@
         "optionB": "弦長為 30 ㎜",
         "optionC": "弧長為 30㎜",
         "optionD": "圓心角為 30°",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "㎜是μm 的幾倍?",
@@ -3469,7 +3469,7 @@
         "optionB": "100",
         "optionC": "1000",
         "optionD": "1 /10",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "連續狹窄部位之尺度標註時， 箭頭可畫成?",
@@ -3477,7 +3477,7 @@
         "optionB": "小圓點",
         "optionC": "短斜線",
         "optionD": "省略不畫",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "前視圖可表示物體之高度與寬度，則側視圖可表示物體之?",
@@ -3485,7 +3485,7 @@
         "optionB": "寬度、高度",
         "optionC": "深度、高度",
         "optionD": "深度、高度、寬度",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "滾動軸承中，可承受徑向及軸向負荷者是?",
@@ -3493,7 +3493,7 @@
         "optionB": "斜角滾珠軸承",
         "optionC": "滾針軸承",
         "optionD": "止推軸承",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "鍵在動力傳送時所受的應力為?",
@@ -3501,7 +3501,7 @@
         "optionB": "壓應力",
         "optionC": "剪應力",
         "optionD": "負荷應力",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "視圖中， 標準件所用之錐形孔，其錐角應繪製成?",
@@ -3509,7 +3509,7 @@
         "optionB": "60°",
         "optionC": "90°",
         "optionD": "120°",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "左螺紋必須加註?",
@@ -3517,7 +3517,7 @@
         "optionB": "LH",
         "optionC": "RH",
         "optionD": "HR 字樣",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "油封的標稱直徑是指與其配合之?",
@@ -3525,7 +3525,7 @@
         "optionB": "軸長",
         "optionC": "轂徑",
         "optionD": "轂深",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "六角頭螺栓其頭部頂面之去角，應繪製成?",
@@ -3533,7 +3533,7 @@
         "optionB": "30°",
         "optionC": "35°",
         "optionD": "45°",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "雙線螺紋在其端面之螺旋線起點相隔?",
@@ -3541,7 +3541,7 @@
         "optionB": "90°",
         "optionC": "120 °",
         "optionD": "180 °",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "一般公制斜銷的錐度為?",
@@ -3549,7 +3549,7 @@
         "optionB": "1 :20",
         "optionC": "1 :50",
         "optionD": "1: 100",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "一般鍵槽是位於?",
@@ -3557,7 +3557,7 @@
         "optionB": "鍵上",
         "optionC": "轂上",
         "optionD": "輻上",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "最需要防鬆螺帽的使用場合為?",
@@ -3565,7 +3565,7 @@
         "optionB": "易生振動處",
         "optionC": "受拉力處",
         "optionD": "受剪力處",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "公制外螺紋的牙底成?",
@@ -3573,7 +3573,7 @@
         "optionB": "平底",
         "optionC": "圓形",
         "optionD": "沒有規定",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "M20 ×2 之螺紋，其中 M 代表?",
@@ -3581,7 +3581,7 @@
         "optionB": "梯形螺紋",
         "optionC": "方形螺紋",
         "optionD": "鋸齒形螺紋",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "M20 ×2 之螺紋，其中 2 表示?",
@@ -3589,7 +3589,7 @@
         "optionB": "齒高",
         "optionC": "牙數",
         "optionD": "螺距",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "滾動軸承編號 6205 中之“05”表示軸承之?",
@@ -3597,7 +3597,7 @@
         "optionB": "內環內徑尺度",
         "optionC": "外環外徑尺度",
         "optionD": "外環內徑尺度15.(1)用於伸縮鏡頭的 8 線螺紋，導程為 12 ㎜，螺距應為",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "彈簧墊圈有輕級、中級、重級及特重級之分，主要不同在?",
@@ -3605,7 +3605,7 @@
         "optionB": "厚度不同",
         "optionC": "內徑不同",
         "optionD": "外徑不同",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "當兩配合件相關位置必須非常正確時，其定位宜用?",
@@ -3613,7 +3613,7 @@
         "optionB": "直銷",
         "optionC": "斜銷",
         "optionD": "彈簧銷",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "防鬆螺帽與一般螺帽不同的地方為?",
@@ -3621,7 +3621,7 @@
         "optionB": "螺距",
         "optionC": "牙角",
         "optionD": "牙形",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "美國 V 形螺紋的螺紋角為?",
@@ -3629,7 +3629,7 @@
         "optionB": "45°",
         "optionC": "55°",
         "optionD": "60°",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "公制梯形螺紋的螺紋角為?",
@@ -3637,7 +3637,7 @@
         "optionB": "55°",
         "optionC": "45°",
         "optionD": "30°",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "公制螺紋粗牙與細牙主要不同是?",
@@ -3645,7 +3645,7 @@
         "optionB": "螺距",
         "optionC": "配合等級",
         "optionD": "螺紋長度",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "公制細螺紋不常用於?",
@@ -3653,7 +3653,7 @@
         "optionB": "防漏",
         "optionC": "防鬆",
         "optionD": "微調",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "開口銷的功用為?",
@@ -3661,7 +3661,7 @@
         "optionB": "定位",
         "optionC": "傳送動力",
         "optionD": "防鬆",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "滾動軸承的剖視圖中，內外環之剖面線畫成?",
@@ -3669,7 +3669,7 @@
         "optionB": "同向右",
         "optionC": "反方向",
         "optionD": "任意方向",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "繪製方頭螺栓頭部頂面之去角為?",
@@ -3677,7 +3677,7 @@
         "optionB": "30°",
         "optionC": "35°",
         "optionD": "45°",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "為避免輪轂沿軸向產生移動，儘可能使用?",
@@ -3685,7 +3685,7 @@
         "optionB": "帶頭斜鍵",
         "optionC": "半圓鍵",
         "optionD": "平鍵",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "平墊圈的材料為?",
@@ -3693,7 +3693,7 @@
         "optionB": "合金鋼",
         "optionC": "鑄鐵",
         "optionD": "鑄鋼",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "一般攻製內螺紋應先行?",
@@ -3701,7 +3701,7 @@
         "optionB": "鉸孔",
         "optionC": "搪孔",
         "optionD": "拉孔",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "重負荷之軸向傳送動力，最有效之螺紋為?",
@@ -3709,7 +3709,7 @@
         "optionB": "鋸齒形螺紋",
         "optionC": "梯形螺紋",
         "optionD": "圓形螺紋",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "公制外螺紋的牙頂成?",
@@ -3717,7 +3717,7 @@
         "optionB": "圓的",
         "optionC": "尖的",
         "optionD": "沒有規定",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "卡車後車輪與車體間主要防震彈簧為?",
@@ -3725,7 +3725,7 @@
         "optionB": "蝸形彈簧",
         "optionC": "拉伸彈簧",
         "optionD": "疊板彈簧",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "公制斜銷的標稱直徑以?",
@@ -3733,7 +3733,7 @@
         "optionB": "大端直徑表示",
         "optionC": "中間直徑表示",
         "optionD": "平均直徑表示",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "斜鍵之斜度為?",
@@ -3741,7 +3741,7 @@
         "optionB": "1: 30",
         "optionC": "1: 50",
         "optionD": "1: 100",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "千斤頂心軸上之螺紋可用?",
@@ -3749,7 +3749,7 @@
         "optionB": "三角形螺紋",
         "optionC": "鋸齒形螺紋",
         "optionD": "圓形螺紋",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "滑動軸承用襯套的主要標稱尺度為?",
@@ -3757,7 +3757,7 @@
         "optionB": "內徑",
         "optionC": "平均徑",
         "optionD": "長度",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "內螺紋牙深通常製成外螺紋牙深的?",
@@ -3765,7 +3765,7 @@
         "optionB": "2/3",
         "optionC": "3 /4",
         "optionD": "4/ 5",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "設 P 為螺距， L 為導程，在三線螺紋裡其關係為?",
@@ -3773,7 +3773,7 @@
         "optionB": "P＝3L",
         "optionC": "L＝3＋P",
         "optionD": "P＝3＋L",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "零件圖中，拉伸彈簧之繪製長度為?",
@@ -3781,7 +3781,7 @@
         "optionB": "拉伸長度",
         "optionC": "控制長度",
         "optionD": "自由長度",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "輕負荷時使用之鍵為?",
@@ -3789,7 +3789,7 @@
         "optionB": "斜鍵",
         "optionC": "鞍形鍵",
         "optionD": "半圓鍵",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "使用平墊圈時，下列何者錯誤?",
@@ -3797,7 +3797,7 @@
         "optionB": "在鎖緊時構成初拉力",
         "optionC": "增加承受面積",
         "optionD": "減少單位面積之受力",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "梯形螺紋常用於?",
@@ -3805,7 +3805,7 @@
         "optionB": "導螺桿",
         "optionC": "連接件",
         "optionD": "調整桿",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "繪製一般螺帽之厚度，為公稱直徑的?",
@@ -3813,7 +3813,7 @@
         "optionB": "2/ 3 倍",
         "optionC": "3/ 4 倍",
         "optionD": "7 /8 倍",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "三線螺紋在其端面的起點相隔?",
@@ -3821,7 +3821,7 @@
         "optionB": "60°",
         "optionC": "120°",
         "optionD": "180°",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "零件圖中，壓縮彈簧之繪製長度為?",
@@ -3829,7 +3829,7 @@
         "optionB": "安裝長度",
         "optionC": "工作長度",
         "optionD": "壓實長度",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "標準斜銷兩端成?",
@@ -3837,7 +3837,7 @@
         "optionB": "圓頭",
         "optionC": "大端圓頭，小端平頭",
         "optionD": "小端圓頭，大端平頭",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "彈簧墊圈主要功用為?",
@@ -3845,7 +3845,7 @@
         "optionB": "防止鬆脫",
         "optionC": "防止震動",
         "optionD": "增加美觀",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "鋼料中一般螺紋進入之深度，最合適的為螺紋標稱直徑之?",
@@ -3853,7 +3853,7 @@
         "optionB": "3 倍",
         "optionC": "1.5 倍",
         "optionD": "相 同",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "繪製一般螺栓頭厚度，為公稱直徑的?",
@@ -3861,7 +3861,7 @@
         "optionB": "2 /3",
         "optionC": "3/ 4",
         "optionD": "7/8 倍",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "用來儲存能量之標準件為?",
@@ -3869,7 +3869,7 @@
         "optionB": "鍵",
         "optionC": "軸承",
         "optionD": "彈簧",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "螺紋位於圓柱體或圓錐體之外，稱為?",
@@ -3877,7 +3877,7 @@
         "optionB": "內螺紋",
         "optionC": "左螺紋",
         "optionD": "右螺紋",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "下列材料最不適合製造彈簧者為?",
@@ -3885,7 +3885,7 @@
         "optionB": "黃銅",
         "optionC": "碳鋼",
         "optionD": "合金鋼",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "圓頭平鍵的兩端呈?",
@@ -3893,7 +3893,7 @@
         "optionB": "三角形",
         "optionC": "圓弧形",
         "optionD": "一端圓一端方",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "虎鉗上常用之螺紋為?",
@@ -3901,7 +3901,7 @@
         "optionB": "梯形螺紋",
         "optionC": "圓頂螺紋",
         "optionD": "鋸齒形螺紋",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "韋氏螺紋的螺紋角為?",
@@ -3909,7 +3909,7 @@
         "optionB": "45°",
         "optionC": "55°",
         "optionD": "60°",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "相鄰兩螺紋的對應點間，且平行於軸線的距離，稱為?",
@@ -3917,7 +3917,7 @@
         "optionB": "導程",
         "optionC": "長徑",
         "optionD": "短徑",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "螺帽頂面的去角繪製成?",
@@ -3925,7 +3925,7 @@
         "optionB": "15°",
         "optionC": "30°",
         "optionD": "60°",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "燈泡頭部之螺紋為?",
@@ -3933,7 +3933,7 @@
         "optionB": "方螺紋",
         "optionC": "Ｖ型螺紋",
         "optionD": "圓形螺紋",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "栓槽軸之槽底線在前視圖應繪製成?",
@@ -3941,7 +3941,7 @@
         "optionB": "粗實線",
         "optionC": "虛線",
         "optionD": "省略不畫",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "方螺紋， 其螺紋深度等於?",
@@ -3949,7 +3949,7 @@
         "optionB": "0.52 P",
         "optionC": "0.5 P",
         "optionD": "0.43 P",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "將螺紋展開成一平面時，其斜邊與底邊交角稱為?",
@@ -3957,7 +3957,7 @@
         "optionB": "摩擦角",
         "optionC": "傾斜角",
         "optionD": "導程角",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "半圓鍵之寬度約為軸直徑的?",
@@ -3965,7 +3965,7 @@
         "optionB": "1/4",
         "optionC": "1/3",
         "optionD": "1 /2",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "須破壞才能拆卸的連結件為?",
@@ -3973,7 +3973,7 @@
         "optionB": "鍵",
         "optionC": "斜銷",
         "optionD": "鉚釘",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "公制三角形螺紋的螺紋角為?",
@@ -3981,7 +3981,7 @@
         "optionB": "45°",
         "optionC": "55°",
         "optionD": "60°",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "雙線螺紋的導程為螺距的?",
@@ -3989,7 +3989,7 @@
         "optionB": "三倍",
         "optionC": "四倍",
         "optionD": "六倍",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "公制管螺紋之符號為?",
@@ -3997,7 +3997,7 @@
         "optionB": "PS",
         "optionC": "PT",
         "optionD": "PF",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "常用於空間狹小及偏轉不夠大的彈簧?",
@@ -4005,7 +4005,7 @@
         "optionB": "皿形彈簧",
         "optionC": "筍形彈簧",
         "optionD": "動力彈簧",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "半圓鍵之半徑約為軸直徑的?",
@@ -4013,7 +4013,7 @@
         "optionB": "1/4",
         "optionC": "1/3",
         "optionD": "1 /2",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "M8 的『8 』表示螺紋的?",
@@ -4021,7 +4021,7 @@
         "optionB": "小徑",
         "optionC": "節徑",
         "optionD": "大徑",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "M16 ×1.5 的『1. 5』代表螺紋的?",
@@ -4029,7 +4029,7 @@
         "optionB": "小徑 1.5 ㎜",
         "optionC": "節徑 1.5 ㎜",
         "optionD": "大徑 1. 5 ㎜",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "斜管螺紋的錐度為?",
@@ -4037,7 +4037,7 @@
         "optionB": "1： 8",
         "optionC": "1：16",
         "optionD": "1： 32",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "『R1/2 \" 』是表示此螺紋為?",
@@ -4045,7 +4045,7 @@
         "optionB": "梯形螺紋",
         "optionC": "鋸齒形螺紋",
         "optionD": "圓形螺紋",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "具有結合、調節距離及傳遞動力的機件是?",
@@ -4053,7 +4053,7 @@
         "optionB": "齒輪",
         "optionC": "扣環",
         "optionD": "螺桿",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "M10 表示螺紋為?",
@@ -4061,7 +4061,7 @@
         "optionB": "公制細螺紋",
         "optionC": "統一粗螺紋",
         "optionD": "統一細螺紋",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "M20 ×2 表示螺紋為?",
@@ -4069,7 +4069,7 @@
         "optionB": "干涉配合",
         "optionC": "粗螺紋",
         "optionD": "細螺紋",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "下列何者為左螺紋之正確標註?",
@@ -4077,7 +4077,7 @@
         "optionB": "M25",
         "optionC": "LM25",
         "optionD": "2 NM25",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "一般使用在油管或水管接頭之螺紋代號為?",
@@ -4085,7 +4085,7 @@
         "optionB": "R",
         "optionC": "Tr",
         "optionD": "Rd",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "螺紋牙規可測量螺紋的?",
@@ -4093,7 +4093,7 @@
         "optionB": "螺距",
         "optionC": "節距",
         "optionD": "導程",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "製造內螺紋使用?",
@@ -4101,7 +4101,7 @@
         "optionB": "螺絲攻",
         "optionC": "螺釘",
         "optionD": "螺栓",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "測量螺紋時，使用三線測量法是測其?",
@@ -4109,7 +4109,7 @@
         "optionB": "小徑",
         "optionC": "節徑",
         "optionD": "螺距",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "埋頭螺釘其頭部的錐面夾角一般為?",
@@ -4117,7 +4117,7 @@
         "optionB": "105°",
         "optionC": "90°",
         "optionD": "60°",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "L2N M12 的『L2N』表示螺紋?",
@@ -4125,7 +4125,7 @@
         "optionB": "雙線左旋",
         "optionC": "單線右旋",
         "optionD": "單線左旋",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "雙線螺紋的導程為 2 ㎜，其螺距為?",
@@ -4133,7 +4133,7 @@
         "optionB": "1 ㎜",
         "optionC": "1.5 ㎜",
         "optionD": "2 ㎜",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "雙線螺紋旋轉一圈沿軸向移動的距離是為?",
@@ -4141,7 +4141,7 @@
         "optionB": "導程",
         "optionC": "螺距",
         "optionD": "小徑",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "結合兩機件，一件常須拆卸使用貫穿孔， 另一機件使用內孔螺紋可用?",
@@ -4149,7 +4149,7 @@
         "optionB": "螺樁",
         "optionC": "鉚釘",
         "optionD": "銷",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "兩機件皆為貫穿孔， 結合兩機件時常用?",
@@ -4157,7 +4157,7 @@
         "optionB": "螺樁與螺帽",
         "optionC": "固定螺釘",
         "optionD": "有頭螺釘",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "下列哪一種螺紋傳遞動力效果最佳?",
@@ -4165,7 +4165,7 @@
         "optionB": "三角形螺紋",
         "optionC": "方形螺紋",
         "optionD": "圓形螺紋",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "工作圖中，標準零件的規格應標註於?",
@@ -4173,7 +4173,7 @@
         "optionB": "組合圖中",
         "optionC": "標題欄內",
         "optionD": "零件表內",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "端面車削精車時一般是?",
@@ -4181,7 +4181,7 @@
         "optionB": "由外向內車削",
         "optionC": "由半徑中點向內車削",
         "optionD": "視工件大小而定",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "表示局部剖面之斷裂處的畫法用?",
@@ -4189,7 +4189,7 @@
         "optionB": "不規則連續線",
         "optionC": "剖面線",
         "optionD": "割面線",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "較長的物體可將其間部分中斷不繪， 以節省空間， 此稱為?",
@@ -4197,7 +4197,7 @@
         "optionB": "中斷視圖",
         "optionC": "轉正視圖",
         "optionD": "局部視圖",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "直立角錐體常以?",
@@ -4205,7 +4205,7 @@
         "optionB": "2 個",
         "optionC": "3 個",
         "optionD": "4 個 視圖表示",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "工作圖包括零件圖與?",
@@ -4213,7 +4213,7 @@
         "optionB": "立體圖",
         "optionC": "立體系統圖",
         "optionD": "輪廓組合圖",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "零件圖標題欄中之數量表示?",
@@ -4221,7 +4221,7 @@
         "optionB": "每一批所須發工之數量",
         "optionC": "每一批裝配所需之數量",
         "optionD": "安全庫存量",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "虎鉗之大小的表示法是?",
@@ -4229,7 +4229,7 @@
         "optionB": "鉗口張開的最大尺寸",
         "optionC": "鉗口寬度",
         "optionD": "虎鉗螺栓的全長",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "栓槽轂孔之切製主要以?",
@@ -4237,7 +4237,7 @@
         "optionB": "銑削成",
         "optionC": "拉削成",
         "optionD": "磨削成",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "圓錐銷孔最後之加工是以?",
@@ -4245,7 +4245,7 @@
         "optionB": "鉸削成",
         "optionC": "拉削成",
         "optionD": "車削成",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "為表示肋之橫斷面形狀，通常之表示為?",
@@ -4253,7 +4253,7 @@
         "optionB": "旋轉剖面",
         "optionC": "半剖面",
         "optionD": "全剖面",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "粗磨後之精磨裕留量，一般約為?",
@@ -4261,7 +4261,7 @@
         "optionB": "0.05 ㎜",
         "optionC": "0.1 ㎜",
         "optionD": "0.5 ㎜",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "使用於同一形狀而尺度大小各異之物體上，在一圖之尺度線上註入參考字母或符號，而由附表中列示大小之圖形稱為?",
@@ -4269,7 +4269,7 @@
         "optionB": "列表圖",
         "optionC": "標準圖",
         "optionD": "零件圖",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "識圖時，應仔細觀察?",
@@ -4277,7 +4277,7 @@
         "optionB": "俯視圖",
         "optionC": "側視圖",
         "optionD": "前視、俯視及側視等圖",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "欲將物體之外形與內部同時表現在一視圖可用?",
@@ -4285,7 +4285,7 @@
         "optionB": "半剖面",
         "optionC": "移轉剖面",
         "optionD": "旋轉剖面",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "在第三角投影法中，前視圖為全剖面視圖，俯視圖為半視圖時此半視圖應繪物體的?",
@@ -4293,7 +4293,7 @@
         "optionB": "後半部",
         "optionC": "左半部",
         "optionD": "右半部",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "一個視圖成對稱時， 只畫出中心線之一側，而省略其他一半的視圖，稱為?",
@@ -4301,7 +4301,7 @@
         "optionB": "中斷視圖",
         "optionC": "轉正視圖",
         "optionD": "局部視圖",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "繪製工作圖時， 對於一般標準機件， 為求完整?",
@@ -4309,7 +4309,7 @@
         "optionB": "不須繪製零件圖但須有規格",
         "optionC": "須繪製零件圖且有規格",
         "optionD": "不一定",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "車床主軸孔及其刀具附件柄常用之錐度為?",
@@ -4317,7 +4317,7 @@
         "optionB": "白氏錐度5 號(B& ST)",
         "optionC": "加農錐度 10 號(J. T)",
         "optionD": "銑床標準錐度 20 號(N. T)",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "工作圖中最常用之投影法為?",
@@ -4325,7 +4325,7 @@
         "optionB": "斜視圖法",
         "optionC": "鳥瞰圖法",
         "optionD": "正投影法",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "我國標準投影法係採用?",
@@ -4333,7 +4333,7 @@
         "optionB": "第三角法",
         "optionC": "第一角、第三角同時適用",
         "optionD": "隨意任何角法皆可",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "剖面線通常皆繪與水平線成?",
@@ -4341,7 +4341,7 @@
         "optionB": "60°",
         "optionC": "45°",
         "optionD": "30°",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "一張完整工件圖?",
@@ -4349,7 +4349,7 @@
         "optionB": "須附實物",
         "optionC": "須加畫立體圖",
         "optionD": "須加口頭說明 ，即能製造零件",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "一般機械傳動用齒輪之輪齒法向剖面為?",
@@ -4357,7 +4357,7 @@
         "optionB": "漸開線",
         "optionC": "渦線",
         "optionD": "拋物線",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "割面線上之箭頭表示?",
@@ -4365,7 +4365,7 @@
         "optionB": "切割面的移動方向",
         "optionC": "物體的移動方向",
         "optionD": "視圖的投影方向",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "一般繪鑽頭之鑽唇角為?",
@@ -4373,7 +4373,7 @@
         "optionB": "120°",
         "optionC": "135°",
         "optionD": "150°",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "物體在斜面上的法線視圖，稱為?",
@@ -4381,7 +4381,7 @@
         "optionB": "輔助視圖",
         "optionC": "斜視圖",
         "optionD": "側視圖",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "組合圖中各零件之件號線為?",
@@ -4389,7 +4389,7 @@
         "optionB": "細實線",
         "optionC": "中鏈線",
         "optionD": "中實線",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "回火之目的是使鋼件?",
@@ -4397,7 +4397,7 @@
         "optionB": "硬化",
         "optionC": "韌化",
         "optionD": "消除應力",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "絞孔工作是為?",
@@ -4405,7 +4405,7 @@
         "optionB": "擴大孔徑尺度",
         "optionC": "修正孔的位置",
         "optionD": "調整孔徑的錐度",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "尺度若需要標註於剖面內，則與數字重疊的剖面線應?",
@@ -4413,7 +4413,7 @@
         "optionB": "斷開",
         "optionC": "拉長",
         "optionD": "照畫",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "三邊形的歪面在主要視圖中為?",
@@ -4421,7 +4421,7 @@
         "optionB": "一直線",
         "optionC": "正三邊形",
         "optionD": "任意三邊形",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "菱形壓花的習用表示法，是在圖面上畫?",
@@ -4429,7 +4429,7 @@
         "optionB": "細點線",
         "optionC": "細斜線",
         "optionD": "細交叉線",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "車削外螺紋時， 刀具的安裝應?",
@@ -4437,7 +4437,7 @@
         "optionB": "低於工作物之中心",
         "optionC": "與工作物之中心等高",
         "optionD": "視工作物材質而定",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "移轉剖面除非部位明顯，否則應加註?",
@@ -4445,7 +4445,7 @@
         "optionB": "大小",
         "optionC": "形狀",
         "optionD": "代號 以標明切割面",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "一直線與水平投影面垂直，則直立投影可投影成?",
@@ -4453,7 +4453,7 @@
         "optionB": "任意直線",
         "optionC": "與該直線同長之直線",
         "optionD": "一平面",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "一般視圖中，某部位太小不易標記尺度或標明形狀時，可將該部位適當的放大比例繪製，稱為?",
@@ -4461,7 +4461,7 @@
         "optionB": "虛擬視圖",
         "optionC": "局部視圖",
         "optionD": "轉正視圖",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "表示圓弧面之視圖中，若發現有一交叉之細實線是表示該處?",
@@ -4469,7 +4469,7 @@
         "optionB": "須特殊加工",
         "optionC": "為一平面",
         "optionD": "須熱處理",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "零件圖中，每面的表面粗糙度加工情形完全相同， 其表面符號應?",
@@ -4477,7 +4477,7 @@
         "optionB": "每一加工面均標註",
         "optionC": "標註在其中一面即可",
         "optionD": "全部省略",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "組合圖的件號線由該零件內引出，在零件內的一端應加畫?",
@@ -4485,7 +4485,7 @@
         "optionB": "一黑方點",
         "optionC": "一小圓圈",
         "optionD": "一小黑圓點",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "鑽削工作，鑽頭直徑與轉數之關係為?",
@@ -4493,7 +4493,7 @@
         "optionB": "鑽頭直徑小轉數要快",
         "optionC": "兩者無關係",
         "optionD": "不一定",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "車床尾座之組合圖， 在車床工作圖中為?",
@@ -4501,7 +4501,7 @@
         "optionB": "配置組合圖",
         "optionC": "輪廓組合圖",
         "optionD": "系統組合圖",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "下列何種機件在組合圖中通常不予剖切?",
@@ -4509,7 +4509,7 @@
         "optionB": "螺帽",
         "optionC": "帶輪",
         "optionD": "飛輪",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "機件上某一部位，須作特殊加工時，在視圖上相關部位用平行而稍離輪廓線外畫?",
@@ -4517,7 +4517,7 @@
         "optionB": "粗實線",
         "optionC": "粗點線",
         "optionD": "一點粗鏈線",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "在某視圖中並不存在的特徵， 為表明形狀及相關位置而繪製的視圖，稱為?",
@@ -4525,7 +4525,7 @@
         "optionB": "轉正視圖",
         "optionC": "局部視圖",
         "optionD": "虛擬視圖",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "描述機械中零件之位置及其關係的圖，稱為?",
@@ -4533,7 +4533,7 @@
         "optionB": "組合圖",
         "optionC": "配置圖",
         "optionD": "零件圖",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "零件表之排列順序一般是?",
@@ -4541,7 +4541,7 @@
         "optionB": "較大者居前，標準零件殿後",
         "optionC": "依組合順序而定",
         "optionD": "任意排列",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "下列組合圖中， 那一種可沿中心線剖切?",
@@ -4549,7 +4549,7 @@
         "optionB": "鍵",
         "optionC": "鉚釘",
         "optionD": "齒輪",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "一般視圖中薄片零件的剖面線可?",
@@ -4557,7 +4557,7 @@
         "optionB": "畫與長邊垂直之細線",
         "optionC": "畫與長邊平行之細線",
         "optionD": "不必加任何線",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "物體位於投影面與觀察者之間的投影法， 稱為?",
@@ -4565,7 +4565,7 @@
         "optionB": "第二角",
         "optionC": "第三角",
         "optionD": "第四角 投影法",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "閱讀工作圖的第一步驟是先判別視圖的?",
@@ -4573,7 +4573,7 @@
         "optionB": "投影法",
         "optionC": "零件數",
         "optionD": "材料",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "組合圖中，通常可省略的線為?",
@@ -4581,7 +4581,7 @@
         "optionB": "隱藏線",
         "optionC": "剖面線",
         "optionD": "輪廓線",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "一般機器用量測工具，其公差等級是在?",
@@ -4589,7 +4589,7 @@
         "optionB": "IT5～IT8",
         "optionC": "IT9 ～IT12",
         "optionD": "IT13 ～IT16",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "在裝配圖中，對於軸之橫向剖面?",
@@ -4597,7 +4597,7 @@
         "optionB": "應畫剖面線",
         "optionC": "視材質而定",
         "optionD": "一律塗黑",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "肋或軸之橫剖面常繪製成?",
@@ -4605,7 +4605,7 @@
         "optionB": "全剖面",
         "optionC": "半剖面",
         "optionD": "旋轉剖面",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "將物體與投影面不平行的部位旋轉至與投影面平行，然後繪出此部位的視圖，稱為?",
@@ -4613,7 +4613,7 @@
         "optionB": "中斷視圖",
         "optionC": "轉正視圖",
         "optionD": "局部視圖",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "操作使用最簡單的刻線量具是?",
@@ -4621,7 +4621,7 @@
         "optionB": "分厘卡",
         "optionC": "鋼尺",
         "optionD": "萬能角度儀",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "機工場用公制鋼尺的最小刻度是?",
@@ -4629,7 +4629,7 @@
         "optionB": "1 ㎝",
         "optionC": "0.5 ㎜",
         "optionD": "0. 5 ㎝",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "一般游標卡尺無法直接測量的項目是?",
@@ -4637,7 +4637,7 @@
         "optionB": "內徑",
         "optionC": "錐度",
         "optionD": "深度",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "公制標準游標卡尺之測量精度，一般大多為?",
@@ -4645,7 +4645,7 @@
         "optionB": "0.02 ㎜",
         "optionC": "0.04 ㎜",
         "optionD": "0.1 ㎜",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "一般使用角度的計算是?",
@@ -4653,7 +4653,7 @@
         "optionB": "12 進位",
         "optionC": "60 進位",
         "optionD": "100 進位",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "常用游標高度規的精度可達?",
@@ -4661,7 +4661,7 @@
         "optionB": "0 .02 ㎜",
         "optionC": "0.05 ㎜",
         "optionD": "0. 1 ㎜",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "表面硬化之滲碳法適用材質為?",
@@ -4669,7 +4669,7 @@
         "optionB": "中碳鋼",
         "optionC": "高碳鋼",
         "optionD": "工具鋼",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "重量輕、延展性高、強度大且耐腐蝕之材料為?",
@@ -4677,7 +4677,7 @@
         "optionB": "鐵",
         "optionC": "鋁合金",
         "optionD": "鉛",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "莫斯錐度常用於下列那些機器主軸孔?",
@@ -4685,7 +4685,7 @@
         "optionB": "鉋床及鑽床",
         "optionC": "車床及鉋床",
         "optionD": "車床及鑽床",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "量測精度較高的量具為?",
@@ -4693,7 +4693,7 @@
         "optionB": "外卡",
         "optionC": "游標卡尺",
         "optionD": "分厘卡",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "一般公制刻度分厘卡規格為 25 者，可量?",
@@ -4701,7 +4701,7 @@
         "optionB": "0. 001～25 ㎜",
         "optionC": "0.1～25 ㎜",
         "optionD": "1～25 ㎜",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "量錶依用途分為下列哪兩類?",
@@ -4709,7 +4709,7 @@
         "optionB": "大量錶與小量錶",
         "optionC": "長針量錶與短針量錶",
         "optionD": "大分劃量錶與小分劃量錶",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "欲測量圓柱的外徑用?",
@@ -4717,7 +4717,7 @@
         "optionB": "半徑規",
         "optionC": "內卡",
         "optionD": "中心規",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "工廠俗稱「1 條」， 其單位為?",
@@ -4725,7 +4725,7 @@
         "optionB": "0.01 ㎜",
         "optionC": "0.001 ㎜",
         "optionD": "0.0001 ㎜",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "rpm 是代表?",
@@ -4733,7 +4733,7 @@
         "optionB": "每分鐘轉數",
         "optionC": "每小時轉數",
         "optionD": "每分鐘切削速度",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "下列機件何者在零件圖中可省略不予繪出，但需在零件表內加註規格?",
@@ -4741,7 +4741,7 @@
         "optionB": "傳動軸",
         "optionC": "齒輪",
         "optionD": "螺釘",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "工作圖中，不可用剖視圖表示之零件?",
@@ -4749,7 +4749,7 @@
         "optionB": "皮帶輪",
         "optionC": "軸承",
         "optionD": "斜梢",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "將金屬圓棒表面壓花，可用?",
@@ -4757,7 +4757,7 @@
         "optionB": "鉋床",
         "optionC": "鑽床",
         "optionD": "車床",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "一般用來鑽削大件且笨重工作物的理想機器是?",
@@ -4765,7 +4765,7 @@
         "optionB": "多軸鑽床",
         "optionC": "靈敏鑽床",
         "optionD": "懸臂鑽床",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "最需要使用防鬆螺帽的場合為?",
@@ -4773,7 +4773,7 @@
         "optionB": "受剪力處",
         "optionC": "重負荷",
         "optionD": "易生震動處",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "用鑽頭鑽不穿通的孔，則其孔底的錐角在圖中應繪成?",
@@ -4781,7 +4781,7 @@
         "optionB": "90°",
         "optionC": "120°",
         "optionD": "150°",
-        "answerNo": "C"
+        "answerNo": "3"
     },
     {
         "question": "組合圖中，標準零件之規格應標示於?",
@@ -4789,7 +4789,7 @@
         "optionB": "標題欄",
         "optionC": "零件圖",
         "optionD": "零件表82. ( 2) 在輪軸上加工鍵座， 通常使用到",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "圖面上註解「滲碳 0. 5」中，「0.5 」之單位為?",
@@ -4797,7 +4797,7 @@
         "optionB": "㎜",
         "optionC": "cm",
         "optionD": "dm",
-        "answerNo": "B"
+        "answerNo": "2"
     },
     {
         "question": "在機械工作圖中，儘量使用?",
@@ -4805,7 +4805,7 @@
         "optionB": "透視圖",
         "optionC": "等角圖",
         "optionD": "正投影視圖 來表示物體之形狀",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "在不影響視圖之判讀時，繪製組合圖可省略下列何種線條?",
@@ -4813,7 +4813,7 @@
         "optionB": "剖面線",
         "optionC": "件號線",
         "optionD": "隱藏線",
-        "answerNo": "D"
+        "answerNo": "4"
     },
     {
         "question": "一般工廠的零件工作圖，原則上一張圖紙畫幾個零件?",
@@ -4821,7 +4821,7 @@
         "optionB": "二個",
         "optionC": "三個",
         "optionD": "四個",
-        "answerNo": "A"
+        "answerNo": "1"
     },
     {
         "question": "零件工作圖中， 下列何者與製造、檢驗無關?",
@@ -4829,6 +4829,6 @@
         "optionB": "公差配合",
         "optionC": "比例大小",
         "optionD": "加工方法",
-        "answerNo": "C"
+        "answerNo": "3"
     }
 ]
